@@ -1,0 +1,405 @@
+wavfile,ground_truth,ASR_recognition,wer,cer,pesq
+sim_NM_amp_nn_oc11_h15_2,Guess the result from the first scores.,Guess the result from the first scores.,0.0,0.0,1.0221141576766968
+sim_NM_amp_nn_oc02_h17_8,He knew the skill of the great young actress.,"The office paint was a dull, sad tan.",1.0,0.7777777777777778,1.028681755065918
+sim_NM_amp_nn_oc17_h12_4,"Split the log with a quick, sharp blow.",Split the log with a quick sharp blow.,0.125,0.02564102564102564,1.0264111757278442
+sim_NM_na_nn_oc02_h17_3,Drop the two when you add the figures.,Drop the two when you add the figures.,0.0,0.0,1.0267038345336914
+sim_NM_na_nn_pd16_h2_10,The girl at the booth sold fifty bonds.,.,1.0,0.9743589743589743,1.0238317251205444
+sim_NM_amp_nn_pd14_h18_6,Sunday is the best part of the week.,Sunday is the best part of the week.,0.0,0.0,1.0400892496109009
+sim_NM_na_nn_oc17_h12_4,"Split the log with a quick, sharp blow.",Split the log with a quick sharp blow.,0.125,0.02564102564102564,1.0225316286087036
+sim_NM_amp_nn_pd09_h14_7,Write a fond note to the friend you cherish.,Where to find note to a friend you cherish.,0.4444444444444444,0.20454545454545456,1.0469890832901
+sim_NM_amp_nn_pd09_h14_9,We frown when events take a bad turn.,We thrown one of events take a bad turn.,0.375,0.1891891891891892,1.0329495668411255
+sim_NM_amp_nn_oc06_h16_5,The urge to write short stories is rare.,The urge to write short stories is rare.,0.0,0.0,1.0330092906951904
+sim_NM_na_nn_oc05_h2_8,The soft cushion broke the man's fall.,The the soft cushion broke the man's fall.,0.14285714285714285,0.10526315789473684,1.0239574909210205
+sim_NM_na_nn_oc08_h14_6,Bring your problems to the wise chief.,"Bring your problems to the wise, chief.",0.14285714285714285,0.02631578947368421,1.0259298086166382
+sim_NM_na_nn_pd05_h2_8,The soft cushion broke the man's fall.,So of course you broke the man's fall.,0.5714285714285714,0.2894736842105263,1.0348665714263916
+sim_NM_amp_nn_pd11_h15_2,Guess the result from the first scores.,Guess the result from the first scores.,0.0,0.0,1.0319749116897583
+sim_NM_na_nn_oc05_h2_9,The salt breeze came across from the sea.,The soil breeze came from across the sea.,0.375,0.2682926829268293,1.0217255353927612
+sim_NM_amp_nn_pd05_h2_3,The source of the huge river is the clear spring.,Source of the huge river is the clear spring.,0.2,0.10204081632653061,1.027292013168335
+sim_NM_amp_nn_pd14_h18_4,The sky that morning was clear and bright blue.,The sky that morning was clear and bright blue.,0.0,0.0,1.039509654045105
+sim_NM_na_nn_oc07_h12_6,He ordered peach pie with ice cream.,He ordered Peach pie with ice cream.,0.14285714285714285,0.027777777777777776,1.0220797061920166
+sim_NM_amp_nn_oc05_h2_1,The boy was there when the sun rose.,The boy was there when the sun rose.,0.0,0.0,1.0309962034225464
+sim_NM_amp_nn_pd08_h14_9,We frown when events take a bad turn.,We found when events take a bad turn.,0.125,0.08108108108108109,1.0464093685150146
+sim_NM_amp_nn_oc07_h12_1,The bark of the pine tree was shiny and dark.,The bark of the pine tree was shiny and dark.,0.0,0.0,1.0339373350143433
+sim_NM_amp_nn_oc04_h15_7,The tree top waved in a graceful way.,The treetop waved in a graceful way.,0.25,0.02702702702702703,1.038208246231079
+sim_NM_na_nn_oc06_h16_2,A speedy man can beat this track mark.,A speedy man can beat this track mark.,0.0,0.0,1.0211777687072754
+sim_NM_na_nn_oc17_h12_10,We find joy in the simplest things.,We find joy in the simplest things.,0.0,0.0,1.020317554473877
+sim_NM_amp_nn_oc05_h2_2,A rod is used to catch pink salmon.,A rod is used to catch pink salmon.,0.0,0.0,1.0341651439666748
+sim_NM_amp_nn_pd16_h2_3,The source of the huge river is the clear spring.,The source of the huge river is the clear spring.,0.0,0.0,1.0280156135559082
+sim_NM_na_nn_pd15_h15_6,Pure bred poodles have curls.,Purebred poodles have curls.,0.4,0.034482758620689655,1.0249625444412231
+sim_NM_na_nn_pd04_h15_8,The spot on the blotter was made by green ink.,The spot on the bladder was made by green ink.,0.1,0.06521739130434782,1.0370807647705078
+sim_NM_na_nn_pd16_h2_8,The soft cushion broke the man's fall.,.,1.0,0.9736842105263158,1.0310330390930176
+sim_NM_amp_nn_oc02_h17_1,The jacket hung on the back of the wide chair.,The jacket hung on the back of the wide chair.,0.0,0.0,1.1922789812088013
+sim_NM_amp_nn_pd15_h15_5,Those thistles bend in a high wind.,Those thistles bend in a high wind.,0.0,0.0,1.0331175327301025
+sim_NM_na_nn_pd15_h15_3,A salt pickle tastes fine with ham.,A salt pickle tastes fine with ham.,0.0,0.0,1.0291078090667725
+sim_NM_na_nn_oc17_h12_3,The pennant waved when the wind blew.,The Pennant waved when the wind blew.,0.14285714285714285,0.02702702702702703,1.0200830698013306
+sim_NM_amp_nn_pd11_h15_5,Those thistles bend in a high wind.,Those thistles bend in high in high wind.,0.2857142857142857,0.2,1.0322983264923096
+sim_NM_amp_nn_pd01_h18_2,The child almost hurt the small dog.,.,1.0,0.9722222222222222,1.036275029182434
+sim_NM_na_nn_oc08_h14_4,Two plus seven is less than ten.,2 + 7 is less than 10.,0.5714285714285714,0.46875,1.0310063362121582
+sim_NM_na_nn_oc11_h15_8,The spot on the blotter was made by green ink.,The spot in the blood blotter was made by green ink.,0.2,0.15217391304347827,1.031659722328186
+sim_NM_amp_nn_pd12_h10_2,A wisp of cloud hung in the blue air.,A wisp of cloud hung in the blue air.,0.0,0.0,1.0316208600997925
+sim_NM_amp_nn_pd06_h16_1,The empty flask stood on the tin tray.,The empty flasks stood on the tin tray.,0.125,0.02631578947368421,1.0356276035308838
+sim_NM_amp_nn_pd11_h15_9,Mud was spattered on the front of his white shirt.,Mud was spattered on the front of his white shirt.,0.0,0.0,1.042424201965332
+sim_NM_amp_nn_oc17_h12_5,Burn peat after the logs give out.,Burnt Peak after the logs give out.,0.2857142857142857,0.08823529411764706,1.0287550687789917
+sim_NM_na_nn_pd01_h18_9,They felt gay when the ship arrived in port.,They felt gay when the ship arrived in port.,0.0,0.0,1.0209887027740479
+sim_NM_amp_nn_oc02_h17_3,Drop the two when you add the figures.,Drop the two when you add the figures.,0.0,0.0,1.0340101718902588
+sim_NM_amp_nn_pd01_h18_6,Sunday is the best part of the week.,Sunday is the best part of the week.,0.0,0.0,1.03025484085083
+sim_NM_amp_nn_pd04_h15_6,Pure bred poodles have curls.,Purebred poodles have curls.,0.4,0.034482758620689655,1.0232735872268677
+sim_NM_amp_nn_pd05_h2_8,The soft cushion broke the man's fall.,Soft cushion broke the man's fall.,0.2857142857142857,0.13157894736842105,1.0362616777420044
+sim_NM_amp_nn_pd12_h10_9,Ten pins were set in order.,10 pins were set in order.,0.16666666666666666,0.1111111111111111,1.1685429811477661
+sim_NM_na_nn_pd14_h18_9,They felt gay when the ship arrived in port.,They felt gay when the ship arrived and parked.,0.2222222222222222,0.13636363636363635,1.0221257209777832
+sim_NM_amp_nn_pd12_h10_8,A Tusk is used to make costly gifts.,A test is used to make costly gifts.,0.125,0.08333333333333333,1.0280895233154297
+sim_NM_na_nn_oc02_h17_1,The jacket hung on the back of the wide chair.,The jacket hung on the back of the wide chair.,0.0,0.0,1.1628894805908203
+sim_NM_na_nn_pd05_h2_4,Kick the ball straight and follow through.,Kick the ball straight and follow through.,0.0,0.0,1.034497857093811
+sim_NM_amp_nn_oc09_h14_2,He said the same phrase thirty times.,He said the same phrase 30 times.,0.14285714285714285,0.16216216216216217,1.0288327932357788
+sim_NM_na_nn_oc06_h16_9,She sewed the torn coat quite neatly.,She sewed the torn coat quite neatly.,0.0,0.0,1.0265557765960693
+sim_NM_na_nn_pd15_h15_10,The cigar burned a hole in the desk top.,The cigar burned a hole in the desktop.,0.2222222222222222,0.025,1.031455397605896
+sim_NM_na_nn_pd08_h14_4,Two plus seven is less than ten.,2 + 7 is less than 10.,0.5714285714285714,0.46875,1.0245472192764282
+sim_NM_amp_nn_pd06_h16_2,A speedy man can beat this track mark.,A speedy man can be his this track mark.,0.25,0.10526315789473684,1.021222710609436
+sim_NM_na_nn_oc16_h2_4,Kick the ball straight and follow through.,Kicked the ball straight and follow through.,0.14285714285714285,0.047619047619047616,1.0264084339141846
+sim_NM_amp_nn_pd15_h15_6,Pure bred poodles have curls.,Purebred poodles have curls.,0.4,0.034482758620689655,1.032520055770874
+sim_NM_na_nn_oc02_h17_6,Wood is best for making toys and blocks.,.,1.0,0.975,1.0319708585739136
+sim_NM_amp_nn_oc07_h12_7,Weave the carpet on the right hand side.,Weave the carpet on the right hand side.,0.0,0.0,1.0333099365234375
+sim_NM_amp_nn_oc11_h15_1,The young kid jumped the rusty gate.,The young kid jumped the rusty gate.,0.0,0.0,1.0316801071166992
+sim_NM_na_nn_oc07_h12_2,Leaves turn brown and yellow in the fall.,Leaves turned brown and yellow in the fall.,0.125,0.04878048780487805,1.0255388021469116
+sim_NM_na_nn_pd14_h18_5,Torn scraps littered the stone floor.,Torn scraps littered the stone floor.,0.0,0.0,1.021936297416687
+sim_NM_amp_nn_pd09_h14_8,Clothes and lodging are free to new men.,Clothes and lodging are free to the new men.,0.125,0.1,1.043644905090332
+sim_NM_amp_nn_oc17_h12_3,The pennant waved when the wind blew.,The Pennant waved when the wind blew.,0.14285714285714285,0.02702702702702703,1.0280194282531738
+sim_NM_na_nn_oc16_h2_1,The boy was there when the sun rose.,The boy was there when the sun rose.,0.0,0.0,1.0261423587799072
+sim_NM_na_nn_oc05_h2_5,Help the woman get back to her feet.,Help the woman get back to her feet.,0.0,0.0,1.022655963897705
+sim_NM_na_nn_oc04_h15_3,A salt pickle tastes fine with ham.,A salt pickle tastes fine with ham.,0.0,0.0,1.0230705738067627
+sim_NM_na_nn_oc07_h12_9,A lame back kept his score low.,Elaine Beck kept his score low.,0.42857142857142855,0.1935483870967742,1.0252307653427124
+sim_NM_na_nn_oc07_h12_4,"Split the log with a quick, sharp blow.",.,1.0,0.9743589743589743,1.0228861570358276
+sim_NM_amp_nn_pd08_h14_2,He said the same phrase thirty times.,He said the small phrase 30 times.,0.2857142857142857,0.24324324324324326,1.0367110967636108
+sim_NM_na_nn_pd08_h14_2,He said the same phrase thirty times.,He said the small phrase 30 times.,0.2857142857142857,0.24324324324324326,1.0209593772888184
+sim_NM_na_nn_pd16_h2_1,The boy was there when the sun rose.,The boy was there when the sun rose.,0.0,0.0,1.0279808044433594
+sim_NM_na_nn_oc07_h12_8,Hemp is a weed found in parts of the tropics.,Hemp is a weed found in parts of the tropics.,0.0,0.0,1.0300240516662598
+sim_NM_amp_nn_oc09_h14_3,Pluck the bright rose without leaves.,Pluck the bright rose without leaves.,0.0,0.0,1.0377446413040161
+sim_NM_amp_nn_pd05_h2_6,A pot of tea helps to pass the evening.,Parity helps you pass the evening.,0.5555555555555556,0.3333333333333333,1.0291870832443237
+sim_NM_na_nn_pd15_h15_1,The young kid jumped the rusty gate.,The young kid jumped the rusty gate.,0.0,0.0,1.0251106023788452
+sim_NM_na_nn_pd04_h15_2,Guess the result from the first scores.,Guess the result from the first scores.,0.0,0.0,1.0212429761886597
+sim_NM_na_nn_pd01_h18_5,Torn scraps littered the stone floor.,Torn scraps littered the stone floor.,0.0,0.0,1.0235460996627808
+sim_NM_na_nn_oc04_h15_1,The young kid jumped the rusty gate.,The young kid jumped the rusty gate.,0.0,0.0,1.0236964225769043
+sim_NM_amp_nn_oc02_h17_6,Wood is best for making toys and blocks.,What is best for making toys and blocks.,0.125,0.075,1.0415350198745728
+sim_NM_na_nn_pd12_h10_9,Ten pins were set in order.,10 pins were set in order.,0.16666666666666666,0.1111111111111111,1.0517226457595825
+sim_NM_na_nn_oc06_h16_4,The coffee stand is too high for the couch.,The coffee stand is too high for the couch.,0.0,0.0,1.0311464071273804
+sim_NM_amp_nn_pd01_h18_8,The new girl was fired today at noon.,The New Girl was fired today at noon.,0.25,0.05405405405405406,1.026134729385376
+sim_NM_amp_nn_pd16_h2_6,A pot of tea helps to pass the evening.,A pot of tea helps to pass the evening.,0.0,0.0,1.0350793600082397
+sim_NM_amp_nn_pd04_h15_7,The tree top waved in a graceful way.,The tree top waved in a graceful way.,0.0,0.0,1.029237985610962
+sim_NM_amp_nn_oc08_h14_5,The glow deepened in the eyes of the sweet girl.,The glow deepened in the eyes of the sweet girl.,0.0,0.0,1.0374888181686401
+sim_NM_amp_nn_oc04_h15_2,Guess the result from the first scores.,Guess the result from the first scores.,0.0,0.0,1.0220310688018799
+sim_NM_na_nn_oc16_h2_5,Help the woman get back to her feet.,Help the woman get back to her feet.,0.0,0.0,1.022987723350525
+sim_NM_amp_nn_pd11_h15_6,Pure bred poodles have curls.,Prove it. Poodles have curls.,0.6,0.27586206896551724,1.0354504585266113
+sim_NM_na_nn_oc16_h2_2,A rod is used to catch pink salmon.,A ride is used to catch pink salmon.,0.125,0.05714285714285714,1.0462310314178467
+sim_NM_na_nn_pd16_h2_2,A rod is used to catch pink salmon.,A rod is used to catch pink salmon.,0.0,0.0,1.0298751592636108
+sim_NM_na_nn_oc17_h12_5,Burn peat after the logs give out.,Burnt peat after the logs give out.,0.14285714285714285,0.029411764705882353,1.0638219118118286
+sim_NM_amp_nn_oc06_h16_2,A speedy man can beat this track mark.,.,1.0,0.9736842105263158,1.0301120281219482
+sim_NM_na_nn_pd11_h15_7,The tree top waved in a graceful way.,The tree top wave in a graceful way.,0.125,0.02702702702702703,1.0233585834503174
+sim_NM_amp_nn_oc08_h14_8,Clothes and lodging are free to new men.,Clothes and lodging are free to new men.,0.0,0.0,1.0325700044631958
+sim_NM_na_nn_pd12_h10_10,The bill was paid every third week.,The bill was paid every 3rd week.,0.14285714285714285,0.08571428571428572,1.0217430591583252
+sim_NM_amp_nn_oc09_h14_6,Bring your problems to the wise chief.,"Bring your problems to the wise, chief.",0.14285714285714285,0.02631578947368421,1.0341331958770752
+sim_NM_na_nn_pd05_h2_3,The source of the huge river is the clear spring.,Source of the huge river is the clear spring.,0.2,0.10204081632653061,1.0204272270202637
+sim_NM_amp_nn_oc05_h2_9,The salt breeze came across from the sea.,The swap breeze came from across the sea.,0.375,0.2682926829268293,1.026537537574768
+sim_NM_amp_nn_pd06_h16_3,He broke a new shoelace that day.,He broke a new shoelace for that day.,0.14285714285714285,0.12121212121212122,1.0242829322814941
+sim_NM_na_nn_pd12_h10_5,The play seems dull and quite stupid.,.,1.0,0.972972972972973,1.0248600244522095
+sim_NM_amp_nn_oc16_h2_6,A pot of tea helps to pass the evening.,A pot of tea helps to pass the evening.,0.0,0.0,1.0234719514846802
+sim_NM_amp_nn_oc17_h12_9,A lame back kept his score low.,Elaine back kept his score low.,0.2857142857142857,0.12903225806451613,1.0268945693969727
+sim_NM_amp_nn_pd14_h18_2,The child almost hurt the small dog.,The child almost hurt the small dog.,0.0,0.0,1.0352859497070312
+sim_NM_amp_nn_oc17_h12_6,He ordered peach pie with ice cream.,He ordered Peach pie with ice cream.,0.14285714285714285,0.027777777777777776,1.0286521911621094
+sim_NM_na_nn_oc08_h14_2,He said the same phrase thirty times.,He said the same phrase 30 times.,0.14285714285714285,0.16216216216216217,1.0197561979293823
+sim_NM_na_nn_oc06_h16_5,The urge to write short stories is rare.,The urge to write short stories is rare.,0.0,0.0,1.0251505374908447
+sim_NM_amp_nn_pd14_h18_5,Torn scraps littered the stone floor.,Torn scraps littered the stone floor.,0.0,0.0,1.0298268795013428
+sim_NM_na_nn_oc16_h2_8,The soft cushion broke the man's fall.,The soft cushion broke the man's foam.,0.14285714285714285,0.07894736842105263,1.0248500108718872
+sim_NM_amp_nn_pd08_h14_7,Write a fond note to the friend you cherish.,Write a found node to the friend you cherish.,0.2222222222222222,0.045454545454545456,1.0449659824371338
+sim_NM_na_nn_pd12_h10_7,The term ended in late june that year.,The term ended in late June that year.,0.125,0.02631578947368421,1.030631184577942
+sim_NM_na_nn_pd04_h15_5,Those thistles bend in a high wind.,Those thistles bend in a high wind.,0.0,0.0,1.0281999111175537
+sim_NM_amp_nn_pd05_h2_9,The salt breeze came across from the sea.,So I'll breeze came across the sea.,0.375,0.2682926829268293,1.0348719358444214
+sim_NM_amp_nn_oc07_h12_3,The pennant waved when the wind blew.,The Pennant waved when the wind blew.,0.14285714285714285,0.02702702702702703,1.0302873849868774
+sim_NM_amp_nn_pd12_h10_7,The term ended in late june that year.,To term ended in late June that year.,0.25,0.07894736842105263,1.034230351448059
+sim_NM_amp_nn_oc04_h15_3,A salt pickle tastes fine with ham.,A salt pickle tastes fine with ham.,0.0,0.0,1.0279412269592285
+sim_NM_na_nn_pd11_h15_8,The spot on the blotter was made by green ink.,Spot on. The bladder was made by green ink.,0.5,0.21739130434782608,1.0351148843765259
+sim_NM_amp_nn_oc06_h16_7,The pirates seized the crew of the lost ship.,The Pirates seized the crew of the lost ship.,0.1111111111111111,0.022222222222222223,1.0285478830337524
+sim_NM_na_nn_oc08_h14_8,Clothes and lodging are free to new men.,Clothes and lodging are free to new men.,0.0,0.0,1.023681640625
+sim_NM_amp_nn_oc06_h16_8,We tried to replace the coin but failed.,We tried to replace the coin but failed.,0.0,0.0,1.0327397584915161
+sim_NM_na_nn_pd06_h16_4,The coffee stand is too high for the couch.,The coffee stand is too high for the couch.,0.0,0.0,1.0227067470550537
+sim_NM_amp_nn_oc08_h14_7,Write a fond note to the friend you cherish.,Write a fond note to the friend you cherish.,0.0,0.0,1.039777159690857
+sim_NM_amp_nn_oc11_h15_9,Mud was spattered on the front of his white shirt.,Mother was spattered on the front of his white shirt.,0.1,0.1,1.0311071872711182
+sim_NM_amp_nn_pd16_h2_10,The girl at the booth sold fifty bonds.,The girl at the booth sold 50 bonds.,0.125,0.1282051282051282,1.0304864645004272
+sim_NM_amp_nn_pd09_h14_2,He said the same phrase thirty times.,He said the same phrase 30 times.,0.14285714285714285,0.16216216216216217,1.03755521774292
+sim_NM_na_nn_pd16_h2_6,A pot of tea helps to pass the evening.,A pot of tea helps to pass the evening.,0.0,0.0,1.0228341817855835
+sim_NM_amp_nn_oc04_h15_6,Pure bred poodles have curls.,Purebred poodles have curls.,0.4,0.034482758620689655,1.0304901599884033
+sim_NM_amp_nn_oc02_h17_9,A rag will soak up spilled water.,He knew the skill of the great young actress.,1.2857142857142858,1.0303030303030303,1.0330042839050293
+sim_NM_amp_nn_pd06_h16_4,The coffee stand is too high for the couch.,That coffee stand is too high for the couch.,0.1111111111111111,0.046511627906976744,1.0276445150375366
+sim_NM_na_nn_pd01_h18_7,The doctor cured him with these pills.,Doctor cured him with these pills.,0.2857142857142857,0.13157894736842105,1.02193021774292
+sim_NM_amp_nn_oc17_h12_7,Weave the carpet on the right hand side.,Weave the carpet on the right hand side.,0.0,0.0,1.03742253780365
+sim_NM_amp_nn_oc16_h2_1,The boy was there when the sun rose.,The boy was there when the sun rose.,0.0,0.0,1.0301510095596313
+sim_NM_na_nn_pd16_h2_7,Smoky fires lack flame and heat.,Smoky fires lacked flame and heat.,0.16666666666666666,0.0625,1.0240387916564941
+sim_NM_na_nn_pd08_h14_9,We frown when events take a bad turn.,.,1.0,0.972972972972973,1.0289287567138672
+sim_NM_na_nn_pd14_h18_7,The doctor cured him with these pills.,The doctor cured him with these pills.,0.0,0.0,1.021894097328186
+sim_NM_na_nn_oc05_h2_1,The boy was there when the sun rose.,The boy was there when the sun rose.,0.0,0.0,1.0245546102523804
+sim_NM_amp_nn_oc17_h12_2,Leaves turn brown and yellow in the fall.,Leaves turn brown and yellow in the fall.,0.0,0.0,1.0315073728561401
+sim_NM_na_nn_oc11_h15_1,The young kid jumped the rusty gate.,The young kid jumped the rusty gate.,0.0,0.0,1.0262668132781982
+sim_NM_amp_nn_oc16_h2_4,Kick the ball straight and follow through.,Kick the ball straight and follow through.,0.0,0.0,1.0307607650756836
+sim_NM_na_nn_oc16_h2_10,The girl at the booth sold fifty bonds.,The girl at the booth sold 50 bonds.,0.125,0.1282051282051282,1.0303282737731934
+sim_NM_na_nn_pd05_h2_6,A pot of tea helps to pass the evening.,Party helps you pass the evening.,0.5555555555555556,0.3333333333333333,1.0260902643203735
+sim_NM_na_nn_pd05_h2_9,The salt breeze came across from the sea.,So I'll breeze came across the sea.,0.375,0.2682926829268293,1.0228710174560547
+sim_NM_na_nn_pd08_h14_7,Write a fond note to the friend you cherish.,Write a found node to defend you cherish.,0.4444444444444444,0.1590909090909091,1.0312168598175049
+sim_NM_amp_nn_pd05_h2_7,Smoky fires lack flame and heat.,Smoky flares like flame and heat.,0.3333333333333333,0.15625,1.0374882221221924
+sim_NM_amp_nn_pd14_h18_10,Add the store’s account to the last cent.,Add the stores account to the last sent.,0.25,0.04878048780487805,1.0330376625061035
+sim_NM_amp_nn_pd09_h14_10,Port is a strong wine with a smoky taste.,Porter is a strong wine with a smoky taste.,0.1111111111111111,0.04878048780487805,1.0324811935424805
+sim_NM_na_nn_pd11_h15_6,Pure bred poodles have curls.,Prove it. Poodles have curls.,0.6,0.27586206896551724,1.0209580659866333
+sim_NM_na_nn_pd01_h18_10_r,Add the store’s account to the last cent.,Add the stores account to the last.,0.375,0.14634146341463414,1.035943865776062
+sim_NM_na_nn_pd15_h15_2,Guess the result from the first scores.,Guess the result from the first scores.,0.0,0.0,1.0273667573928833
+sim_NM_amp_nn_oc02_h17_10,A shower of dirt fell from the hot pipes.,A rag will soak up spilled water.,0.8888888888888888,0.7317073170731707,1.0398728847503662
+sim_NM_na_nn_pd09_h14_3,Pluck the bright rose without leaves.,Pluck the bright rows without Lee.,0.3333333333333333,0.16216216216216217,1.0273997783660889
+sim_NM_amp_nn_oc08_h14_10,Port is a strong wine with a smoky taste.,Port is a strong wine with a smoky taste.,0.0,0.0,1.039422631263733
+sim_NM_na_nn_oc06_h16_3,He broke a new shoelace that day.,He broke a new shoelace that day.,0.0,0.0,1.023271918296814
+sim_NM_na_nn_oc16_h2_3,The source of the huge river is the clear spring.,The source of the huge river is the clear spring.,0.0,0.0,1.0336830615997314
+sim_NM_amp_nn_oc07_h12_4,"Split the log with a quick, sharp blow.",Spread the log with a quick sharp blow.,0.25,0.1282051282051282,1.0288596153259277
+sim_NM_na_nn_pd05_h2_1,The boy was there when the sun rose.,The boy was there when the sun rose.,0.0,0.0,1.0183351039886475
+sim_NM_amp_nn_pd05_h2_4,Kick the ball straight and follow through.,Kick the ball straight and follow through.,0.0,0.0,1.0361312627792358
+sim_NM_na_nn_pd11_h15_3,A salt pickle tastes fine with ham.,Assault pickle tastes fine with with ham.,0.42857142857142855,0.2,1.027077078819275
+sim_NM_na_nn_pd11_h15_2,Guess the result from the first scores.,Guess the result from the first scores.,0.0,0.0,1.0270847082138062
+sim_NM_amp_nn_oc17_h12_10,We find joy in the simplest things.,We find joy in the simplest things.,0.0,0.0,1.0200674533843994
+sim_NM_na_nn_pd11_h15_9,Mud was spattered on the front of his white shirt.,Blood was spattered on the front of his white shirt.,0.1,0.08,1.0196610689163208
+sim_NM_amp_nn_pd16_h2_8,The soft cushion broke the man's fall.,The soft cushion broke the man's fall.,0.0,0.0,1.0337938070297241
+sim_NM_amp_nn_pd01_h18_4,The sky that morning was clear and bright blue.,Sky that morning was clear and bright blue.,0.2222222222222222,0.10638297872340426,1.0261015892028809
+sim_NM_na_nn_pd09_h14_8,Clothes and lodging are free to new men.,Clothes and lodging are free to the new men.,0.125,0.1,1.0337882041931152
+sim_NM_amp_nn_oc16_h2_2,A rod is used to catch pink salmon.,A ride is used to catch pink salmon.,0.125,0.05714285714285714,1.0486174821853638
+sim_NM_amp_nn_oc05_h2_4,Kick the ball straight and follow through.,Kick the ball straight and follow through.,0.0,0.0,1.0298494100570679
+sim_NM_amp_nn_pd08_h14_4,Two plus seven is less than ten.,2 + 7 is less than 10.,0.5714285714285714,0.46875,1.0376650094985962
+sim_NM_na_nn_oc07_h12_1,The bark of the pine tree was shiny and dark.,The bark of the pine tree was shiny and dark.,0.0,0.0,1.0221213102340698
+sim_NM_na_nn_oc11_h15_9,Mud was spattered on the front of his white shirt.,Mother was battered on the front of his white shirt.,0.2,0.14,1.0242122411727905
+sim_NM_amp_nn_oc06_h16_4,The coffee stand is too high for the couch.,The coffee stand is too high for the couch.,0.0,0.0,1.0337963104248047
+sim_NM_na_nn_pd06_h16_10,The sofa cushion is red and of light weight.,The SOFA cushion is red and of lightweight.,0.3333333333333333,0.11363636363636363,1.0237003564834595
+sim_NM_na_nn_oc09_h14_1,A cramp is no small danger on a swim.,A cramp is no small danger on a swim.,0.0,0.0,1.030089020729065
+sim_NM_na_nn_pd09_h14_4,Two plus seven is less than ten.,2 + 7 is less than 10.,0.5714285714285714,0.46875,1.0241034030914307
+sim_NM_amp_nn_pd05_h2_2,A rod is used to catch pink salmon.,"Right, it's usually catch pink salmon.",0.625,0.37142857142857144,1.0273590087890625
+sim_NM_na_nn_pd04_h15_3,A salt pickle tastes fine with ham.,The salt pickle tastes fine with ham.,0.14285714285714285,0.08571428571428572,1.02036452293396
+sim_NM_na_nn_pd05_h2_10,The girl at the booth sold fifty bonds.,Wrote the booth sold 50 bonds.,0.5,0.38461538461538464,1.020361065864563
+sim_NM_amp_nn_pd06_h16_9,She sewed the torn coat quite neatly.,She sold the torn colt quite neatly.,0.2857142857142857,0.10810810810810811,1.0248533487319946
+sim_NM_amp_nn_oc17_h12_8,Hemp is a weed found in parts of the tropics.,Hemp is weed found in parts of the tropics.,0.1,0.044444444444444446,1.0282713174819946
+sim_NM_amp_nn_oc08_h14_6,Bring your problems to the wise chief.,"Bring your problems to the wise, chief.",0.14285714285714285,0.02631578947368421,1.0383168458938599
+sim_NM_na_nn_pd11_h15_10,The cigar burned a hole in the desk top.,Sugar burned a hole in his nice desktop.,0.5555555555555556,0.35,1.0241774320602417
+sim_NM_na_nn_pd15_h15_7,The tree top waved in a graceful way.,The tree tap waved in a graceful way.,0.125,0.02702702702702703,1.0269278287887573
+sim_NM_amp_nn_pd09_h14_1,A cramp is no small danger on a swim.,A cramp is no small danger on a swim.,0.0,0.0,1.031308889389038
+sim_NM_na_nn_pd06_h16_7,The pirates seized the crew of the lost ship.,The person seized the crew of the lost ship.,0.1111111111111111,0.1111111111111111,1.0226516723632812
+sim_NM_na_nn_pd04_h15_1,The young kid jumped the rusty gate.,The young kid jumped the rusty gate.,0.0,0.0,1.0212810039520264
+sim_NM_amp_nn_pd14_h18_8,The new girl was fired today at noon.,The New Girl was fired today at noon.,0.25,0.05405405405405406,1.0359089374542236
+sim_NM_na_nn_pd06_h16_8,We tried to replace the coin but failed.,We tried to replace the coin but failed.,0.0,0.0,1.0199689865112305
+sim_NM_na_nn_pd14_h18_2,The child almost hurt the small dog.,The child almost hurt the small dog.,0.0,0.0,1.0250518321990967
+sim_NM_na_nn_pd01_h18_4,The sky that morning was clear and bright blue.,This guy that morning was clear and bright blue.,0.2222222222222222,0.0851063829787234,1.0255215167999268
+sim_NM_na_nn_pd14_h18_4,The sky that morning was clear and bright blue.,The sky that morning was clear and bright blue.,0.0,0.0,1.0249593257904053
+sim_NM_na_nn_pd08_h14_5,The glow deepened in the eyes of the sweet girl.,The glow deepened in the eyes of the sweet girl.,0.0,0.0,1.0283628702163696
+sim_NM_amp_nn_oc05_h2_6,A pot of tea helps to pass the evening.,A pot of tea helps pass the evening.,0.1111111111111111,0.07692307692307693,1.0252560377120972
+sim_NM_amp_nn_oc06_h16_9,She sewed the torn coat quite neatly.,She sewed the torn coat quite neatly.,0.0,0.0,1.0275810956954956
+sim_NM_na_nn_oc11_h15_7,The tree top waved in a graceful way.,The treetop waved in a graceful way.,0.25,0.02702702702702703,1.0261609554290771
+sim_NM_amp_nn_pd11_h15_3,A salt pickle tastes fine with ham.,"Assault, pickled taste fine went with ham.",0.7142857142857143,0.2857142857142857,1.0413706302642822
+sim_NM_amp_nn_pd08_h14_5,The glow deepened in the eyes of the sweet girl.,The glow deepened in the eyes of the sweet girl.,0.0,0.0,1.0362224578857422
+sim_NM_amp_nn_oc11_h15_5,Those thistles bend in a high wind.,Those thistles bend in a high wind.,0.0,0.0,1.0395193099975586
+sim_NM_na_nn_pd06_h16_1,The empty flask stood on the tin tray.,The empty flasks stood on the tin tray.,0.125,0.02631578947368421,1.0227171182632446
+sim_NM_na_nn_oc17_h12_6,He ordered peach pie with ice cream.,He ordered Peach pie with ice cream.,0.14285714285714285,0.027777777777777776,1.021865725517273
+sim_NM_na_nn_oc07_h12_5,Burn peat after the logs give out.,Burn peat after the logs give out.,0.0,0.0,1.0228087902069092
+sim_NM_na_nn_oc09_h14_7,Write a fond note to the friend you cherish.,Rate of on note to the friends you cherish.,0.4444444444444444,0.18181818181818182,1.0410125255584717
+sim_NM_amp_nn_oc16_h2_3,The source of the huge river is the clear spring.,The source of the huge river is the clear spring.,0.0,0.0,1.0435606241226196
+sim_NM_na_nn_pd08_h14_1,A cramp is no small danger on a swim.,A cramp is no small danger on the swim.,0.1111111111111111,0.08108108108108109,1.0274267196655273
+sim_NM_amp_nn_pd15_h15_1,The young kid jumped the rusty gate.,The young kid jumped the rusty gate.,0.0,0.0,1.0277796983718872
+sim_NM_na_nn_pd11_h15_4,The just claim got the right verdict.,The just claim got the right verdict.,0.0,0.0,1.0237796306610107
+sim_NM_na_nn_oc02_h17_4,A filing case is now hard to buy.,Of filing case is now hard to buy.,0.125,0.06060606060606061,1.0235421657562256
+sim_NM_na_nn_pd14_h18_10,Add the store’s account to the last cent.,Add the stores account to the last sent.,0.25,0.04878048780487805,1.020187497138977
+sim_NM_na_nn_oc02_h17_8,He knew the skill of the great young actress.,"The office paint was a dull, sad tanned.",1.0,0.7777777777777778,1.0381131172180176
+sim_NM_amp_nn_pd12_h10_5,The play seems dull and quite stupid.,The place seems dull and quite stupid.,0.14285714285714285,0.05405405405405406,1.02374267578125
+sim_NM_na_nn_pd12_h10_6,Bail the boat to stop it from sinking.,Failed the boat to stop it from sinking.,0.125,0.07894736842105263,1.0230122804641724
+sim_NM_na_nn_pd01_h18_2,The child almost hurt the small dog.,A child almost hurt the small dog.,0.14285714285714285,0.08333333333333333,1.0230926275253296
+sim_NM_amp_nn_oc09_h14_5,The glow deepened in the eyes of the sweet girl.,The glow deepened in the eyes of the sweet girl.,0.0,0.0,1.0280877351760864
+sim_NM_amp_nn_pd04_h15_3,A salt pickle tastes fine with ham.,Assault pickle tastes fine with ham.,0.2857142857142857,0.05714285714285714,1.0278514623641968
+sim_NM_amp_nn_pd09_h14_3,Pluck the bright rose without leaves.,Plug the bright rose without leaves.,0.16666666666666666,0.05405405405405406,1.0300688743591309
+sim_NM_na_nn_pd06_h16_5,The urge to write short stories is rare.,The urge to write short stories is rare.,0.0,0.0,1.0231157541275024
+sim_NM_amp_nn_pd15_h15_4,The just claim got the right verdict.,That just claim got the right verdict.,0.14285714285714285,0.05405405405405406,1.051871418952942
+sim_NM_na_nn_oc09_h14_5,The glow deepened in the eyes of the sweet girl.,The glow deepened in the eyes of the sweet girl.,0.0,0.0,1.025324821472168
+sim_NM_amp_nn_oc11_h15_7,The tree top waved in a graceful way.,The treetop waved in a graceful way.,0.25,0.02702702702702703,1.0359793901443481
+sim_NM_na_nn_oc09_h14_2,He said the same phrase thirty times.,He said the same phrase 30 times.,0.14285714285714285,0.16216216216216217,1.0203148126602173
+sim_NM_na_nn_pd01_h18_8,The new girl was fired today at noon.,A New Girl was fired today at noon.,0.375,0.13513513513513514,1.0227172374725342
+sim_NM_na_nn_pd14_h18_1,Steam hissed from the broken valve.,Steam hissed from the broken valve.,0.0,0.0,1.0236356258392334
+sim_NM_amp_nn_pd01_h18_9,They felt gay when the ship arrived in port.,They felt gay when the ship arrived in port.,0.0,0.0,1.0339668989181519
+sim_NM_na_nn_pd04_h15_9,Mud was spattered on the front of his white shirt.,But it was spattered on the front of his white shirt.,0.2,0.1,1.025878667831421
+sim_NM_amp_nn_oc05_h2_8,The soft cushion broke the man's fall.,The the soft cushion broke the man's fall.,0.14285714285714285,0.10526315789473684,1.0299166440963745
+sim_NM_amp_nn_oc08_h14_2,He said the same phrase thirty times.,He said the same phrase 30 times.,0.14285714285714285,0.16216216216216217,1.0322648286819458
+sim_NM_na_nn_pd12_h10_8,A Tusk is used to make costly gifts.,A task is used to make costly gifts.,0.125,0.05555555555555555,1.023542881011963
+sim_NM_na_nn_oc06_h16_7,The pirates seized the crew of the lost ship.,The pirate sees the crew of the lost ship.,0.2222222222222222,0.08888888888888889,1.0293701887130737
+sim_NM_amp_nn_oc09_h14_7,Write a fond note to the friend you cherish.,Right upon note to the friends you cherish.,0.4444444444444444,0.22727272727272727,1.0414605140686035
+sim_NM_amp_nn_oc09_h14_9,We frown when events take a bad turn.,We frown when events take a bad turn.,0.0,0.0,1.0466943979263306
+sim_NM_na_nn_pd04_h15_6,Pure bred poodles have curls.,Purebred poodles have curls.,0.4,0.034482758620689655,1.0225203037261963
+sim_NM_na_nn_oc09_h14_4,Two plus seven is less than ten.,2 + 7 is less than 10.,0.5714285714285714,0.46875,1.0228930711746216
+sim_NM_amp_nn_pd06_h16_6,The pencils have all been used.,The pencils have all been used.,0.0,0.0,1.032198429107666
+sim_NM_na_nn_oc07_h12_7,Weave the carpet on the right hand side.,Weave the carpet on the right hand side.,0.0,0.0,1.024425745010376
+sim_NM_na_nn_pd14_h18_6,Sunday is the best part of the week.,Sunday is the best part of the week.,0.0,0.0,1.0248584747314453
+sim_NM_na_nn_oc11_h15_3,A salt pickle tastes fine with ham.,Assault pickle tastes fine with ham.,0.2857142857142857,0.05714285714285714,1.0223075151443481
+sim_NM_na_nn_oc17_h12_2,Leaves turn brown and yellow in the fall.,Leaves turn brown and yellow in the fall.,0.0,0.0,1.0253145694732666
+sim_NM_amp_nn_pd05_h2_5,Help the woman get back to her feet.,Help the woman get back to her feet.,0.0,0.0,1.0248905420303345
+sim_NM_amp_nn_oc04_h15_8,The spot on the blotter was made by green ink.,The spot on the bladder was made by green ink.,0.1,0.06521739130434782,1.0331754684448242
+sim_NM_amp_nn_pd15_h15_3,A salt pickle tastes fine with ham.,A salt pickle tastes fine with ham.,0.0,0.0,1.0343681573867798
+sim_NM_amp_nn_oc16_h2_8,The soft cushion broke the man's fall.,The soft cushion broke the man's foam.,0.14285714285714285,0.07894736842105263,1.029262900352478
+sim_NM_amp_nn_oc08_h14_9,We frown when events take a bad turn.,We frown when events take a bad turn.,0.0,0.0,1.0500893592834473
+sim_NM_na_nn_pd16_h2_4,Kick the ball straight and follow through.,Kick the ball straight and follow through.,0.0,0.0,1.0254368782043457
+sim_NM_amp_nn_oc06_h16_10,The sofa cushion is red and of light weight.,The SOFA cushion is red and of light weight.,0.1111111111111111,0.09090909090909091,1.038977861404419
+sim_NM_amp_nn_pd11_h15_8,The spot on the blotter was made by green ink.,Spot on. The bladder was made by green ink.,0.5,0.21739130434782608,1.0345860719680786
+sim_NM_amp_nn_oc16_h2_7,Smoky fires lack flame and heat.,Smoky fires lack flame and heat.,0.0,0.0,1.028967022895813
+sim_NM_amp_nn_pd01_h18_10_r,Add the store’s account to the last cent.,Add the stores account to the last statement sent.,0.375,0.2926829268292683,1.0379621982574463
+sim_NM_amp_nn_pd16_h2_5,Help the woman get back to her feet.,Help the woman get back to her feet.,0.0,0.0,1.0355331897735596
+sim_NM_na_nn_oc09_h14_9,We frown when events take a bad turn.,We frown when events take a bad turn.,0.0,0.0,1.0320583581924438
+sim_NM_amp_nn_oc17_h12_1,The bark of the pine tree was shiny and dark.,Bark of the pine tree was shiny and dark.,0.2,0.1111111111111111,1.0321846008300781
+sim_NM_na_nn_oc04_h15_6,Pure bred poodles have curls.,Purebred poodles have curls.,0.4,0.034482758620689655,1.0230307579040527
+sim_NM_amp_nn_oc16_h2_5,Help the woman get back to her feet.,Help the woman get back to her feet.,0.0,0.0,1.0256803035736084
+sim_NM_amp_nn_oc09_h14_8,Clothes and lodging are free to new men.,Clothes and lodging are free to new men.,0.0,0.0,1.0252516269683838
+sim_NM_amp_nn_pd06_h16_7,The pirates seized the crew of the lost ship.,The Paris seized the crew of the lost ship.,0.1111111111111111,0.1111111111111111,1.0239472389221191
+sim_NM_amp_nn_oc11_h15_3,A salt pickle tastes fine with ham.,A salt pickle tastes fine with ham.,0.0,0.0,1.0301449298858643
+sim_NM_amp_nn_pd15_h15_7,The tree top waved in a graceful way.,The tree top waved in a graceful way.,0.0,0.0,1.0398048162460327
+sim_NM_amp_nn_oc09_h14_1,A cramp is no small danger on a swim.,A cramp is no small danger on a swim.,0.0,0.0,1.0364868640899658
+sim_NM_na_nn_pd08_h14_10,Port is a strong wine with a smoky taste.,Pork is a strong wine with the smoky taste.,0.2222222222222222,0.0975609756097561,1.0236815214157104
+sim_NM_na_nn_pd06_h16_9,She sewed the torn coat quite neatly.,She sold the torn coat quite neatly.,0.14285714285714285,0.08108108108108109,1.022153615951538
+sim_NM_amp_nn_pd04_h15_8,The spot on the blotter was made by green ink.,The spot on the bladder was made by green ink.,0.1,0.06521739130434782,1.0325332880020142
+sim_NM_amp_nn_pd05_h2_1,The boy was there when the sun rose.,The boy was there when the sun rose.,0.0,0.0,1.0254218578338623
+sim_NM_na_nn_oc08_h14_3,Pluck the bright rose without leaves.,Pluck the bright rows without leaves.,0.16666666666666666,0.05405405405405406,1.0273277759552002
+sim_NM_amp_nn_oc02_h17_4,A filing case is now hard to buy.,Of filing case is now hard to buy.,0.125,0.06060606060606061,1.0306326150894165
+sim_NM_na_nn_oc04_h15_2,Guess the result from the first scores.,Guess the result from the first scores.,0.0,0.0,1.019774079322815
+sim_NM_amp_nn_pd11_h15_7,The tree top waved in a graceful way.,The tree top waved in a graceful way.,0.0,0.0,1.0281939506530762
+sim_NM_amp_nn_pd04_h15_4,The just claim got the right verdict.,That just claim got the right verdict.,0.14285714285714285,0.05405405405405406,1.0345673561096191
+sim_NM_na_nn_oc02_h17_2,At that high level the air is pure.,"At that high level, the air is pure.",0.125,0.02857142857142857,1.0370653867721558
+sim_NM_na_nn_pd08_h14_6,Bring your problems to the wise chief.,"Bring your problems to the wise, chief.",0.14285714285714285,0.02631578947368421,1.0341613292694092
+sim_NM_amp_nn_oc09_h14_4,Two plus seven is less than ten.,2 + 7 is less than 10.,0.5714285714285714,0.46875,1.0251740217208862
+sim_NM_na_nn_pd06_h16_2,A speedy man can beat this track mark.,A speedy man can be his this track mark.,0.25,0.10526315789473684,1.0191901922225952
+sim_NM_amp_nn_pd08_h14_10,Port is a strong wine with a smoky taste.,Pork is a strong wine with the smoky taste.,0.2222222222222222,0.0975609756097561,1.0298733711242676
+sim_NM_amp_nn_pd01_h18_1,Steam hissed from the broken valve.,Steam hissed from the broken valve.,0.0,0.0,1.023276448249817
+sim_NM_na_nn_pd09_h14_10,Port is a strong wine with a smoky taste.,Port is a strong wine with a smoky taste.,0.0,0.0,1.0268073081970215
+sim_NM_amp_nn_pd06_h16_10,The sofa cushion is red and of light weight.,The SOFA cushion is red and of lightweight.,0.3333333333333333,0.11363636363636363,1.0339828729629517
+sim_NM_amp_nn_oc02_h17_2,At that high level the air is pure.,"At that high level, the air is pure.",0.125,0.02857142857142857,1.0493743419647217
+sim_NM_amp_nn_pd14_h18_1,Steam hissed from the broken valve.,Steam hissed from the broken valve.,0.0,0.0,1.0305122137069702
+sim_NM_na_nn_pd01_h18_1,Steam hissed from the broken valve.,Steam hissed from the broken valve.,0.0,0.0,1.02023446559906
+sim_NM_na_nn_oc02_h17_9,A rag will soak up spilled water.,He knew the skill of the great young actress.,1.2857142857142858,1.0303030303030303,1.0240792036056519
+sim_NM_amp_nn_oc16_h2_10,The girl at the booth sold fifty bonds.,The girl at the booth sold 50 bonds.,0.125,0.1282051282051282,1.0310180187225342
+sim_NM_amp_nn_oc11_h15_6,Pure bred poodles have curls.,Pure bred poodles have curls.,0.0,0.0,1.0322635173797607
+sim_NM_na_nn_pd04_h15_4,The just claim got the right verdict.,That just claim got the right verdict.,0.14285714285714285,0.05405405405405406,1.0291681289672852
+sim_NM_na_nn_pd06_h16_3,He broke a new shoelace that day.,He broke a new shoelace for that day.,0.14285714285714285,0.12121212121212122,1.0200507640838623
+sim_NM_amp_nn_pd11_h15_10,The cigar burned a hole in the desk top.,Cigarette burned a hole in his desktop.,0.5555555555555556,0.325,1.0389626026153564
+sim_NM_na_nn_oc07_h12_3,The pennant waved when the wind blew.,The Pennant waved when the wind blew.,0.14285714285714285,0.02702702702702703,1.024916172027588
+sim_NM_na_nn_oc08_h14_5,The glow deepened in the eyes of the sweet girl.,The glow deepened in the eyes of the sweet girl.,0.0,0.0,1.0222173929214478
+sim_NM_na_nn_oc05_h2_6,A pot of tea helps to pass the evening.,A pot of tea helps to pass the evening.,0.0,0.0,1.023849368095398
+sim_NM_na_nn_oc04_h15_8,The spot on the blotter was made by green ink.,The spot on the bladder was made by green ink.,0.1,0.06521739130434782,1.0339133739471436
+sim_NM_amp_nn_pd01_h18_7,The doctor cured him with these pills.,The doctor cured him with these pills.,0.0,0.0,1.028456211090088
+sim_NM_na_nn_pd04_h15_10,The cigar burned a hole in the desk top.,Cigar burned a hole in the desktop.,0.4444444444444444,0.15,1.0304559469223022
+sim_NM_na_nn_pd15_h15_4,The just claim got the right verdict.,That just claim got the right verdict.,0.14285714285714285,0.05405405405405406,1.0400171279907227
+sim_NM_na_nn_oc17_h12_8,Hemp is a weed found in parts of the tropics.,Hemp is a weed found in parts of the tropics.,0.0,0.0,1.022909164428711
+sim_NM_amp_nn_oc04_h15_1,The young kid jumped the rusty gate.,The young kid jumped the rusty gate.,0.0,0.0,1.0295648574829102
+sim_NM_amp_nn_pd15_h15_8,The spot on the blotter was made by green ink.,The spot on the bladder was made by green ink.,0.1,0.06521739130434782,1.0359934568405151
+sim_NM_na_nn_pd14_h18_8,The new girl was fired today at noon.,The New Girl was fired today at noon.,0.25,0.05405405405405406,1.027172565460205
+sim_NM_na_nn_oc06_h16_8,We tried to replace the coin but failed.,We tried to replace the coin but failed.,0.0,0.0,1.027031421661377
+sim_NM_na_nn_pd12_h10_1,The slush lay deep along the street.,The slush lay deep along the street.,0.0,0.0,1.021492838859558
+sim_NM_amp_nn_oc07_h12_9,A lame back kept his score low.,Elaine Beck kept his score low.,0.42857142857142855,0.1935483870967742,1.0244064331054688
+sim_NM_na_nn_pd15_h15_5,Those thistles bend in a high wind.,Those thistles bent in a high wind.,0.14285714285714285,0.02857142857142857,1.0272490978240967
+sim_NM_na_nn_oc09_h14_6,Bring your problems to the wise chief.,"Bring your problems to the wise, chief.",0.14285714285714285,0.02631578947368421,1.0276504755020142
+sim_NM_amp_nn_oc06_h16_1,The empty flask stood on the tin tray.,The empty flask stood on the tin tray.,0.0,0.0,1.0360945463180542
+sim_NM_amp_nn_pd04_h15_1,The young kid jumped the rusty gate.,The young kid jumped the rusty gate.,0.0,0.0,1.024388074874878
+sim_NM_amp_nn_pd16_h2_2,A rod is used to catch pink salmon.,A rod is used to catch pink salmon.,0.0,0.0,1.0388530492782593
+sim_NM_na_nn_oc17_h12_1,The bark of the pine tree was shiny and dark.,The bark of the pine tree was shiny and dark.,0.0,0.0,1.0336463451385498
+sim_NM_na_nn_oc05_h2_4,Kick the ball straight and follow through.,Kick the ball straight and follow through.,0.0,0.0,1.029283881187439
+sim_NM_amp_nn_oc05_h2_10,The girl at the booth sold fifty bonds.,The girl at the booth sold 50 bonds.,0.125,0.1282051282051282,1.0223921537399292
+sim_NM_na_nn_pd05_h2_5,Help the woman get back to her feet.,And the woman get back to her feet.,0.125,0.1111111111111111,1.022348403930664
+sim_NM_amp_nn_pd04_h15_5,Those thistles bend in a high wind.,Those thistles bend in a high wind.,0.0,0.0,1.0376485586166382
+sim_NM_na_nn_pd08_h14_3,Pluck the bright rose without leaves.,Pluck the bright rose without leaves.,0.0,0.0,1.022974967956543
+sim_NM_na_nn_pd15_h15_8,The spot on the blotter was made by green ink.,The spot on the bladder was made by green ink.,0.1,0.06521739130434782,1.0389310121536255
+sim_NM_amp_nn_pd09_h14_5,The glow deepened in the eyes of the sweet girl.,The glow deepened in the eyes of the sweet girl.,0.0,0.0,1.0341182947158813
+sim_NM_amp_nn_pd09_h14_6,Bring your problems to the wise chief.,"Bring your problems to the wise, chief.",0.14285714285714285,0.02631578947368421,1.0358926057815552
+sim_NM_na_nn_oc06_h16_10,The sofa cushion is red and of light weight.,The SOFA cushion is red and of light weight.,0.1111111111111111,0.09090909090909091,1.0310416221618652
+sim_NM_na_nn_pd12_h10_2,A wisp of cloud hung in the blue air.,A wisp of cloud hung in the blue air.,0.0,0.0,1.0340486764907837
+sim_NM_amp_nn_oc07_h12_8,Hemp is a weed found in parts of the tropics.,Hemp is a weed found in parts of the tropics.,0.0,0.0,1.0396848917007446
+sim_NM_na_nn_oc02_h17_7,The office paint was a dull sad tan.,The office paint was dull.,0.5,0.2777777777777778,1.0424264669418335
+sim_NM_amp_nn_pd06_h16_5,The urge to write short stories is rare.,The urge to write short stories is rare.,0.0,0.0,1.030443787574768
+sim_NM_amp_nn_pd08_h14_6,Bring your problems to the wise chief.,"Bring your problems to the wise, chief.",0.14285714285714285,0.02631578947368421,1.0546534061431885
+sim_NM_na_nn_pd04_h15_7,The tree top waved in a graceful way.,The treetop waved in a graceful way.,0.25,0.02702702702702703,1.026718258857727
+sim_NM_na_nn_pd09_h14_9,We frown when events take a bad turn.,We frown whenever events take a bad turn.,0.125,0.10810810810810811,1.0274358987808228
+sim_NM_amp_nn_oc04_h15_4,The just claim got the right verdict.,The just claim got the right verdict.,0.0,0.0,1.0409700870513916
+sim_NM_amp_nn_pd08_h14_3,Pluck the bright rose without leaves.,Pluck the bright rose without leaves.,0.0,0.0,1.0288465023040771
+sim_NM_na_nn_oc11_h15_4,The just claim got the right verdict.,The just claim got the right verdict.,0.0,0.0,1.0559991598129272
+sim_NM_amp_nn_pd16_h2_4,Kick the ball straight and follow through.,Kick the ball straight and follow through.,0.0,0.0,1.0282936096191406
+sim_NM_na_nn_oc09_h14_10,Port is a strong wine with a smoky taste.,Port is a strong wine with a smoky taste.,0.0,0.0,1.0274133682250977
+sim_NM_amp_nn_oc04_h15_10,The cigar burned a hole in the desk top.,The cigar burned a hole in the desktop.,0.2222222222222222,0.025,1.0441501140594482
+sim_NM_amp_nn_oc11_h15_4,The just claim got the right verdict.,The just claim got the right verdict.,0.0,0.0,1.0310646295547485
+sim_NM_amp_nn_pd16_h2_7,Smoky fires lack flame and heat.,Smoky fires lacked flame and heat.,0.16666666666666666,0.0625,1.032271385192871
+sim_NM_na_nn_oc04_h15_10,The cigar burned a hole in the desk top.,The cigar burned a hole in the desktop.,0.2222222222222222,0.025,1.0356628894805908
+sim_NM_na_nn_oc11_h15_6,Pure bred poodles have curls.,Pure bred poodles have curls.,0.0,0.0,1.0245039463043213
+sim_NM_na_nn_oc04_h15_4,The just claim got the right verdict.,The just claim got the right verdict.,0.0,0.0,1.0344620943069458
+sim_NM_na_nn_oc05_h2_3,The source of the huge river is the clear spring.,The source of the huge river is the clear spring.,0.0,0.0,1.025948405265808
+sim_NM_amp_nn_pd09_h14_4,Two plus seven is less than ten.,2 + 7 is less than 10.,0.5714285714285714,0.46875,1.028881311416626
+sim_NM_amp_nn_pd12_h10_3,A pound of sugar costs more than eggs.,A pound of sugar cost more than eggs.,0.125,0.02631578947368421,1.0296381711959839
+sim_NM_amp_nn_pd11_h15_4,The just claim got the right verdict.,They're just claim got the right verdict.,0.14285714285714285,0.10810810810810811,1.0419487953186035
+sim_NM_na_nn_pd05_h2_2,A rod is used to catch pink salmon.,Radius usually catch pink salmon.,0.625,0.3142857142857143,1.0271881818771362
+sim_NM_na_nn_oc06_h16_6,The pencils have all been used.,The pencils have all been used.,0.0,0.0,1.0439342260360718
+sim_NM_amp_nn_pd01_h18_3,There was a sound of dry leaves outside.,There was a sound of dry leaves outside.,0.0,0.0,1.0286940336227417
+sim_NM_amp_nn_pd12_h10_10,The bill was paid every third week.,The bill was paid every 3rd week.,0.14285714285714285,0.08571428571428572,1.0276652574539185
+sim_NM_na_nn_pd01_h18_3,There was a sound of dry leaves outside.,There was a sound of dry leaves outside.,0.0,0.0,1.0264841318130493
+sim_NM_amp_nn_pd14_h18_9,They felt gay when the ship arrived in port.,They felt gay when the ship arrived in port.,0.0,0.0,1.0295708179473877
+sim_NM_na_nn_pd09_h14_2,He said the same phrase thirty times.,He said the same phrase 30 times.,0.14285714285714285,0.16216216216216217,1.0268292427062988
+sim_NM_amp_nn_oc08_h14_3,Pluck the bright rose without leaves.,Pluck the bright rose without leaves.,0.0,0.0,1.0385785102844238
+sim_NM_amp_nn_pd11_h15_1,The young kid jumped the rusty gate.,The young kid jumped the rusty gate.,0.0,0.0,1.0332926511764526
+sim_NM_amp_nn_oc07_h12_2,Leaves turn brown and yellow in the fall.,Leaves turn brown and yellow in the fall.,0.0,0.0,1.0342060327529907
+sim_NM_na_nn_pd11_h15_5,Those thistles bend in a high wind.,Those thistles bend in high in high wind.,0.2857142857142857,0.2,1.0246230363845825
+sim_NM_amp_nn_oc02_h17_7,The office paint was a dull sad tan.,The office paint was dull.,0.5,0.2777777777777778,1.0312143564224243
+sim_NM_amp_nn_oc08_h14_1,A cramp is no small danger on a swim.,A cramp is no small danger on a swim.,0.0,0.0,1.0391184091567993
+sim_NM_na_nn_oc07_h12_10,We find joy in the simplest things.,We find joy in the simplest things.,0.0,0.0,1.0211069583892822
+sim_NM_amp_nn_oc07_h12_6,He ordered peach pie with ice cream.,He ordered Peach pie with ice cream.,0.14285714285714285,0.027777777777777776,1.0324164628982544
+sim_NM_amp_nn_oc06_h16_6,The pencils have all been used.,The pencils have all been used.,0.0,0.0,1.0440874099731445
+sim_NM_na_nn_oc11_h15_2,Guess the result from the first scores.,Guess the result from the first scores.,0.0,0.0,1.0191645622253418
+sim_NM_na_nn_pd14_h18_3,There was a sound of dry leaves outside.,There was a sound of dry leaves outside.,0.0,0.0,1.0224131345748901
+sim_NM_amp_nn_pd08_h14_1,A cramp is no small danger on a swim.,A cramp is no small danger on the swim.,0.1111111111111111,0.08108108108108109,1.0415416955947876
+sim_NM_amp_nn_pd16_h2_1,The boy was there when the sun rose.,The boy was there when the sun rose.,0.0,0.0,1.0469660758972168
+sim_NM_amp_nn_pd04_h15_10,The cigar burned a hole in the desk top.,Cigar burned a hole in the desktop.,0.4444444444444444,0.15,1.0341218709945679
+sim_NM_amp_nn_pd12_h10_6,Bail the boat to stop it from sinking.,Bail the boat to stop it from sinking.,0.0,0.0,1.028244137763977
+sim_NM_amp_nn_oc11_h15_10,The cigar burned a hole in the desk top.,The scar burned a hole in the desktop.,0.3333333333333333,0.1,1.0283819437026978
+sim_NM_amp_nn_oc05_h2_5,Help the woman get back to her feet.,Help the woman get back to her feet.,0.0,0.0,1.0417914390563965
+sim_NM_na_nn_oc08_h14_10,Port is a strong wine with a smoky taste.,Port is a strong wine with a smoky taste.,0.0,0.0,1.0301419496536255
+sim_NM_na_nn_oc04_h15_5,Those thistles bend in a high wind.,Those thistles bend in a high wind.,0.0,0.0,1.0310742855072021
+sim_NM_amp_nn_pd06_h16_8,We tried to replace the coin but failed.,We tried to replace the coin but failed.,0.0,0.0,1.029167652130127
+sim_NM_na_nn_pd05_h2_7,Smoky fires lack flame and heat.,Smokey flares like flame and heat.,0.5,0.1875,1.0290937423706055
+sim_NM_na_nn_pd09_h14_5,The glow deepened in the eyes of the sweet girl.,The glow deepened in the eyes of the sweet girl.,0.0,0.0,1.0262256860733032
+sim_NM_amp_nn_oc07_h12_5,Burn peat after the logs give out.,Burnt Peak after the logs give out.,0.2857142857142857,0.08823529411764706,1.0282024145126343
+sim_NM_na_nn_oc09_h14_3,Pluck the bright rose without leaves.,Pluck the bright rolls without leaves.,0.16666666666666666,0.08108108108108109,1.0447404384613037
+sim_NM_na_nn_oc17_h12_7,Weave the carpet on the right hand side.,Weave the carpet on the right hand side.,0.0,0.0,1.031382441520691
+sim_NM_na_nn_pd09_h14_6,Bring your problems to the wise chief.,"Bring your problems to the wise, chief.",0.14285714285714285,0.02631578947368421,1.0337458848953247
+sim_NM_amp_nn_oc05_h2_3,The source of the huge river is the clear spring.,This was of the huge river is the clear spring.,0.2,0.14285714285714285,1.031731367111206
+sim_NM_na_nn_oc08_h14_9,We frown when events take a bad turn.,We frown when events take a bad turn.,0.0,0.0,1.0313258171081543
+sim_NM_amp_nn_pd05_h2_10,The girl at the booth sold fifty bonds.,Relative Booth sold 50 bonds.,0.75,0.41025641025641024,1.0262846946716309
+sim_NM_na_nn_oc05_h2_2,A rod is used to catch pink salmon.,A rod is used to catch pink salmon.,0.0,0.0,1.0324002504348755
+sim_NM_na_nn_oc08_h14_1,A cramp is no small danger on a swim.,A cramp is no small danger on a swim.,0.0,0.0,1.0267066955566406
+sim_NM_amp_nn_oc07_h12_10,We find joy in the simplest things.,We find joy in the simplest things.,0.0,0.0,1.0264137983322144
+sim_NM_amp_nn_pd14_h18_3,There was a sound of dry leaves outside.,There was a sound of dry leaves outside.,0.0,0.0,1.0334360599517822
+sim_NM_amp_nn_pd04_h15_2,Guess the result from the first scores.,Guess the result from the first scores.,0.0,0.0,1.0209367275238037
+sim_NM_amp_nn_oc09_h14_10,Port is a strong wine with a smoky taste.,Port is a strong wine with a smoky taste.,0.0,0.0,1.0359269380569458
+sim_NM_na_nn_oc05_h2_10,The girl at the booth sold fifty bonds.,The girl at the booth sold 50 bonds.,0.125,0.1282051282051282,1.0213334560394287
+sim_NM_amp_nn_oc06_h16_3,He broke a new shoelace that day.,He broke a new shoelace that day.,0.0,0.0,1.0259919166564941
+sim_NM_amp_nn_pd15_h15_10,The cigar burned a hole in the desk top.,The cigar burned a hole in the desktop.,0.2222222222222222,0.025,1.04132878780365
+sim_NM_na_nn_pd12_h10_3,A pound of sugar costs more than eggs.,A pound of sugar cost more than eggs.,0.125,0.02631578947368421,1.0271828174591064
+sim_NM_amp_nn_pd12_h10_1,The slush lay deep along the street.,The slush lay deep along the street.,0.0,0.0,1.0248583555221558
+sim_NM_na_nn_pd01_h18_6,Sunday is the best part of the week.,Sunday is the best part of the week.,0.0,0.0,1.0214855670928955
+sim_NM_na_nn_oc11_h15_5,Those thistles bend in a high wind.,Those thistles bend in a high wind.,0.0,0.0,1.0238428115844727
+sim_NM_na_nn_pd06_h16_6,The pencils have all been used.,The pencils have all been used.,0.0,0.0,1.0424339771270752
+sim_NM_amp_nn_pd01_h18_5,Torn scraps littered the stone floor.,Torn scraps littered the stone floor.,0.0,0.0,1.0316333770751953
+sim_NM_na_nn_pd09_h14_1,A cramp is no small danger on a swim.,A cramp is no small danger on a swim.,0.0,0.0,1.024121880531311
+sim_NM_amp_nn_pd04_h15_9,Mud was spattered on the front of his white shirt.,But was spattered on the front of his white shirt.,0.1,0.04,1.0324115753173828
+sim_NM_na_nn_oc08_h14_7,Write a fond note to the friend you cherish.,Write a fond note to the friend you cherish.,0.0,0.0,1.026552677154541
+sim_NM_na_nn_oc04_h15_7,The tree top waved in a graceful way.,The treetop waved in a graceful way.,0.25,0.02702702702702703,1.034606695175171
+sim_NM_amp_nn_pd14_h18_7,The doctor cured him with these pills.,The doctor cured him with these pills.,0.0,0.0,1.0383577346801758
+sim_NM_na_nn_oc06_h16_1,The empty flask stood on the tin tray.,The empty flask stood on the tin tray.,0.0,0.0,1.022793173789978
+sim_NM_amp_nn_oc04_h15_5,Those thistles bend in a high wind.,Those thistles bend in a high wind.,0.0,0.0,1.031510829925537
+sim_NM_na_nn_oc11_h15_10,The cigar burned a hole in the desk top.,The scar burned a hole in the desktop.,0.3333333333333333,0.1,1.0234891176223755
+sim_NM_na_nn_oc09_h14_8,Clothes and lodging are free to new men.,Clothes and lodging are free to new men.,0.0,0.0,1.0252881050109863
+sim_NM_na_nn_pd16_h2_5,Help the woman get back to her feet.,Help the woman get back to her feet.,0.0,0.0,1.0225343704223633
+sim_NM_amp_nn_pd15_h15_2,Guess the result from the first scores.,Guess the result from the first scores.,0.0,0.0,1.0275605916976929
+sim_NM_na_nn_oc16_h2_6,A pot of tea helps to pass the evening.,A pot of tea helps to pass the evening.,0.0,0.0,1.0217317342758179
+sim_NM_na_nn_pd09_h14_7,Write a fond note to the friend you cherish.,Write a file note to a friend you cherish.,0.2222222222222222,0.13636363636363635,1.0374879837036133
+sim_NM_na_nn_oc16_h2_7,Smoky fires lack flame and heat.,Smoky fires lack flame and heat.,0.0,0.0,1.0231776237487793
+sim_NM_na_nn_pd16_h2_3,The source of the huge river is the clear spring.,The source of the huge river is the clear spring.,0.0,0.0,1.0199517011642456
+sim_NM_na_nn_oc02_h17_10,A shower of dirt fell from the hot pipes.,A red will soak up spilled water.,0.8888888888888888,0.7317073170731707,1.0274462699890137
+sim_NM_na_nn_pd11_h15_1,The young kid jumped the rusty gate.,The young kid jumped the rusty gate.,0.0,0.0,1.0257160663604736
+sim_NM_amp_nn_oc11_h15_8,The spot on the blotter was made by green ink.,The spot in the cloud blotter was made by green ink.,0.2,0.15217391304347827,1.0281537771224976
+sim_NM_amp_nn_oc08_h14_4,Two plus seven is less than ten.,2 + 7 is less than 10.,0.5714285714285714,0.46875,1.0314382314682007
+sim_NM_na_nn_oc17_h12_9,A lame back kept his score low.,A lame back kept his score low.,0.0,0.0,1.0202889442443848

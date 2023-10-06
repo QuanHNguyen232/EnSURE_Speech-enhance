@@ -1,0 +1,80 @@
+Current time: DATE 24/07/2023 - TIME: 16:34:38
+Config:
+	my_id = ctx-loss-emb_new1
+	generator_type = resnet
+	dir = ./noise_enhance
+	pretrain_dir = None
+	use_context_embed = True
+	use_context_loss = True
+	use_audio_processor = True
+	use_mixed_precision = False
+	use_DDP = True
+	n_steps = 10000
+	batch_size = 32
+	lr = 0.0001
+	b1 = 0.5
+	b2 = 0.999
+	sample_interval = 100
+	verbose_interval = 100
+	num_residual_blocks = 6
+Find 2 gpus available
+./noise_enhance
+	./noise_enhance/cgan_samp_resnet_ctx-loss-emb_new1
+	./noise_enhance/cgan_ckpt_resnet_ctx-loss-emb_new1
+./noise_enhance/data/clean_trainset
+	./noise_enhance/data/clean_testset
+	./noise_enhance/data/noisy_trainset
+	./noise_enhance/data/noisy_testset
+./noise_enhance/data/noisy_trainset/p244_343.wav
+	./noise_enhance/data/noisy_testset/p254_213.wav
+CREATED Dataset - DataLoader
+mixed precision training is OFF (torch.float32)
+CREATED context_loss
+CREATED adversarial_loss
+CREATED ContextEncoder
+input num channels =  13
+CREATED ResnetGenerator
+CREATED Discriminator
+INIT WEIGHT
+CREATED Optimizers
+Model will be trained for: 10000 steps or 59 EPOCHS
+[Step 0/10000] [D loss: 0.019577] [G loss: 0.015278] [CTX loss: 0.001669]
+[Step 100/10000] [D loss: 0.601828] [G loss: 1.362261] [CTX loss: 0.210344]
+[Step 200/10000] [D loss: 0.298762] [G loss: 0.553157] [CTX loss: 0.204524]
+[Step 300/10000] [D loss: 0.232849] [G loss: 0.539863] [CTX loss: 0.198182]
+[Step 400/10000] [D loss: 0.161573] [G loss: 0.633963] [CTX loss: 0.222753]
+[Step 500/10000] [D loss: 0.126324] [G loss: 0.724643] [CTX loss: 0.209642]
+[Step 600/10000] [D loss: 0.123639] [G loss: 0.713852] [CTX loss: 0.173990]
+[Step 700/10000] [D loss: 0.074060] [G loss: 0.833540] [CTX loss: 0.190438]
+[Step 800/10000] [D loss: 0.084854] [G loss: 0.864557] [CTX loss: 0.196100]
+[Step 900/10000] [D loss: 0.104158] [G loss: 0.824946] [CTX loss: 0.190164]
+[Step 1000/10000] [D loss: 0.206155] [G loss: 0.454973] [CTX loss: 0.178431]
+[Step 1100/10000] [D loss: 0.231222] [G loss: 0.329135] [CTX loss: 0.172919]
+[Step 1200/10000] [D loss: 0.217689] [G loss: 0.390621] [CTX loss: 0.179174]
+[Step 1300/10000] [D loss: 0.219292] [G loss: 0.388123] [CTX loss: 0.160315]
+[Step 1400/10000] [D loss: 0.185716] [G loss: 0.535076] [CTX loss: 0.178752]
+[Step 1500/10000] [D loss: 0.196964] [G loss: 0.592938] [CTX loss: 0.184130]
+[Step 1600/10000] [D loss: 0.198028] [G loss: 0.482463] [CTX loss: 0.164808]
+[Step 1700/10000] [D loss: 0.181924] [G loss: 0.523521] [CTX loss: 0.154559]
+[Step 1800/10000] [D loss: 0.165778] [G loss: 0.560841] [CTX loss: 0.153616]
+[Step 1900/10000] [D loss: 0.168098] [G loss: 0.567262] [CTX loss: 0.150490]
+[Step 2000/10000] [D loss: 0.199557] [G loss: 0.476208] [CTX loss: 0.154047]
+[Step 2100/10000] [D loss: 0.206759] [G loss: 0.442622] [CTX loss: 0.153511]
+[Step 2200/10000] [D loss: 0.191158] [G loss: 0.455211] [CTX loss: 0.148312]
+[Step 2300/10000] [D loss: 0.195462] [G loss: 0.448794] [CTX loss: 0.149562]
+[Step 2400/10000] [D loss: 0.206636] [G loss: 0.432015] [CTX loss: 0.166564]
+[Step 2500/10000] [D loss: 0.231577] [G loss: 0.355465] [CTX loss: 0.158907]
+[Step 2600/10000] [D loss: 0.203715] [G loss: 0.432898] [CTX loss: 0.159635]
+[Step 2700/10000] [D loss: 0.234774] [G loss: 0.341967] [CTX loss: 0.157599]
+[Step 2800/10000] [D loss: 0.211545] [G loss: 0.406677] [CTX loss: 0.159614]
+[Step 2900/10000] [D loss: 0.221104] [G loss: 0.397428] [CTX loss: 0.157663]
+[Step 3000/10000] [D loss: 0.236654] [G loss: 0.309600] [CTX loss: 0.153838]
+[Step 3100/10000] [D loss: 0.229879] [G loss: 0.348233] [CTX loss: 0.151120]
+[Step 3200/10000] [D loss: 0.226931] [G loss: 0.387733] [CTX loss: 0.161212]
+[Step 3300/10000] [D loss: 0.219648] [G loss: 0.385391] [CTX loss: 0.160208]
+[Step 3400/10000] [D loss: 0.243825] [G loss: 0.311053] [CTX loss: 0.156456]
+[Step 3500/10000] [D loss: 0.233448] [G loss: 0.328463] [CTX loss: 0.156318]
+[Step 3600/10000] [D loss: 0.266626] [G loss: 0.276836] [CTX loss: 0.152165]
+[Step 3700/10000] [D loss: 0.263659] [G loss: 0.252314] [CTX loss: 0.152268]
+[Step 3800/10000] [D loss: 0.260558] [G loss: 0.252114] [CTX loss: 0.150183]
+[Step 3900/10000] [D loss: 0.261459] [G loss: 0.249361] [CTX loss: 0.149832]

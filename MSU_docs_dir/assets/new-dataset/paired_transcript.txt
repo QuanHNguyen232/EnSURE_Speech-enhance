@@ -1,0 +1,1030 @@
+1.0,PD50_sit8,she doesnt like to have it hanging around
+1.0,OC11_sit8,she doesnt like to have it hanging around
+
+1.0,PD10_sit9,the first health revolution was the control of infection
+1.0,OC33_sit9,the first health revolution was the control of infection
+
+1.0,PD34_sit14,the children were now daring each other to feats of wild speed and recklessness
+1.0,OC21_sit14,the children were now daring each other to feats of wild speed and recklessness
+1.0,OC36_sit14,the children were now daring each other to feats of wild speed and recklessness
+
+1.0,PD21_sit14,were fortunate that there are still people like them around to do the job
+0.8,PD21_sit14,were fortunate that there are still people like them around to do the job
+0.8,PD13_sit14,were fortunate that there are still people like them around to do the job
+1.0,OC13_sit14,were fortunate that there are still people like them around to do the job
+
+1.0,PD39_sit15,trays of baby bottles were passed out to the older children to feed the infants
+1.0,PD31_sit15,trays of baby bottles were passed out to the older children to feed the infants
+
+1.0,PD12_sit9,i didnt even know how much fuel it had
+1.0,OC14_sit9,i didnt even know how much fuel it had
+
+1.0,PD06_sit14,i dropped my trays and grabbed her just as she was about to fall
+1.0,PD04_sit14,i dropped my trays and grabbed her just as she was about to fall
+1.0,PD55_sit14,i dropped my trays and grabbed her just as she was about to fall
+
+1.0,PD20_sit9,the complaint came in at two in the afternoon
+1.0,OC38_sit9,the complaint came in at two in the afternoon
+1.0,OC32_sit9,the complaint came in at two in the afternoon
+
+1.0,PD13_sit13,he couldnt go back to his trade and he had no other skills
+1.0,OC02_sit13,he couldnt go back to his trade and he had no other skills
+
+1.0,PD01_sit8,this is a period of transition for me
+1.0,OC45_sit8,this is a period of transition for me
+
+1.0,OC28_sit9,practically everyone is guilty at one time or another
+1.0,OC26_sit9,practically everyone is guilty at one time or another
+
+1.0,PD47_sit15,nobody knows exactly why or when the tragedy will occur without knowing the full circumstances
+1.0,PD03_sit15,nobody knows exactly why or when the tragedy will occur without knowing the full circumstances
+
+1.0,PD32_sit5,my husband drives too fast
+1.0,PD17_sit5,my husband drives too fast
+1.0,PD54_sit5,my husband drives too fast
+1.0,PD33_sit5,my husband drives too fast
+1.0,OC20_sit5,my husband drives too fast
+
+1.0,OC46_sit9,what can i do now other than pardon him
+1.0,OC05_sit9,what can i do now other than pardon him
+
+1.0,PD03_sit5,she cooked carrots and onions
+1.0,PD47_sit5,she cooked carrots and onions
+1.0,OC46_sit5,she cooked carrots and onions
+
+1.0,PD07_sit5,it was a great meeting
+1.0,PD04_sit5,it was a great meeting
+0.8,PD15_sit5,it was a great meeting
+
+1.0,PD16_sit8,we are the largest of the four states
+1.0,PD08_sit8,we are the largest of the four states
+0.8,PD41_sit8,we are the largest of the four states
+1.0,OC40_sit8,we are the largest of the four states
+
+1.0,PD55_sit5,theyll never fit me again
+1.0,PD06_sit5,theyll never fit me again
+1.0,PD41_sit5,theyll never fit me again
+
+1.0,PD20_sit13,next evening we were back to take our places against the fallen tree
+1.0,PD34_sit13,next evening we were back to take our places against the fallen tree
+1.0,OC22_sit13,next evening we were back to take our places against the fallen tree
+
+1.0,OC27_sit9,weve got to think ourselves out of this situation
+1.0,OC18_sit9,weve got to think ourselves out of this situation
+
+1.0,PD39_sit12,for years a friend of mine has been trying to quit smoking
+1.0,PD31_sit12,for years a friend of mine has been trying to quit smoking
+1.0,OC30_sit12,for years a friend of mine has been trying to quit smoking
+1.0,OC21_sit12,for years a friend of mine has been trying to quit smoking
+
+1.0,OC24_sit14,this may be all right for math but its a little unrealistic in practice
+1.0,OC28_sit14,this may be all right for math but its a little unrealistic in practice
+
+1.0,PD37_sit15,if you have a new television you wont feel sorry for yourself because youre alone
+1.0,OC17_sit15,if you have a new television you wont feel sorry for yourself because youre alone
+
+1.0,PD29_sit9,his chronic stage fright nearly lost him the part
+1.0,OC11_sit9,his chronic stage fright nearly lost him the part
+
+1.0,PD49_sit8,there is no fee to visit the nursery
+1.0,PD34_sit8,there is no fee to visit the nursery
+1.0,OC08_sit8,there is no fee to visit the nursery
+
+1.0,PD37_sit14,unlike many of us he is not afraid to admit he is wrong
+1.0,OC34_sit14,unlike many of us he is not afraid to admit that he is wrong
+1.0,OC10_sit14,unlike many of us he is not afraid to admit that he is wrong
+
+1.0,PD50_sit15,he told the crowd hed never seen anything like the celebration in his entire career
+1.0,OC14_sit15,he told the crowd hed never seen anything like the celebration in his entire career
+
+1.0,PD07_sit7,its not at all difficult to prepare
+1.0,PD29_sit7,its not at all difficult to prepare
+1.0,PD09_sit7,its not at all difficult to prepare
+
+1.0,PD47_sit12,flowers in the shade demand less water than those in the sun
+1.0,PD03_sit12,flowers in the shade demand less water than those in the sun
+0.9,PD10_sit12,flowers in the shade demand less water than those in the sun
+0.9,PD47_sit12,flowers in the shade demand less water than those in the sun
+1.0,OC33_sit12,flowers in the shade demand less water than those in the sun
+
+1.0,OC07_sit15,for in this condition the object of desire is always at its most flawless perfect
+1.0,OC43_sit15,for in this condition the object of desire is always at its most flawlessly perfect
+1.0,OC07_sit15,for in this condition the object of desire is always at its most flawless perfect
+
+1.0,OC37_sit7,gradually the noise level began to drop
+1.0,OC22_sit7,gradually the noise level began to drop
+
+1.0,PD27_sit8,natural poisons have always existed in our foods
+1.0,OC43_sit8,natural poisons have always existed in our foods
+
+1.0,PD29_sit8,he never played a moment of organized football
+0.8,PD23_sit8,he never played a moment of organized football
+1.0,OC41_sit8,he never played a moment of organized football
+
+1.0,PD28_sit6,i tell you it was wonderful
+1.0,PD44_sit6,i tell you it was wonderful
+1.0,PD51_sit6,i tell you it was wonderful
+1.0,OC27_sit6,i tell you it was wonderful
+
+1.0,OC03_sit12,im sorry but i cannot grant your request to change your grade
+1.0,OC02_sit12,im sorry but i cannot grant your request to change your grade
+
+1.0,PD19_sit11,youre allowed to take an extra day to return the trailer
+1.0,OC31_sit11,youre allowed to take an extra day to return the trailer
+
+1.0,PD37_sit10,so far only a handful of wells have been drilled
+1.0,PD26_sit10,so far only a handful of wells have been drilled
+1.0,OC30_sit10,so far only a handful of wells have been drilled
+
+1.0,PD07_sit12,if the dormant does nothing for you he doesnt deserve a tip
+1.0,OC17_sit12,if the dormant does nothing for you he doesnt deserve a tip
+
+1.0,PD46_sit7,i saw him a few weeks later
+1.0,OC01_sit7,i saw him a few weeks later
+
+1.0,PD31_sit14,i dont blow money on horses or buy my wife diamonds or fur coats
+1.0,OC08_sit14,i dont blow money on horses or buy my wife diamonds and fur coats
+
+1.0,PD54_sit15,it is so different from the flowers that needs its own special terms
+1.0,PD23_sit15,it is so different from the flowers that it needs its own special terms
+
+1.0,PD10_sit8,there was only one decision to be made
+1.0,OC33_sit8,there was only one decision to be made
+1.0,PD31_sit8,there was only one decision to be made
+1.0,OC19_sit8,there was only one decision to be made
+0.5,OC05_sit8,there is only one decision to be made
+
+1.0,OC44_sit7,the preparation of this article was difficult
+1.0,OC43_sit7,the preparation of this article was difficult
+1.0,OC44_sit7,the preparation of this article was difficult
+
+1.0,PD36_sit15,too many people die of heart attacks because they do not get treatment in time
+0.8,PD36_sit15,too many people die of heart attacks because they do not get treatment in time
+0.8,PD17_sit15,too many people die of heart attacks because they do not get treatment in time
+1.0,PD43_sit15,too many people die of heart attacks because they do not get treatment in time
+1.0,OC20_sit15,too many people die of heart attacks because they do not get treatment in time
+
+1.0,OC21_sit7,beans must be soaked and then cooked
+1.0,OC15_sit7,beans must be soaked and then cooked
+
+1.0,PD32_sit12,the best way to describe the work is to say its unpredictable
+1.0,OC18_sit12,the best way to describe the work is to say its unpredictable
+
+1.0,PD13_sit6,i was in love with it
+1.0,OC06_sit6,i was in love with it
+
+1.0,OC32_sit15,he was an innocent man but he had no money to pay for legal expenses
+1.0,OC01_sit15,he was an innocent man but he had no money to pay for legal expenses
+1.0,OC24_sit15,he was an innocent man but he had no money to pay for legal expenses
+1.0,OC35_sit15,he was an innocent man but he had no money to pay for legal expenses
+
+1.0,OC16_sit5,i think well respond favorably
+1.0,OC05_sit5,i think well respond favorably
+
+1.0,OC25_sit11,not many people around here care for that sort of thing
+1.0,OC37_sit11,not many people around here care for that sort of thing
+
+1.0,PD05_sit12,although he loved the whole human race children were his special favorites
+1.0,OC22_sit12,although he loved the whole human race children were his special favorites
+1.0,OC41_sit12,although he loved the whole human race children were his special favorites
+
+1.0,PD47_sit6,i have not addressed the issue
+1.0,PD03_sit6,i have not addressed the issue
+1.0,PD25_sit6,i have not addressed the issue
+
+1.0,PD49_sit11,some of us give assurance while others do quite the contrary
+1.0,OC33_sit11,some of us give assurance while others do quite the contrary
+1.0,PD10_sit11,some of us give assurance while others do quite the contrary
+
+1.0,OC37_sit10,you may also recognize the things that are not practical
+1.0,OC43_sit10,you may also recognize the things that are not practical
+
+0.8,PD17_sit7,we had to get the managers permission
+1.0,OC38_sit7,we had to get the managers permission
+1.0,OC20_sit7,we had to get the managers permission
+
+1.0,PD31_sit10,hundreds of tools and inventions are now on the market
+1.0,OC25_sit10,hundreds of tools and inventions are now on the market
+
+1.0,PD21_sit8,he was a policeman in a local club
+1.0,OC13_sit8,he was a policeman in a local club
+
+1.0,PD32_sit15,there are thousands of cookbooks but one general favorite book belongs on every book cooks shelf
+1.0,OC42_sit15,there are thousands of cookbooks but one general favorite book belongs on every cooks shelf
+1.0,OC22_sit15,there are thousands of cookbooks but one general favorite book belongs on every cooks shelf
+
+0.9,PD02_sit14,he knows there is a pack of wolves in the timber across the valley
+1.0,PD30_sit14,he knows there is a pack of wolves in the timber across the valley
+0.8,PD45_sit14,he knows there is a pack of wolves in the timber across the valley
+1.0,OC44_sit14,he knows there is a pack of wolves in the timber across the valley
+
+1.0,PD55_sit9,he said that he was too old to travel
+1.0,PD06_sit9,he said that he was too old to travel
+1.0,OC02_sit9,he said that he was too old to travel
+
+1.0,PD39_sit6,the pair of shoes was new
+1.0,PD32_sit6,the pair of shoes was new
+
+1.0,PD51_sit5,every newspaper reported the story
+1.0,OC29_sit5,every newspaper reported the story
+
+1.0,PD52_sit9,you will be looking much better in three days
+1.0,OC42_sit9,you will be looking much better in three days
+
+1.0,OC10_sit11,his success is the kind we all have to shoot for
+1.0,OC12_sit11,his success is the kind we all have to shoot for
+1.0,OC34_sit11,his success is the kind we all have to shoot for
+1.0,OC32_sit11,his success is the kind we all have to shoot for
+
+0.9,PD17_sit11,we must act quickly to save what remains of this resource
+0.9,OC20_sit11,we must act quickly to save what remains of this resource
+1.0,OC02_sit11,we must act quickly to save what remains of this resource
+1.0,OC24_sit11,we must act quickly to save what remains of this resource
+
+1.0,PD30_sit6,how many hours have you worked
+1.0,OC38_sit6,how many hours have you worked
+1.0,PD45_sit6,how many hours have you worked
+
+1.0,OC28_sit11,one night we had quite a disagreement which was left unresolved
+1.0,OC06_sit11,one night we had quite a disagreement which was left unresolved
+1.0,OC17_sit11,one night we had quite a disagreement which was left unresolved
+1.0,OC42_sit11,one night we had quite a disagreement which was left unresolved
+
+1.0,PD09_sit11,people see him as a spoiled brat in a gentlemans sport
+1.0,OC19_sit11,people see him as a spoiled brat in a gentlemans sport
+1.0,PD46_sit11,people see him as a spoiled brat in a gentlemans sport
+
+1.0,PD55_sit13,no matter what profession you go into a strong general background is helpful
+1.0,PD06_sit13,no matter what profession you go into a strong general background is helpful
+1.0,PD02_sit13,no matter what profession you go into a strong general background is helpful
+0.9,OC44_sit13,no matter what profession you go into a strong general background is helpful
+0.9,OC07_sit13,no matter what profession you go into a strong general background is helpful
+
+1.0,OC37_sit6,most weeds grow strong and fast
+1.0,OC29_sit6,most weeds grow strong and fast
+
+1.0,PD02_sit11,we will get to know these players as we go along
+1.0,OC23_sit11,we will get to know these players as we go along
+1.0,OC44_sit11,we will get to know these players as we go along
+1.0,OC29_sit11,we will get to know these players as we go along
+
+1.0,PD28_sit15,we are still surrounded by mysteries here on earth which at present cannot be explained
+0.9,PD28_sit15,we are still surrounded by mysteries here on earth which at present cannot be explained
+0.9,PD44_sit15,we are still surrounded by mysteries here on earth which at present cannot be explained
+1.0,OC15_sit15,we are still surrounded by mysteries here on earth which at present cannot be explained
+
+1.0,PD44_sit12,a cat raised by other cats will be forever fearful of people
+1.0,PD38_sit12,a cat raised by other cats will be forever fearful of people
+1.0,PD44_sit12,a cat raised by other cats will be forever fearful of people
+1.0,PD28_sit12,a cat raised by other cats will be forever fearful of people
+1.0,OC04_sit12,a cat raised by other cats will be forever fearful of people
+
+1.0,PD40_sit15,certainly consumers have the right to complain and send things back when they arent right
+1.0,OC16_sit15,certainly consumers have the right to complain and send things back when they arent right
+1.0,OC37_sit15,certainly consumers have the right to complain and send things back when they arent right
+
+1.0,PD28_sit7,he told the patient to be careful
+1.0,PD44_sit7,he told the patient to be careful
+
+1.0,PD53_sit7,i havent seen that friend for years
+1.0,OC30_sit7,i havent seen that friend for years
+
+1.0,PD42_sit14,i had put on 30 pounds in six months and that didnt help matters
+1.0,OC02_sit14,i had put on 30 pounds in six months and that didnt help matters
+
+1.0,PD44_sit10,it was fun once we got up to the house
+1.0,PD28_sit10,it was fun once we got up to the house
+
+1.0,PD56_sit6,you will never know until you try
+1.0,PD27_sit6,you will never know until you try
+0.8,PD56_sit6,you will never know until you try
+0.8,OC09_sit6,you will never know until you try
+
+1.0,PD48_sit12,all thats required is hard work and the will to do it
+1.0,PD02_sit12,all thats required is hard work and the will to do it
+1.0,OC44_sit12,all thats required is hard work and the will to do it
+
+1.0,PD49_sit10,the patient managed to fall and break his ankle again
+1.0,OC45_sit10,the patient managed to fall and break his ankle again
+
+1.0,PD46_sit15,the meeting was not to put out our problems but more to encourage one another
+1.0,OC10_sit15,the meeting was not to put out our problems but more to encourage one another
+1.0,OC34_sit15,the meeting was not to put out our problems but more to encourage one another
+
+1.0,PD40_sit8,the defendant is either guilty or not guilty
+1.0,PD06_sit8,the defendant is either guilty or not guilty
+1.0,OC12_sit8,the defendant is either guilty or not guilty
+
+1.0,PD19_sit15,i was going to go there but everyone told me it rained all the time
+0.8,PD19_sit15,i was going to go there but everyone told me it rained all the time
+0.8,PD18_sit15,i was going to go there but everyone told me it rained all the time
+1.0,PD56_sit15,i was going to go there but everyone told me it rained all the time
+1.0,OC09_sit15,i was going to go there but everyone told me it rained all the time
+
+1.0,PD27_sit12,in any case it is a little late to stop the revolution
+1.0,PD29_sit12,in any case it is a little late to stop the revolution
+1.0,OC01_sit12,in any case it is a little late to stop the revolution
+
+1.0,PD21_sit7,the soil seemed to hold water well
+1.0,OC19_sit7,the soil seemed to hold water well
+1.0,OC13_sit7,the soil seemed to hold water well
+
+1.0,OC29_sit9,his view hinted at a more mature attitude
+1.0,OC04_sit9,his view hinted at a more mature attitude
+
+1.0,PD07_sit9,ive been through too much to give in now
+1.0,OC22_sit9,ive been through too much to give in now
+
+1.0,OC18_sit10,the firm employs a battery of test to measure motivation
+1.0,OC15_sit10,the firm employs a battery of tests to measure motivation
+1.0,OC16_sit10,the firm employs a battery of tests to measure motivation
+
+1.0,PD37_sit13,the basic requirement is an activity that draws them closer to each other
+1.0,OC05_sit13,the basic requirement is an activity that draws them closer to each other
+0.9,OC14_sit11,the basic requirement is an activity that draws them closer to each other
+0.9,OC05_sit13,the basic requirement is an activity that draws them closer to each other
+
+1.0,OC07_sit8,no one target shoots as well as he
+1.0,OC31_sit8,no one target shoots as well as he
+
+1.0,PD09_sit5,the workout lasted two hours
+1.0,OC22_sit5,the workout lasted two hours
+
+1.0,PD36_sit8,take some time out to enjoy the season
+0.8,PD36_sit8,take some time out to enjoy the season
+0.8,PD12_sit8,take some time out to enjoy the season
+1.0,OC42_sit8,take some time out to enjoy the season
+
+1.0,PD54_sit10,one of these days im going to take a vacation
+1.0,OC14_sit10,one of these days im going to take a vacation
+
+1.0,PD02_sit8,enjoy the fair weather while in the tropics
+1.0,OC44_sit8,enjoy the fair weather while in the tropics
+
+1.0,PD43_sit11,whatever the reasons the day of the old car is here
+1.0,PD41_sit11,whatever the reasons the day of the old car is here
+1.0,OC38_sit11,whatever the reasons the day of the old car is here
+
+1.0,PD12_sit6,they are very much in love
+0.8,PD12_sit6,they are very much in love
+0.8,PD54_sit6,they are very much in love
+1.0,OC17_sit6,they are very much in love
+
+1.0,PD41_sit10,this is a trend we simply cannot allow to continue
+1.0,OC35_sit10,this is a trend we simply cannot allow to continue
+
+1.0,PD01_sit5,the job provides many benefits
+1.0,OC37_sit5,the job provides many benefits
+
+1.0,OC16_sit14,one cant think of anything that isnt under some circumstances able to cause harm
+1.0,OC03_sit14,one cant think of anything that isnt under some circumstances able to cause harm
+
+0.9,PD12_sit10,he has already received many new requests for the list
+0.9,OC03_sit10,he has already received many new requests for the list
+1.0,OC03_sit10,he has already received many new requests for the list
+1.0,OC27_sit10,he has already received many new requests for the list
+
+1.0,PD56_sit13,it was our first sign of a grizzly in a week of searching
+1.0,OC28_sit13,it was our first sign of a grizzly in a week of searching
+1.0,OC09_sit13,it was our first sign of a grizzly in a week of searching
+
+1.0,PD34_sit15,in the emergency room patients often wait for hours until a doctor can see them
+0.8,PD34_sit15,in the emergency room patients often wait for hours until a doctor can see them
+0.8,PD13_sit15,in the emergency room patients often wait for hours until a doctor can see them
+1.0,OC28_sit15,in the emergency room patients often wait for hours until a doctor can see them
+
+1.0,PD21_sit6,you want him to do well
+0.8,PD21_sit6,you want him to do well
+0.8,PD33_sit6,you want him to do well
+1.0,OC13_sit6,you want him to do well
+
+1.0,PD38_sit5,he feels the same way
+1.0,PD10_sit5,he feels the same way
+0.8,PD19_sit5,he feels the same way
+1.0,OC33_sit5,he feels the same way
+
+1.0,OC10_sit7,paper cups of jelly beans were set out
+1.0,OC34_sit7,paper cups of jelly beans were set out
+
+1.0,PD56_sit9,he is accused of being too rigid and moral
+1.0,OC09_sit9,he is accused of being too rigid and moral
+
+1.0,PD02_sit6,each one volunteered to jump first
+1.0,OC44_sit6,each one volunteered to jump first
+
+1.0,PD46_sit14,for once let us attack the causes of our problems and not the results
+1.0,OC35_sit14,for once let us attack the causes of our problems and not the results
+
+1.0,PD07_sit8,find out everything you might need to know
+1.0,OC28_sit8,find out everything you might need to know
+
+1.0,OC31_sit12,go get a court order if you want to see the books
+1.0,OC19_sit12,go get a court order if you want to see the books
+
+1.0,PD16_sit12,consider all that he must do to stay at the prescribed weight
+1.0,OC08_sit12,consider all that he must do to stay at the prescribed weight
+
+1.0,PD09_sit6,the surgeon quickly stitched the wound
+1.0,OC20_sit6,the surgeon quickly stitched the wound
+
+1.0,PD48_sit13,there were many signs that they had a high degree of achievement motivation
+1.0,OC31_sit13,there were many signs that they had a high degree of achievement motivation
+
+1.0,PD21_sit5,we both love to travel
+1.0,PD49_sit5,we both love to travel
+1.0,PD18_sit5,we both love to travel
+1.0,OC13_sit5,we both love to travel
+
+1.0,PD55_sit12,he doesnt think the film will damage the image of the professional players
+1.0,PD06_sit12,he doesnt think the film will damage the image of professional players
+
+1.0,PD16_sit13,i dont want to miss anything because i dont have anyone with me
+1.0,OC24_sit13,i dont want to miss anything because i dont have anyone with me
+
+1.0,PD55_sit6,the fish swam across the pond
+1.0,PD06_sit6,the fish swam across the pond
+1.0,OC31_sit6,the fish swam across the pond
+
+1.0,PD08_sit5,some hotels are available nearby
+1.0,PD37_sit5,some hotels are available nearby
+
+1.0,OC11_sit10,he was attempting to capture his second consecutive tennis championship
+1.0,OC40_sit10,he was attempting to capture his second consecutive tennis championship
+
+1.0,OC30_sit15,he bought everything he needed to start drawing and painting but then changed his mind
+1.0,OC31_sit15,he bought everything he needed to start drawing and painting but then changed his mind
+
+1.0,PD56_sit14,the idea of the magic wand may well have begun with the divining rod
+1.0,OC09_sit14,the idea of the magic wand may well have begun with the divining rod
+
+1.0,PD16_sit9,we cannot and need not back either side totally
+1.0,PD37_sit9,we cannot and need not back either side totally
+1.0,PD36_sit9,we cannot and need not back either side totally
+
+1.0,PD43_sit12,i ask people to be as careful as they are at home
+1.0,OC43_sit12,i ask people to be as careful as they are at home
+
+1.0,PD04_sit7,she suggested we all have dinner together
+1.0,PD26_sit7,she suggested we all have dinner together
+
+1.0,PD19_sit13,somehow i doubt that he will win because golf is such a challenge
+1.0,OC08_sit13,somehow i doubt that he will win because golf is such a challenge
+0.9,PD19_sit13,somehow i doubt that he will win because golf is such a challenge
+0.9,OC46_sit13,somehow i doubt that he will win because golf is such a challenge
+
+1.0,PD35_sit10,my sister has a unique way of getting things done
+1.0,OC32_sit10,my sister has a unique way of getting things done
+
+1.0,PD28_sit8,youd be better off taking a cold shower
+1.0,OC25_sit8,youd be better off taking a cold shower
+1.0,OC18_sit8,youd be better off taking a cold shower
+
+1.0,PD30_sit11,it struck us that they were really being demeaning to them
+1.0,PD36_sit11,it struck us that they were really being demeaning to them
+
+1.0,PD01_sit9,try to avoid moving in midsummer or on weekends
+1.0,OC15_sit9,try to avoid moving in midsummer or on weekends
+
+1.0,OC42_sit7,only two seemed really appealing to me
+1.0,OC27_sit7,only two seemed really appealing to me
+
+1.0,PD42_sit15,at one point the mother disappeared over the crest and was gone for several minutes
+1.0,OC39_sit15,at one point the mother disappeared over the crest and was gone for several minutes
+
+1.0,OC26_sit15,you can have a sofa in your very own living room that has great style
+1.0,OC29_sit15,you can have a sofa in your very own living room that has great style
+
+1.0,PD28_sit5,many have adopted this attitude
+1.0,OC08_sit5,many have adopted this attitude
+1.0,PD44_sit5,many have adopted this attitude
+
+1.0,PD51_sit11,by the end of the year the inflation rate had spiraled
+1.0,OC26_sit11,by the end of the year the inflation rate had spiraled
+
+1.0,OC21_sit11,my mother nursed me in the wings and in dressing rooms
+1.0,OC27_sit11,my mother nursed me in the wings and in dressing rooms
+
+1.0,PD33_sit15,if he and his wife are having difficulties he will talk them out with her
+1.0,PD52_sit15,if he and his wife are having difficulties he will talk them out with her
+
+1.0,PD35_sit13,members range from students and grandmothers to star athletes lawyers businessmen and mayors
+1.0,OC21_sit13,members range from students and grandmothers to star athletes lawyers businessmen and mayors
+
+1.0,PD07_sit6,i loved every minute of it
+1.0,PD48_sit6,i loved every minute of it
+
+1.0,OC16_sit12,from that point on several men would remember nothing of the crash
+1.0,OC18_sit15,due to amnesia several men would remember nothing of the crash from that point on
+
+1.0,PD21_sit13,we have to take part in what is good and do our best
+1.0,OC13_sit13,we have to take part in what is good and do our best
+
+1.0,PD42_sit13,you can choose almost any kind of route you want to get there
+1.0,OC26_sit13,you can choose almost any kind of route you want to get there
+
+1.0,PD10_sit14,we only had half the number of performers that werent supposed to be there
+1.0,OC32_sit14,we only had half the number of performers that were supposed to be there
+
+1.0,PD56_sit7,the pain passes but the beauty remains
+1.0,OC09_sit7,the pain passes but the beauty remains
+
+1.0,OC19_sit6,the old womans cat was pregnant
+1.0,OC07_sit6,the old womans cat was pregnant
+1.0,OC39_sit6,the old womans cat was pregnant
+
+1.0,PD05_sit5,the box contained three sweaters
+1.0,PD12_sit5,the box contained three sweaters
+
+1.0,PD56_sit8,the wait for work can be very long
+1.0,OC09_sit8,the wait for work can be very long
+
+1.0,PD37_sit8,night after night they received annoying phone calls
+1.0,OC02_sit8,night after night they received annoying phone calls
+1.0,OC38_sit8,night after night they received annoying phone calls
+
+1.0,PD33_sit10,when business slows down considerably it can cause widespread unemployment
+1.0,PD04_sit10,when business slows down considerably it can cause widespread unemployment
+
+1.0,PD12_sit14,unless the young people really believe in our institutions the system will not work
+1.0,OC15_sit14,unless the young people really believe in our institutions the system will not work
+
+1.0,PD19_sit6,she will spend the winter abroad
+1.0,OC28_sit6,she will spend the winter abroad
+
+1.0,PD48_sit5,he wore a black vest
+1.0,OC09_sit5,he wore a black vest
+1.0,PD35_sit5,he wore a black vest
+1.0,PD56_sit5,he wore a black vest
+
+1.0,PD53_sit9,i worked at it regardless of what anyone thought
+1.0,PD31_sit9,i worked at it regardless of what anyone thought
+
+1.0,PD54_sit7,i think im full of this stuff
+1.0,PD30_sit7,i think im full of this stuff
+
+1.0,PD24_sit14,merely defining the risk is not enough for a jockey to keep his job
+1.0,OC23_sit14,merely defining the risks is not enough for a jockey to keep his job
+1.0,PD43_sit14,merely defining the risks is not enough for a jockey to keep his job
+
+1.0,OC33_sit10,many parents said they stopped medication when the ear ache disappeared
+1.0,OC44_sit10,many parents said they stopped medication when the ear ache disappeared
+1.0,PD02_sit10,many parents said they stopped medication when the ear ache disappeared
+1.0,PD10_sit10,many parents said they stopped medication when the ear ache disappeared
+0.8,PD02_sit10,many parents said they stopped medication when the ear ache disappeared
+0.8,OC33_sit10,many parents said they stopped medication when the ear ache disappeared
+
+1.0,PD41_sit7,some people find them hard to identify
+1.0,PD01_sit7,some people find them hard to identify
+
+1.0,OC38_sit13,more than a foot of rain can fall in a day or two
+1.0,OC14_sit13,more than a foot of rain can fall in a day or two
+
+1.0,OC34_sit9,the police said the collision was not my fault
+1.0,OC10_sit9,the police said the collision was not my fault
+
+1.0,PD31_sit6,that way you wont be disappointed
+1.0,PD22_sit6,that way you wont be disappointed
+1.0,PD04_sit6,that way you wont be disappointed
+
+1.0,PD04_sit9,it gave her an excuse not to leave us
+1.0,OC30_sit9,it gave her an excuse not to leave us
+
+1.0,PD27_sit7,big muscles are not necessarily strong ones
+1.0,OC12_sit7,big muscles are not necessarily strong ones
+
+1.0,OC24_sit10,a patient seriously hurt his ankle in a motorcycle accident
+1.0,OC06_sit10,a patient seriously hurt his ankle in a motorcycle accident
+1.0,OC42_sit10,a patient seriously hurt his ankle in a motorcycle accident
+
+1.0,PD01_sit10,my thats a big word for such a little child
+1.0,PD07_sit10,my thats a big word for such a little child
+
+1.0,PD33_sit9,they become limber and they move with greater strength
+1.0,OC21_sit9,they become limber and they move with greater strength
+1.0,OC40_sit9,they become limber and they move with greater strength
+1.0,OC08_sit9,they become limber and they move with greater strength
+
+1.0,PD39_sit14,most of the disabled who are eligible for aid are not receiving enough help
+1.0,OC14_sit14,most of the disabled who are eligible for aid are not receiving enough help
+
+1.0,OC04_sit14,we got to talking and i mentioned that i do candid photography of children
+1.0,OC31_sit14,we got to talking and i mentioned that i do candid photography of children
+
+1.0,OC21_sit15,the resorts beautiful gardens good food and swimming pool produce a bunch of happy guests
+1.0,OC19_sit15,the resorts beautiful gardens good food and swimming pool produce a bunch of happy guests
+
+1.0,OC32_sit8,i dont know how to deal with it
+1.0,OC04_sit8,i dont know how to deal with it
+
+1.0,PD03_sit13,why is that all the people in your portraits look so sad
+1.0,PD47_sit13,why is that all the people in your portraits look so sad
+
+1.0,PD38_sit8,the process works in other ways as well
+1.0,PD19_sit8,the process works in other ways as well
+1.0,OC30_sit8,the process works in other ways as well
+
+1.0,OC15_sit6,paint the sign in bold letters
+1.0,OC02_sit6,paint the sign in bold letters
+
+1.0,PD54_sit12,i thought i was going to hit the side of our building
+1.0,OC38_sit12,i thought it was going to hit the side of our building
+
+1.0,PD26_sit5,keep your house very clean
+1.0,OC38_sit5,keep your house very clean
+1.0,OC21_sit5,keep your house very clean
+
+1.0,PD13_sit5,it was not a joke
+1.0,OC03_sit5,it was not a joke
+
+1.0,PD39_sit9,in town one day an angry woman accosted him
+1.0,OC43_sit9,in town one day an angry woman accosted him
+
+1.0,OC14_sit12,i cant ever repay the church for the faith its given me
+1.0,OC15_sit12,i cant ever repay the church for the faith its given me
+
+1.0,OC15_sit5,i found two wooden boxes
+1.0,PD20_sit5,i found two wooden boxes
+1.0,OC30_sit5,i found two wooden boxes
+
+1.0,PD26_sit14,returning later he found that the trap had been carefully dug up and sprung
+1.0,OC17_sit14,returning later he found that the trap had been carefully dug up and sprung
+
+1.0,PD19_sit14,it is their large appetite for lamb that constantly keeps him in hot water
+1.0,OC40_sit14,it is their large appetite for lamb that constantly keeps him in hot water
+
+1.0,PD08_sit7,being able to dance can help too
+1.0,OC36_sit7,being able to dance can help too
+
+1.0,PD49_sit6,hundreds of fans surrounded the celebrity
+1.0,OC11_sit6,hundreds of fans surrounded the celebrity
+
+1.0,PD50_sit6,the little girls cut lacy valentines
+1.0,OC12_sit6,the little girls cut lacy valentines
+
+1.0,PD25_sit8,there are two methods for soaking dried beans
+1.0,PD03_sit8,there are two methods for soaking dried beans
+1.0,PD47_sit8,there are two methods for soaking dried beans
+1.0,PD43_sit8,there are two methods for soaking dried beans
+1.0,PD25_sit8,there are two methods for soaking dried beans
+
+1.0,PD33_sit11,i miss having you with me when im clearing the table
+1.0,OC16_sit11,i miss having you with me when im clearing the table
+1.0,PD48_sit11,i miss having you with me when im clearing the table
+
+1.0,PD45_sit5,the books are very expensive
+1.0,PD30_sit5,the books are very expensive
+
+1.0,PD16_sit5,that plant needs more water
+1.0,OC28_sit5,that plant needs more water
+
+1.0,PD17_sit9,i can easily learn to write in correct english
+1.0,OC20_sit9,i can easily learn to write in correct english
+
+0.8,PD44_sit9,every traveler has had experiences and adventures in taxi cabs
+1.0,PD28_sit9,every traveler has had experiences and adventures in taxi cabs
+0.9,PD49_sit9,every traveler has had experiences and adventures in taxi cabs
+0.9,OC25_sit9,every traveler has had experiences and adventures in taxi cabs
+
+1.0,PD45_sit9,you have to feed yourself with information every day
+1.0,PD30_sit9,you have to feed yourself with information every day
+
+1.0,OC08_sit7,i just try to do my best
+1.0,OC24_sit7,i just try to do my best
+
+1.0,OC17_sit5,that wasnt me you heard
+1.0,OC24_sit5,that wasnt me you heard
+
+1.0,PD50_sit11,if you count the fun ive had im well ahead of my goals
+1.0,OC10_sit13,if you count the fun ive had im well ahead of my goals
+1.0,OC10_sit13,if you count the fun ive had im well ahead of my goals
+1.0,OC34_sit13,if you count the fun ive had im well ahead of my goals
+
+0.9444444444444444,PD27_sit15,sometimes in rehearsal everyone would talk a lot about making a change in the script
+0.9444444444444444,OC11_sit15,sometimes in rehearsal everyone would talk a lot about making a change in the script
+
+0.9375,PD55_sit15,remove the pan from the stove and slowly fill it with cold water to cool off
+0.9375,PD29_sit15,remove the pan from the stove and slowly fill it with cold water to cool off
+
+0.9333333333333333,PD10_sit15,it was the exact same feeling you get when your knee gives out on you
+0.9333333333333333,OC45_sit15,it was the exact same feeling you get when your knee gives out on you
+0.9333333333333333,OC25_sit15,it was the exact same feeling you get when your knee gives out on you
+0.9333333333333333,OC33_sit15,it was the exact same feeling you get when your knee gives out on you
+
+0.9333333333333333,OC27_sit15,test resulted in removal of many foods from the diets of millions of diabetics
+0.9333333333333333,OC41_sit15,test resulted in removal of many foods from the diets of millions of diabetics
+
+
+0.9333333333333333,PD21_sit15,until recently there has been little scientific effort to unearth the facts about their habits
+0.9333333333333333,PD53_sit15,until recently there had been little scientific effort to unearth the facts about their habits
+0.9333333333333333,OC13_sit15,until recently there had been little scientific effort to unearth the facts about their habits
+
+0.9333333333333333,PD28_sit13,in this school i still think it isnt even more difficult task
+0.9333333333333333,PD44_sit13,in this school i still think it isnt even more difficult task
+
+0.9333333333333333,PD47_sit14,our first practice is this week were not as good as they should have been
+0.9333333333333333,PD03_sit14,our first practice is this week were not as good as they should have been
+
+0.9333333333333333,PD02_sit15,the material should just cover the tops of the seeds for the best growing pattern
+0.9333333333333333,OC44_sit15,the material should just cover the tops of the seeds for the best growing pattern
+
+0.9285714285714286,PD53_sit13,we talked about whether he should accept the office if it were offered
+0.9285714285714286,PD33_sit13,we talked about whether he should accept the office if it were offered
+0.9285714285714286,PD54_sit13,we talked about whether he should accept the office if it were offered
+
+0.9285714285714286,PD50_sit14,we waited at silent leaning against the fallen tree about 50 feet from the deer
+0.9285714285714286,PD48_sit14,we waited at silent leading against the fallen tree about 50 feet from the deer
+
+0.9285714285714286,PD36_sit13,trucks haul supplies to the jungle and bring back logs and farm products
+0.9285714285714286,OC25_sit13,trucks haul supplies to the jungle and bring back logs and farm products
+
+0.9285714285714286,OC33_sit14,we only had half the number of performers that were supposed to be there
+0.9285714285714286,PD10_sit14,we only had half the number of performers that were supposed to be there
+0.9285714285714286,OC27_sit14,we only had half the number of performers that were supposed to be there
+
+0.9285714285714286,PD45_sit15,he said the investigators expressed their opinions in the report without regard to any recrimination
+0.9285714285714286,PD30_sit15,he said the investigators expressed their opinions in the report without regard to any recrimination
+
+0.9285714285714286,PD39_sit14,most of the disabled who are eligible for aid are not receiving enough help
+0.9285714285714286,PD25_sit14,most of the disabled who are eligible for aid are not receiving enough help
+
+0.9230769230769231,PD26_sit13,we can only guess why people endured such exhausting toil day after day
+0.8461538461538461,PD26_sit13,we can only guess why people endured such exhausting toil day after day
+0.8461538461538461,PD05_sit13,we can only guess why people endured such exhausting toil day after day
+0.8461538461538461,PD10_sit13,we can only guess why people endured such exhausting toil day after day
+0.9230769230769231,OC33_sit13,we can only guess why people endured such exhausting toil day after day
+0.9230769230769231,OC15_sit13,we can only guess why people endured such exhausting toil day after day
+0.9230769230769231,OC41_sit13,we can only guess why people endured such exhausting toil day after day
+
+0.9230769230769231,OC06_sit13,you burned your fingers fishing out the toast when it didnt pop up
+0.9230769230769231,OC18_sit13,you burned your fingers fishing out the toast when it didnt pop up
+
+0.9230769230769231,PD14_sit15,at this moment we have complete freedom to begin the store
+0.8461538461538461,PD14_sit15,at this moment we have complete freedom to begin the store
+
+0.8461538461538461,PD01_sit15,at this moment we have complete freedom to begin industrial use of the high seas
+0.9230769230769231,PD26_sit15,at this moment we have complete freedom to begin industrial use of the high seas
+
+0.9230769230769231,PD46_sit13,after a long marriage the couple was on the verge of breaking up
+0.9230769230769231,OC27_sit13,after a long marriage the couple was on the verge of breaking up
+
+0.9166666666666666,PD14_sit10,you cant store sweep or catch up on it either
+0.9166666666666666,PD43_sit10,you cant store sleep or catch up on it either
+
+0.9166666666666666,PD56_sit12,a small map on the opposite page shows where the trees grow
+0.9166666666666666,OC09_sit12,a small map on the opposite page shows where the trees grow
+
+0.9166666666666666,PD52_sit12,i hadnt even thought of that matter until a few miles back
+0.9166666666666666,PD45_sit12,i hadnt even thought of that matter until a few miles back
+0.9166666666666666,PD30_sit12,i hadnt even thought of that matter until a few miles back
+
+0.9166666666666666,PD42_sit12,to the east and north you can look into three other countries
+0.9166666666666666,PD35_sit12,to the east and north you can look into three other countries
+
+0.9166666666666666,PD33_sit12,at the sight of her owner she bounds joyfully about her pen
+0.9166666666666666,PD40_sit12,at the sight of her owner she bounds joyfully about her pen
+
+0.9166666666666666,OC34_sit12,when her son graduated from college with honors she been with pride
+0.9166666666666666,OC10_sit12,when her son graduated from college with honors she been with pride
+
+0.9090909090909091,OC12_sit12,overall the mail has become more erratic and on average slower
+0.9090909090909091,OC11_sit12,overall the male has become more erratic and on average slower
+
+0.9090909090909091,OC15_sit11,we saw a mother bear leading her cubs up the hill
+0.9090909090909091,OC45_sit11,we saw a mother bear leading her cups up the hill
+
+0.9090909090909091,PD35_sit11,as the day flecked by he asked a thousand crucial questions
+0.9090909090909091,PD32_sit11,as the day flecked by he asked a thousand crucial questions
+
+0.9090909090909091,PD53_sit11,a railroad has to go somewhere in order to make money
+0.9090909090909091,OC35_sit11,where our road has to go somewhere in order to make money
+
+0.9090909090909091,PD37_sit12,these new nations varied in terms of size populations and resources
+0.9090909090909091,OC40_sit12,these new nations varied in terms of size populations and resources
+
+0.9090909090909091,PD11_sit13,all the people decided to go on a diet at the same time
+0.9090909090909091,PD17_sit13,all the people decided to go on a diet at the same time
+0.9090909090909091,OC20_sit13,all the people decided to go on a diet at the same time
+
+0.9090909090909091,PD25_sit11,in that certainty lies a great piece and a great joy
+0.9090909090909091,OC05_sit11,in that certainty lies a great peace and a great joy
+
+0.9090909090909091,PD06_sit10,most of their friends were gone so they moved out
+0.9090909090909091,PD55_sit10,most of their friends were gone so they moved out
+
+0.9090909090909091,PD24_sit11,they work together to help to provide for the disabled children
+0.9090909090909091,OC03_sit11,they work together to help to provide for the disabled children
+
+0.9090909090909091,PD21_sit11,the facility is open to the public and you may visit
+0.9090909090909091,PD44_sit11,the facility is open to the public and you may visit
+0.9090909090909091,PD07_sit11,the facility is open to the public and you may visit
+0.9090909090909091,PD28_sit11,the facility is open to the public and you may visit
+0.8181818181818182,PD23_sit11,the facility is open to the public and you may visit
+0.9090909090909091,OC13_sit11,the facility is open to the public and you may visit
+
+0.9090909090909091,PD46_sit12,the strangest of all employees relationships is that with the manager
+0.9090909090909091,OC39_sit12,the strangest of all employees relationships is that with the manager
+
+0.9,PD27_sit10,i began to grow among the clothes in our closet
+0.9,PD05_sit10,i began to grow among the clothes in our closet
+
+0.9,PD20_sit10,most overweight people need to learn to be more assertive
+0.9,OC10_sit10,most overweight people need to learn to be more assertive
+0.9,OC34_sit10,most overweight people need to learn to be more assertive
+
+0.9,PD21_sit10,at certain times i like being strong for someone else
+0.9,PD56_sit10,at certain times i like being strong for someone else
+0.9,OC13_sit10,at certain times i like being strong for someone else
+0.9,OC22_sit10,at certain times i like being strong for someone else
+
+0.9,PD25_sit10,it is a safe and effective drug when properly used
+0.9,PD23_sit10,it is a safe and effective drug when properly used
+
+0.9,PD03_sit10,i typed the letter and put it on his desk
+0.9,PD47_sit10,i typed the letter and put it on his desk
+
+0.9,PD03_sit9,your host tells me very much about how you live
+0.9,PD47_sit9,your host tells me very much about how you live
+
+0.8888888888888888,PD52_sit10,you simply present your case as clearly as you can
+0.8888888888888888,OC36_sit10,you simply present your case as clearly as you can
+
+0.8888888888888888,PD25_sit9,there are going to be new mothers and fathers
+0.8888888888888888,OC12_sit9,there are going to be new mothers and fathers
+
+0.8888888888888888,PD06_sit11,you are not supposed to look at it like that
+
+0.8888888888888888,PD55_sit11,you are not really supposed to look at it like that
+
+0.8888888888888888,PD21_sit9,traveling is so tiring that eliminating stress is important
+0.8888888888888888,PD50_sit9,traveling is so tiring that eliminating stress is important
+0.8888888888888888,OC17_sit9,traveling is so tiring that eliminating stress is important
+0.8888888888888888,OC13_sit9,traveling is so tiring that eliminating stress is important
+0.8888888888888888,OC01_sit9,traveling is so tiring that eliminating stress is important
+0.8888888888888888,OC41_sit9,traveling is so tiring that eliminating stress is important
+
+0.8888888888888888,PD18_sit9,you can rent a mower from many garden stores
+0.8888888888888888,OC45_sit9,you can rent a mower from many garden stores
+0.8888888888888888,OC36_sit9,you can rent a mower from many garden stores
+
+0.875,PD06_sit7,i feel i can play this weekend
+0.875,PD55_sit7,i feel i can play this weekend
+0.875,PD25_sit7,i feel i can play this weekend
+
+0.875,PD40_sit8,defendant is either guilty or not guilty
+0.875,PD55_sit8,defendant is either guilty or not guilty
+
+0.875,PD55_sit15,remove the pan from the stove and slowly fill it with cold water to cool off
+0.875,PD06_sit15,remove the pan from the stove and slowly fill it with cool water to cool off
+
+0.875,PD28_sit8,you would be better off taking a cold shower
+0.875,PD42_sit8,you would be better off taking a cool shower
+0.875,PD44_sit8,you would be better off taking a cold shower
+
+0.875,OC10_sit8,there is little hope that overfishing will cease
+0.875,OC34_sit8,there is little hope that overfishing will cease
+
+0.875,PD52_sit8,we selected places where families will be welcomed
+0.875,PD05_sit8,we selected places where families will be welcomed
+
+0.875,PD48_sit8,the strike spread throughout much of the state
+0.875,OC26_sit8,the strike spread throughout much of the state
+
+0.8666666666666667,PD35_sit14,the rich who could support an uplifted dwindling market take their money elsewhere
+0.8666666666666667,OC11_sit14,the rich who could support an uplifted dwindling market take their money elsewhere
+
+0.8666666666666667,PD47_sit14,our first practice is this week were not as good as they should have been
+0.8666666666666667,PD27_sit14,our first practice is this week were not as good as they should have been
+
+0.8571428571428571,OC07_sit7,it was good to win for us
+0.8571428571428571,OC18_sit7,it was good to win for us
+
+0.8571428571428571,PD35_sit7,i was wet from the neck down
+0.8571428571428571,OC06_sit7,i was wet from the neck down
+0.8571428571428571,OC04_sit7,i was wet from the neck down
+
+0.8571428571428571,PD49_sit7,it shows up in the unlikeliest places
+0.8571428571428571,OC31_sit7,it shows up in the unlikeliest places
+
+0.8571428571428571,PD18_sit14,in total silence it was passed back to him from one row to another
+0.8571428571428571,OC39_sit14,in total silence it was passed back to him from one row to another
+
+0.8571428571428571,PD10_sit7,the plot is leased with mysterious incidents
+0.8571428571428571,OC33_sit7,the plot is leased with mysterious incidents
+
+0.8571428571428571,PD44_sit14,i like my work and am earning twice what i made before the accident
+0.8571428571428571,PD28_sit14,i like my work and am earning twice what i made before the accident
+
+0.8571428571428571,PD12_sit7,all telephone booths are easy to find
+0.8571428571428571,PD20_sit7,all telephone booths are easy to find
+
+0.8571428571428571,PD54_sit7,i think im full of this stuff
+0.8571428571428571,PD45_sit7,i think im full of this stuff
+
+0.8571428571428571,OC25_sit7,stroll along the banks looking for clues
+0.8571428571428571,OC11_sit7,stroll along the banks looking for clues
+
+0.8571428571428571,PD17_sit14,the staff tries to visit each home gardener during the summer to offer advice
+0.8571428571428571,OC20_sit14,the staff tries to visit each home gardener during the summer to offer advice
+
+0.8571428571428571,PD45_sit13,that person is more likely to think about job changes when he is unhappy
+0.8571428571428571,PD30_sit13,that person is more likely to think about job changes when he is unhappy
+
+0.8571428571428571,PD22_sit7,the marriage went well from the start
+0.8571428571428571,PD38_sit7,the marriage went well from the start
+0.8571428571428571,PD31_sit7,the marriage went well from the start
+
+0.8571428571428571,PD16_sit7,all the big baseball players get treated
+0.8571428571428571,OC16_sit7,all the big baseball players get treated
+
+0.8571428571428571,PD16_sit6,she filled the bag with tomatoes
+0.8571428571428571,OC10_sit6,she filled the bag with tomatoes
+
+0.8571428571428571,PD20_sit8,there are two methods for soaking dried beans
+0.8571428571428571,PD25_sit8,there are two methods for soaking dried beans
+
+0.8461538461538461,PD24_sit12,when drilled the well provide all the water in the sound could use
+0.8461538461538461,OC07_sit12,when drilled the well provide all the water in the sound could use
+
+0.8461538461538461,OC40_sit13,i am reminded of how many canoe trips i have taken in my lifetime
+0.8461538461538461,OC12_sit13,i am reminded of how many canoe trips i have taken in my lifetime
+
+0.8461538461538461,PD37_sit11,sure this transistor is cheaper but well do the job
+0.8461538461538461,PD12_sit11,sure this transistor is cheaper but well do the job
+
+0.8333333333333334,PD13_sit12,desperate i began to bang on the exit door with both fists
+0.8333333333333334,OC06_sit12,desperate i began to bang on the exit door with both fists
+
+0.8333333333333334,PD21_sit12,there was solid evidence that our quarry was right under our noses
+0.8333333333333334,OC13_sit12,there was solid evidence that our quarry was right under our noses
+
+0.8333333333333334,OC01_sit6,sunlight shone through the bedroom window
+0.8333333333333334,OC24_sit6,sunlight shone through the bedroom window
+
+0.8333333333333334,PD43_sit13,without its mother a baby animal will soon grow thinner and waste away
+0.8333333333333334,OC04_sit13,without its mother a baby animal will soon grow thinner and waste away
+
+0.8333333333333334,PD26_sit6,worse luck was still to come
+0.8333333333333334,OC40_sit6,worse luck was still to come
+
+0.8333333333333334,PD05_sit6,my sister made the flower curtains
+0.8333333333333334,PD01_sit6,my sister made the flower curtains
+
+0.8333333333333334,PD56_sit11,fortunately for the world the hand is healed in a few months
+0.8333333333333334,OC09_sit11,fortunately for the world the hand is healed in a few months
+
+0.8333333333333334,PD23_sit5,i could barely sit down
+0.8333333333333334,OC36_sit5,i could barely sit down
+
+0.8333333333333334,PD49_sit13,the middle class worries about buying for fear they will lose their savings
+0.8333333333333334,OC01_sit13,the middle class worries about buying for fear they will lose their savings
+
+0.8333333333333334,PD17_sit12,they walked alone behind the flower garden with their heads hanging contritely
+0.8333333333333334,OC20_sit12,they walked alone behind the flower garden with their heads hanging contritely
+
+0.8333333333333334,PD16_sit6,she filled the bag with tomatoes
+0.8333333333333334,OC34_sit6,she filled the bag with tomatoes
+
+0.8333333333333334,PD50_sit6,the little girls cut lacey valentines
+0.8333333333333334,OC21_sit6,the little girls cut lacey valentines
+
+0.8181818181818182,PD52_sit11,they bring it on in freighters and airliners and in cars
+0.8181818181818182,PD27_sit11,they bring it on in freighters and airliners and in cars
+
+0.8181818181818182,PD03_sit11,that is the request to his wife was not simply a gesture
+0.8181818181818182,PD47_sit11,that is the request to his wife was not simply a gesture
+
+0.8181818181818182,PD18_sit11,every time we disagree i go into the kitchen and soak
+0.8181818181818182,OC07_sit11,every time we disagree i go into the kitchen and soak
+
+0.8181818181818182,PD29_sit11,following routine tests i was put peacefully to sleep for surgery
+0.8181818181818182,OC18_sit11,following routine tests i was put peacefully to sleep for surgery
+
+0.8181818181818182,PD14_sit11,i have always wondered how much money was left on the table
+0.8181818181818182,PD34_sit11,i have always wondered how much money was left on the table
+
+0.8,PD02_sit5,he noted the fact carefully
+0.8,OC44_sit5,he noted the fact carefully
+
+0.8,PD32_sit10,thats important especially with the reduced speeds and shorter trips
+0.8,PD16_sit10,thats important especially with the reduced speeds and shorter trips
+
+0.8,PD30_sit10,giving away tickets to women attracted them to the games
+0.8,PD45_sit10,giving away tickets to women attracted them to the games
+
+0.8,PD50_sit5,i won a teaching award
+0.8,PD53_sit5,i won a teaching award
+
+0.8,PD05_sit5,the box contains three sweaters
+0.8,OC10_sit5,the box contains three sweaters
+0.8,OC34_sit5,the box contains three sweaters
+
+0.8,PD29_sit10,you simply present your cases clearly as you can
+0.8,OC36_sit10,you simply present your cases clearly as you can
+
+0.8,PD17_sit8,i can train any dog in five minutes
+0.8,OC20_sit8,i can train any dog in five minutes
+
+0.8,PD31_sit5,wages are a key issue
+0.8,PD22_sit5,wages are a key issue
+
+

@@ -1,0 +1,3 @@
+[submodule "NIH_SimAmp_Quan/idsegan"]
+	path = NIH_SimAmp_Quan/idsegan
+	url = https://github.com/pquochuy/idsegan.git

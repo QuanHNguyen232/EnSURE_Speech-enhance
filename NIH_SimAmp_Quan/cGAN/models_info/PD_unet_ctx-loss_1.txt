@@ -1,0 +1,138 @@
+Current time: DATE 24/07/2023 - TIME: 20:51:14
+Config:
+	my_id = ctx-emb_1
+	generator_type = unet
+	dir = ./PD_enhance
+	pretrain_dir = None
+	use_context_embed = False
+	use_context_loss = True
+	use_audio_processor = True
+	use_mixed_precision = False
+	use_DDP = False
+	n_steps = 10000
+	batch_size = 16
+	lr = 0.0001
+	b1 = 0.5
+	b2 = 0.999
+	sample_interval = 200
+	verbose_interval = 100
+	num_residual_blocks = 6
+Find 1 gpus available
+./PD_enhance
+	./PD_enhance/cgan_unet_samp_ctx-emb_1
+	./PD_enhance/cgan_unet_ckpt_ctx-emb_1
+./PD_enhance/data/clean_trainset
+	./PD_enhance/data/clean_testset
+	./PD_enhance/data/noisy_trainset
+	./PD_enhance/data/noisy_testset
+./PD_enhance/data/noisy_trainset/PD41_sit10.wav
+	./PD_enhance/data/noisy_testset/PD01_sit10.wav
+CREATED Dataset - DataLoader
+mixed precision training is OFF (torch.float32)
+CREATED losses
+CREATED ContextEncoder
+CREATED UnetGenerator
+CREATED Discriminator
+INIT WEIGHT
+CREATED Optimizers
+Model will be trained for: 10000 steps or 358 EPOCHS
+[Step 0/10000] [D loss: 0.019021] [G loss: 0.010212] [CTX loss: 0.005025] [time: 24/07/2023 - 20:51:32]
+[Step 100/10000] [D loss: 0.526392] [G loss: 0.540033] [CTX loss: 0.419903] [time: 24/07/2023 - 20:53:39]
+[Step 200/10000] [D loss: 0.290225] [G loss: 0.270187] [CTX loss: 0.347635] [time: 24/07/2023 - 20:55:45]
+[Step 300/10000] [D loss: 0.284474] [G loss: 0.251947] [CTX loss: 0.333412] [time: 24/07/2023 - 20:57:51]
+[Step 400/10000] [D loss: 0.276348] [G loss: 0.239223] [CTX loss: 0.324965] [time: 24/07/2023 - 20:59:56]
+[Step 500/10000] [D loss: 0.271228] [G loss: 0.236740] [CTX loss: 0.328087] [time: 24/07/2023 - 21:02:02]
+[Step 600/10000] [D loss: 0.268176] [G loss: 0.234243] [CTX loss: 0.319005] [time: 24/07/2023 - 21:04:08]
+[Step 700/10000] [D loss: 0.264542] [G loss: 0.232359] [CTX loss: 0.322026] [time: 24/07/2023 - 21:06:13]
+[Step 800/10000] [D loss: 0.262946] [G loss: 0.234566] [CTX loss: 0.325857] [time: 24/07/2023 - 21:08:20]
+[Step 900/10000] [D loss: 0.261872] [G loss: 0.229205] [CTX loss: 0.321176] [time: 24/07/2023 - 21:10:24]
+[Step 1000/10000] [D loss: 0.259539] [G loss: 0.228588] [CTX loss: 0.318376] [time: 24/07/2023 - 21:12:29]
+[Step 1100/10000] [D loss: 0.257030] [G loss: 0.227020] [CTX loss: 0.312745] [time: 24/07/2023 - 21:14:36]
+[Step 1200/10000] [D loss: 0.255034] [G loss: 0.229218] [CTX loss: 0.314707] [time: 24/07/2023 - 21:16:41]
+[Step 1300/10000] [D loss: 0.253623] [G loss: 0.232639] [CTX loss: 0.311261] [time: 24/07/2023 - 21:18:45]
+[Step 1400/10000] [D loss: 0.249376] [G loss: 0.231335] [CTX loss: 0.310353] [time: 24/07/2023 - 21:20:51]
+[Step 1500/10000] [D loss: 0.250294] [G loss: 0.240345] [CTX loss: 0.304949] [time: 24/07/2023 - 21:22:57]
+[Step 1600/10000] [D loss: 0.232025] [G loss: 0.248628] [CTX loss: 0.307137] [time: 24/07/2023 - 21:25:02]
+[Step 1700/10000] [D loss: 0.237202] [G loss: 0.248785] [CTX loss: 0.311522] [time: 24/07/2023 - 21:27:10]
+[Step 1800/10000] [D loss: 0.235470] [G loss: 0.250298] [CTX loss: 0.311950] [time: 24/07/2023 - 21:29:17]
+[Step 1900/10000] [D loss: 0.234463] [G loss: 0.243567] [CTX loss: 0.315468] [time: 24/07/2023 - 21:31:24]
+[Step 2000/10000] [D loss: 0.246232] [G loss: 0.234238] [CTX loss: 0.310431] [time: 24/07/2023 - 21:33:31]
+[Step 2100/10000] [D loss: 0.241204] [G loss: 0.234490] [CTX loss: 0.317163] [time: 24/07/2023 - 21:36:14]
+[Step 2200/10000] [D loss: 0.239802] [G loss: 0.245149] [CTX loss: 0.314995] [time: 24/07/2023 - 21:39:01]
+[Step 2300/10000] [D loss: 0.244271] [G loss: 0.228284] [CTX loss: 0.310631] [time: 24/07/2023 - 21:41:08]
+[Step 2400/10000] [D loss: 0.250027] [G loss: 0.229365] [CTX loss: 0.315325] [time: 24/07/2023 - 21:43:13]
+[Step 2500/10000] [D loss: 0.245120] [G loss: 0.232162] [CTX loss: 0.306452] [time: 24/07/2023 - 21:45:20]
+[Step 2600/10000] [D loss: 0.234147] [G loss: 0.242255] [CTX loss: 0.313513] [time: 24/07/2023 - 21:47:27]
+[Step 2700/10000] [D loss: 0.239107] [G loss: 0.247345] [CTX loss: 0.313030] [time: 24/07/2023 - 21:49:32]
+[Step 2800/10000] [D loss: 0.229082] [G loss: 0.245975] [CTX loss: 0.317249] [time: 24/07/2023 - 21:51:39]
+[Step 2900/10000] [D loss: 0.240826] [G loss: 0.243311] [CTX loss: 0.312330] [time: 24/07/2023 - 21:53:46]
+[Step 3000/10000] [D loss: 0.239922] [G loss: 0.234885] [CTX loss: 0.308280] [time: 24/07/2023 - 21:55:52]
+[Step 3100/10000] [D loss: 0.246479] [G loss: 0.236393] [CTX loss: 0.319222] [time: 24/07/2023 - 21:58:00]
+[Step 3200/10000] [D loss: 0.246373] [G loss: 0.230711] [CTX loss: 0.310475] [time: 24/07/2023 - 22:00:07]
+[Step 3300/10000] [D loss: 0.253133] [G loss: 0.227140] [CTX loss: 0.318036] [time: 24/07/2023 - 22:02:15]
+[Step 3400/10000] [D loss: 0.252780] [G loss: 0.223346] [CTX loss: 0.310917] [time: 24/07/2023 - 22:04:23]
+[Step 3500/10000] [D loss: 0.254460] [G loss: 0.217472] [CTX loss: 0.300715] [time: 24/07/2023 - 22:06:28]
+[Step 3600/10000] [D loss: 0.254342] [G loss: 0.219352] [CTX loss: 0.306863] [time: 24/07/2023 - 22:08:34]
+[Step 3700/10000] [D loss: 0.254630] [G loss: 0.218789] [CTX loss: 0.307431] [time: 24/07/2023 - 22:10:41]
+[Step 3800/10000] [D loss: 0.252498] [G loss: 0.219818] [CTX loss: 0.306448] [time: 24/07/2023 - 22:12:48]
+[Step 3900/10000] [D loss: 0.251831] [G loss: 0.218627] [CTX loss: 0.295893] [time: 24/07/2023 - 22:14:55]
+[Step 4000/10000] [D loss: 0.245193] [G loss: 0.224133] [CTX loss: 0.304746] [time: 24/07/2023 - 22:17:02]
+[Step 4100/10000] [D loss: 0.248038] [G loss: 0.221740] [CTX loss: 0.303699] [time: 24/07/2023 - 22:19:09]
+[Step 4200/10000] [D loss: 0.240989] [G loss: 0.245017] [CTX loss: 0.303596] [time: 24/07/2023 - 22:21:17]
+[Step 4300/10000] [D loss: 0.214021] [G loss: 0.267152] [CTX loss: 0.314645] [time: 24/07/2023 - 22:23:24]
+[Step 4400/10000] [D loss: 0.210608] [G loss: 0.260320] [CTX loss: 0.317984] [time: 24/07/2023 - 22:25:32]
+[Step 4500/10000] [D loss: 0.223981] [G loss: 0.262328] [CTX loss: 0.311053] [time: 24/07/2023 - 22:27:39]
+[Step 4600/10000] [D loss: 0.208549] [G loss: 0.255869] [CTX loss: 0.311266] [time: 24/07/2023 - 22:29:59]
+[Step 4700/10000] [D loss: 0.220763] [G loss: 0.248827] [CTX loss: 0.311011] [time: 24/07/2023 - 22:32:45]
+[Step 4800/10000] [D loss: 0.230631] [G loss: 0.239652] [CTX loss: 0.301481] [time: 24/07/2023 - 22:35:31]
+[Step 4900/10000] [D loss: 0.226072] [G loss: 0.237246] [CTX loss: 0.303468] [time: 24/07/2023 - 22:37:39]
+[Step 5000/10000] [D loss: 0.230302] [G loss: 0.236597] [CTX loss: 0.295952] [time: 24/07/2023 - 22:39:46]
+[Step 5100/10000] [D loss: 0.216219] [G loss: 0.246298] [CTX loss: 0.303533] [time: 24/07/2023 - 22:41:51]
+[Step 5200/10000] [D loss: 0.225103] [G loss: 0.240712] [CTX loss: 0.306252] [time: 24/07/2023 - 22:43:59]
+[Step 5300/10000] [D loss: 0.241746] [G loss: 0.226236] [CTX loss: 0.299269] [time: 24/07/2023 - 22:46:06]
+[Step 5400/10000] [D loss: 0.252070] [G loss: 0.222322] [CTX loss: 0.307332] [time: 24/07/2023 - 22:48:14]
+[Step 5500/10000] [D loss: 0.244963] [G loss: 0.225785] [CTX loss: 0.296491] [time: 24/07/2023 - 22:50:20]
+[Step 5600/10000] [D loss: 0.200663] [G loss: 0.260507] [CTX loss: 0.308564] [time: 24/07/2023 - 22:52:32]
+[Step 5700/10000] [D loss: 0.206804] [G loss: 0.257713] [CTX loss: 0.303456] [time: 24/07/2023 - 22:54:39]
+[Step 5800/10000] [D loss: 0.203719] [G loss: 0.266569] [CTX loss: 0.301244] [time: 24/07/2023 - 22:56:45]
+[Step 5900/10000] [D loss: 0.208419] [G loss: 0.270977] [CTX loss: 0.307373] [time: 24/07/2023 - 22:58:52]
+[Step 6000/10000] [D loss: 0.190267] [G loss: 0.269668] [CTX loss: 0.297032] [time: 24/07/2023 - 23:00:59]
+[Step 6100/10000] [D loss: 0.184931] [G loss: 0.287322] [CTX loss: 0.310255] [time: 24/07/2023 - 23:03:06]
+[Step 6200/10000] [D loss: 0.177352] [G loss: 0.288725] [CTX loss: 0.300472] [time: 24/07/2023 - 23:05:14]
+[Step 6300/10000] [D loss: 0.177717] [G loss: 0.289030] [CTX loss: 0.303553] [time: 24/07/2023 - 23:07:32]
+[Step 6400/10000] [D loss: 0.172813] [G loss: 0.299777] [CTX loss: 0.312332] [time: 24/07/2023 - 23:10:19]
+[Step 6500/10000] [D loss: 0.179305] [G loss: 0.287523] [CTX loss: 0.322709] [time: 24/07/2023 - 23:12:58]
+[Step 6600/10000] [D loss: 0.201681] [G loss: 0.272084] [CTX loss: 0.302680] [time: 24/07/2023 - 23:15:06]
+[Step 6700/10000] [D loss: 0.180517] [G loss: 0.295267] [CTX loss: 0.315189] [time: 24/07/2023 - 23:17:12]
+[Step 6800/10000] [D loss: 0.163968] [G loss: 0.317120] [CTX loss: 0.332092] [time: 24/07/2023 - 23:19:20]
+[Step 6900/10000] [D loss: 0.168661] [G loss: 0.303219] [CTX loss: 0.312923] [time: 24/07/2023 - 23:21:37]
+[Step 7000/10000] [D loss: 0.163234] [G loss: 0.309919] [CTX loss: 0.327239] [time: 24/07/2023 - 23:23:45]
+[Step 7100/10000] [D loss: 0.166143] [G loss: 0.308306] [CTX loss: 0.319039] [time: 24/07/2023 - 23:25:49]
+[Step 7200/10000] [D loss: 0.158746] [G loss: 0.306238] [CTX loss: 0.309581] [time: 24/07/2023 - 23:27:57]
+[Step 7300/10000] [D loss: 0.158868] [G loss: 0.309259] [CTX loss: 0.318627] [time: 24/07/2023 - 23:30:04]
+[Step 7400/10000] [D loss: 0.165327] [G loss: 0.299565] [CTX loss: 0.311765] [time: 24/07/2023 - 23:32:11]
+[Step 7500/10000] [D loss: 0.158494] [G loss: 0.306745] [CTX loss: 0.312264] [time: 24/07/2023 - 23:34:19]
+[Step 7600/10000] [D loss: 0.158813] [G loss: 0.306607] [CTX loss: 0.318616] [time: 24/07/2023 - 23:36:25]
+[Step 7700/10000] [D loss: 0.163683] [G loss: 0.304199] [CTX loss: 0.315091] [time: 24/07/2023 - 23:38:32]
+[Step 7800/10000] [D loss: 0.152362] [G loss: 0.314839] [CTX loss: 0.315142] [time: 24/07/2023 - 23:40:39]
+[Step 7900/10000] [D loss: 0.163206] [G loss: 0.297454] [CTX loss: 0.316263] [time: 24/07/2023 - 23:42:45]
+[Step 8000/10000] [D loss: 0.177353] [G loss: 0.300022] [CTX loss: 0.280347] [time: 24/07/2023 - 23:44:53]
+[Step 8100/10000] [D loss: 0.157955] [G loss: 0.309902] [CTX loss: 0.285793] [time: 24/07/2023 - 23:47:06]
+[Step 8200/10000] [D loss: 0.157832] [G loss: 0.306590] [CTX loss: 0.267243] [time: 24/07/2023 - 23:49:14]
+[Step 8300/10000] [D loss: 0.145312] [G loss: 0.320510] [CTX loss: 0.276188] [time: 24/07/2023 - 23:51:59]
+[Step 8400/10000] [D loss: 0.159393] [G loss: 0.310751] [CTX loss: 0.329156] [time: 24/07/2023 - 23:54:21]
+[Step 8500/10000] [D loss: 0.143365] [G loss: 0.324855] [CTX loss: 0.318378] [time: 24/07/2023 - 23:56:29]
+[Step 8600/10000] [D loss: 0.138165] [G loss: 0.329989] [CTX loss: 0.330533] [time: 24/07/2023 - 23:58:37]
+[Step 8700/10000] [D loss: 0.141332] [G loss: 0.330372] [CTX loss: 0.324977] [time: 25/07/2023 - 00:00:44]
+[Step 8800/10000] [D loss: 0.132538] [G loss: 0.332046] [CTX loss: 0.327362] [time: 25/07/2023 - 00:02:50]
+[Step 8900/10000] [D loss: 0.132858] [G loss: 0.334888] [CTX loss: 0.330269] [time: 25/07/2023 - 00:04:57]
+[Step 9000/10000] [D loss: 0.141483] [G loss: 0.327606] [CTX loss: 0.313942] [time: 25/07/2023 - 00:07:03]
+[Step 9100/10000] [D loss: 0.127365] [G loss: 0.341196] [CTX loss: 0.329134] [time: 25/07/2023 - 00:09:09]
+[Step 9200/10000] [D loss: 0.136188] [G loss: 0.340498] [CTX loss: 0.331907] [time: 25/07/2023 - 00:11:17]
+[Step 9300/10000] [D loss: 0.132955] [G loss: 0.337951] [CTX loss: 0.324671] [time: 25/07/2023 - 00:13:24]
+[Step 9400/10000] [D loss: 0.133301] [G loss: 0.338869] [CTX loss: 0.329093] [time: 25/07/2023 - 00:15:31]
+[Step 9500/10000] [D loss: 0.125156] [G loss: 0.342186] [CTX loss: 0.331447] [time: 25/07/2023 - 00:17:36]
+[Step 9600/10000] [D loss: 0.126731] [G loss: 0.350668] [CTX loss: 0.335813] [time: 25/07/2023 - 00:19:42]
+[Step 9700/10000] [D loss: 0.130041] [G loss: 0.345742] [CTX loss: 0.321095] [time: 25/07/2023 - 00:21:47]
+[Step 9800/10000] [D loss: 0.133362] [G loss: 0.320384] [CTX loss: 0.316602] [time: 25/07/2023 - 00:23:52]
+[Step 9900/10000] [D loss: 0.146264] [G loss: 0.315753] [CTX loss: 0.317385] [time: 25/07/2023 - 00:25:59]

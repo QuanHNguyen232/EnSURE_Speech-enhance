@@ -1,0 +1,203 @@
+wavfile,ground_truth,ASR_recognition,wer,cer
+sim_oc11_habitual_nm_h15_2_ch1_70db,Guess the result from the first scores.,yes the results from the first scores.,0.2857142857142857,0.10256410256410256
+sim_pd14_habitual_nm_h18_9_ch1_70db,They felt gay when the ship arrived in port.,they felt K. one the ship arrived in port.,0.3333333333333333,0.1590909090909091
+sim_pd05_habitual_nm_h2_1_ch1_70db,The boy was there when the sun rose.,blue is there when the sun rose.,0.375,0.25
+sim_pd12_habitual_nm_h10_9_ch1_70db,Ten pins were set in order.,ten pins were set in order.,0.16666666666666666,0.037037037037037035
+sim_pd05_habitual_nm_h2_2_ch1_70db,A rod is used to catch pink salmon.,Raj Z. catch pink salmon.,0.625,0.42857142857142855
+sim_pd08_habitual_nm_h14_3_ch1_70db,Pluck the bright rose without leaves.,plucked the bright rose without leaves.,0.16666666666666666,0.08108108108108109
+sim_pd06_habitual_nm_h16_1_ch1_70db,The empty flask stood on the tin tray.,the empty flustered on the ten training.,0.625,0.3684210526315789
+sim_oc07_habitual_nm_h12_7_ch1_70db,Weave the carpet on the right hand side.,we've the carpet on the right hand side.,0.125,0.05
+sim_pd11_habitual_nm_h15_4_ch1_70db,The just claim got the right verdict.,just claim got three verdict.,0.42857142857142855,0.2702702702702703
+sim_oc06_habitual_nm_h16_3_ch1_70db,He broke a new shoelace that day.,he broke a new shoe lace that day.,0.42857142857142855,0.06060606060606061
+sim_pd12_habitual_nm_h10_8_ch1_70db,A Tusk is used to make costly gifts.,a test is used to make costly gives.,0.375,0.16666666666666666
+sim_oc16_habitual_nm_h2_5_ch1_70db,Help the woman get back to her feet.,help the woman get back to her feet.,0.125,0.027777777777777776
+sim_pd09_habitual_nm_h14_5_ch1_70db,The glow deepened in the eyes of the sweet girl.,the glow deep and in the eyes of the sweet girl.,0.3,0.08333333333333333
+sim_pd08_habitual_nm_h14_9_ch1_70db,We frown when events take a bad turn.,we frown when events take a bad turn.,0.125,0.02702702702702703
+sim_pd12_habitual_nm_h10_1_ch1_70db,The slush lay deep along the street.,this Lashley deep along the street.,0.42857142857142855,0.2222222222222222
+sim_oc06_habitual_nm_h16_2_ch1_70db,A speedy man can beat this track mark.,a speeding man can beat this track mark.,0.25,0.10526315789473684
+sim_pd08_habitual_nm_h14_4_ch1_70db,Two plus seven is less than ten.,two plus seven is less than ten.,0.14285714285714285,0.03125
+sim_oc08_habitual_nm_h14_8_ch1_70db,Clothes and lodging are free to new men.,close and lodging are free to new men.,0.125,0.1
+sim_oc11_habitual_nm_h15_4_ch1_70db,The just claim got the right verdict.,the judge claim got the right verdict.,0.2857142857142857,0.10810810810810811
+sim_pd06_habitual_nm_h16_6_ch1_70db,The pencils have all been used.,the pencils of all the news.,0.6666666666666666,0.3870967741935484
+sim_pd08_habitual_nm_h14_1_ch1_70db,A cramp is no small danger on a swim.,a cramp is no small danger under swim.,0.3333333333333333,0.13513513513513514
+sim_pd12_habitual_nm_h10_7_ch1_70db,The term ended in late june that year.,the term ended in late June here.,0.5,0.23684210526315788
+sim_oc09_habitual_nm_h14_5_ch1_70db,The glow deepened in the eyes of the sweet girl.,the glow deepened in the eyes of the sweet girl.,0.1,0.020833333333333332
+sim_oc17_habitual_nm_h12_7_ch1_70db,Weave the carpet on the right hand side.,we've the carpet on the right hand side.,0.125,0.05
+sim_oc11_habitual_nm_h15_8_ch1_70db,The spot on the blotter was made by green ink.,spot in the cloud water was made by green in.,0.5,0.2608695652173913
+sim_pd14_habitual_nm_h18_3_ch1_70db,There was a sound of dry leaves outside.,there was the sound of dried leaves outside.,0.375,0.175
+sim_oc05_habitual_nm_h2_4_ch1_70db,Kick the ball straight and follow through.,kicked the ball straight and follow through.,0.14285714285714285,0.07142857142857142
+sim_pd15_habitual_nm_h15_6_ch1_70db,Pure bred poodles have curls.,pure bred poodles have curls.,0.2,0.034482758620689655
+sim_pd12_habitual_nm_h10_10_ch1_70db,The bill was paid every third week.,the bill was paid every third week.,0.14285714285714285,0.02857142857142857
+sim_oc11_habitual_nm_h15_10_ch1_70db,The cigar burned a hole in the desk top.,Scarborough and a hole in the desktop.,0.5555555555555556,0.375
+sim_oc06_habitual_nm_h16_8_ch1_70db,We tried to replace the coin but failed.,we tried to replace the coin but failed.,0.125,0.025
+sim_pd11_habitual_nm_h15_9_ch1_70db,Mud was spattered on the front of his white shirt.,what was scattered in front of the others white shirt.,0.6,0.36
+sim_oc16_habitual_nm_h2_7_ch1_70db,Smoky fires lack flame and heat.,smoky fires lack flame and heat.,0.16666666666666666,0.03125
+sim_pd09_habitual_nm_h14_9_ch1_70db,We frown when events take a bad turn.,we frown when they have events take a bad turn.,0.375,0.2972972972972973
+sim_oc05_habitual_nm_h2_1_ch1_70db,The boy was there when the sun rose.,the boy was there when the sun rose.,0.125,0.027777777777777776
+sim_oc16_habitual_nm_h2_4_ch1_70db,Kick the ball straight and follow through.,kicked the ball straight and follow through.,0.14285714285714285,0.07142857142857142
+sim_pd11_habitual_nm_h15_3_ch1_70db,A salt pickle tastes fine with ham.,so pickled these fine with with him.,0.8571428571428571,0.45714285714285713
+sim_oc02_habitual_nm_h17_6_ch1_70db,Wood is best for making toys and blocks.,what is best for making toys and blocks.,0.125,0.1
+sim_oc02_habitual_nm_h17_3_ch1_70db,Drop the two when you add the figures.,drop the two when you add the figures.,0.125,0.02631578947368421
+sim_pd11_habitual_nm_h15_8_ch1_70db,The spot on the blotter was made by green ink.,spot on the blotter was made by greeting.,0.3,0.15217391304347827
+sim_oc09_habitual_nm_h14_10_ch1_70db,Port is a strong wine with a smoky taste.,Porsche is a strong wind with a smoky taste.,0.2222222222222222,0.12195121951219512
+sim_oc07_habitual_nm_h12_9_ch1_70db,A lame back kept his score low.,Elaine back kept his score low.,0.2857142857142857,0.12903225806451613
+sim_oc04_habitual_nm_h15_8_ch1_70db,The spot on the blotter was made by green ink.,the spot on the bladder was made by greening.,0.4,0.13043478260869565
+sim_oc16_habitual_nm_h2_6_ch1_70db,A pot of tea helps to pass the evening.,a pot of tea helps to pass the evening.,0.1111111111111111,0.02564102564102564
+sim_oc11_habitual_nm_h15_1_ch1_70db,The young kid jumped the rusty gate.,young kid jumped the rusty gate.,0.14285714285714285,0.1111111111111111
+sim_pd05_habitual_nm_h2_7_ch1_70db,Smoky fires lack flame and heat.,so he fires lack flame and heat.,0.3333333333333333,0.15625
+sim_oc07_habitual_nm_h12_4_ch1_70db,"Split the log with a quick, sharp blow.",split the log with a quick sharp blow.,0.25,0.05128205128205128
+sim_pd06_habitual_nm_h16_2_ch1_70db,A speedy man can beat this track mark.,a speedy man can be is this track mark.,0.375,0.10526315789473684
+sim_oc02_habitual_nm_h17_4_ch1_70db,A filing case is now hard to buy.,a filing case is now hard to buy.,0.125,0.030303030303030304
+sim_oc06_habitual_nm_h16_7_ch1_70db,The pirates seized the crew of the lost ship.,the pirates seized the crew of the law ship.,0.2222222222222222,0.08888888888888889
+sim_pd15_habitual_nm_h15_2_ch1_70db,Guess the result from the first scores.,guess the result from the first scores.,0.14285714285714285,0.02564102564102564
+sim_oc09_habitual_nm_h14_2_ch1_70db,He said the same phrase thirty times.,he said the same phrase thirty times.,0.14285714285714285,0.02702702702702703
+sim_pd11_habitual_nm_h15_10_ch1_70db,The cigar burned a hole in the desk top.,cigar burned a hole in his that his desktop.,0.5555555555555556,0.375
+sim_pd15_habitual_nm_h15_1_ch1_70db,The young kid jumped the rusty gate.,the young kid jumped the rusty gate.,0.14285714285714285,0.027777777777777776
+sim_pd16_habitual_nm_h2_6_ch1_70db,A pot of tea helps to pass the evening.,a pot of tea helps to pass the evening.,0.1111111111111111,0.02564102564102564
+sim_pd15_habitual_nm_h15_7_ch1_70db,The tree top waved in a graceful way.,the treetop waved in a graceful way.,0.375,0.05405405405405406
+sim_pd08_habitual_nm_h14_2_ch1_70db,He said the same phrase thirty times.,he said the small freeze thirty chimes.,0.5714285714285714,0.2972972972972973
+sim_pd04_habitual_nm_h15_9_ch1_70db,Mud was spattered on the front of his white shirt.,mother was spattered on the front of his white sure.,0.2,0.18
+sim_oc04_habitual_nm_h15_6_ch1_70db,Pure bred poodles have curls.,pure bred poodles have curls.,0.2,0.034482758620689655
+sim_oc17_habitual_nm_h12_9_ch1_70db,A lame back kept his score low.,Elaine backup to score a low.,0.8571428571428571,0.41935483870967744
+sim_oc04_habitual_nm_h15_1_ch1_70db,The young kid jumped the rusty gate.,the young kids jumped the rusty gate.,0.2857142857142857,0.05555555555555555
+sim_pd06_habitual_nm_h16_4_ch1_70db,The coffee stand is too high for the couch.,the recovery Stannis too high for the couch.,0.4444444444444444,0.23255813953488372
+sim_oc04_habitual_nm_h15_10_ch1_70db,The cigar burned a hole in the desk top.,the cigar burned a hole in the desktop.,0.3333333333333333,0.05
+sim_oc02_habitual_nm_h17_7_ch1_70db,The office paint was a dull sad tan.,the office paint was told.,0.625,0.3611111111111111
+sim_pd04_habitual_nm_h15_8_ch1_70db,The spot on the blotter was made by green ink.,spot on the bladder was made by agreeing to.,0.4,0.2826086956521739
+sim_pd04_habitual_nm_h15_1_ch1_70db,The young kid jumped the rusty gate.,the young kid jumped the rusty J..,0.2857142857142857,0.1388888888888889
+sim_pd04_habitual_nm_h15_3_ch1_70db,A salt pickle tastes fine with ham.,sol trickle tastes fine with ham.,0.42857142857142855,0.17142857142857143
+sim_oc16_habitual_nm_h2_3_ch1_70db,The source of the huge river is the clear spring.,the source of the huge river is the clear spring.,0.1,0.02040816326530612
+sim_oc07_habitual_nm_h12_10_ch1_70db,We find joy in the simplest things.,we find joy in the simplest things.,0.14285714285714285,0.02857142857142857
+sim_oc16_habitual_nm_h2_10_ch1_70db,The girl at the booth sold fifty bonds.,the girl at the booth sold fifty bonds.,0.125,0.02564102564102564
+sim_pd01_habitual_nm_h18_7_ch1_70db,The doctor cured him with these pills.,doctor cure him with these pills.,0.2857142857142857,0.13157894736842105
+sim_oc11_habitual_nm_h15_3_ch1_70db,A salt pickle tastes fine with ham.,Lasalle pickle tastes fine with ham.,0.2857142857142857,0.11428571428571428
+sim_pd04_habitual_nm_h15_5_ch1_70db,Those thistles bend in a high wind.,Bruce this is Brandon a high wind.,0.5714285714285714,0.34285714285714286
+sim_oc04_habitual_nm_h15_4_ch1_70db,The just claim got the right verdict.,the just claim got the right verdict.,0.14285714285714285,0.02702702702702703
+sim_pd09_habitual_nm_h14_1_ch1_70db,A cramp is no small danger on a swim.,a cramp is no small danger on the swim.,0.2222222222222222,0.10810810810810811
+sim_oc09_habitual_nm_h14_6_ch1_70db,Bring your problems to the wise chief.,bring your problems to the Weiss chief.,0.2857142857142857,0.10526315789473684
+sim_oc17_habitual_nm_h12_6_ch1_70db,He ordered peach pie with ice cream.,he ordered peach pie with ice cream.,0.14285714285714285,0.027777777777777776
+sim_pd05_habitual_nm_h2_6_ch1_70db,A pot of tea helps to pass the evening.,how T. helps to pass the evening.,0.4444444444444444,0.2564102564102564
+sim_pd01_habitual_nm_h18_2_ch1_70db,The child almost hurt the small dog.,a child almost hurt the small dog.,0.14285714285714285,0.08333333333333333
+sim_pd16_habitual_nm_h2_1_ch1_70db,The boy was there when the sun rose.,the boy was there when the sun rose.,0.125,0.027777777777777776
+sim_oc17_habitual_nm_h12_3_ch1_70db,The pennant waved when the wind blew.,the pennant waived when the wind blew.,0.2857142857142857,0.05405405405405406
+sim_pd12_habitual_nm_h10_3_ch1_70db,A pound of sugar costs more than eggs.,a pound of sugar cost more than hangs.,0.375,0.13157894736842105
+sim_oc17_habitual_nm_h12_10_ch1_70db,We find joy in the simplest things.,we find joy in the simplest things.,0.14285714285714285,0.02857142857142857
+sim_pd05_habitual_nm_h2_3_ch1_70db,The source of the huge river is the clear spring.,source of the who's river is a clear spring.,0.3,0.22448979591836735
+sim_pd01_habitual_nm_h18_1_ch1_70db,Steam hissed from the broken valve.,steam hisses from the broken valve.,0.3333333333333333,0.05714285714285714
+sim_pd01_habitual_nm_h18_6_ch1_70db,Sunday is the best part of the week.,Sunday is the best part of the week.,0.0,0.0
+sim_oc02_habitual_nm_h17_9_ch1_70db,A rag will soak up spilled water.,he knew the skill of the great young at actress.,1.4285714285714286,1.0909090909090908
+sim_oc08_habitual_nm_h14_10_ch1_70db,Port is a strong wine with a smoky taste.,port is a strong line with a smoky taste.,0.2222222222222222,0.04878048780487805
+sim_pd04_habitual_nm_h15_7_ch1_70db,The tree top waved in a graceful way.,the treetop waved and agree slow way.,0.75,0.2972972972972973
+sim_pd09_habitual_nm_h14_2_ch1_70db,He said the same phrase thirty times.,he said the same phrase thirty times.,0.14285714285714285,0.02702702702702703
+sim_oc11_habitual_nm_h15_5_ch1_70db,Those thistles bend in a high wind.,those those souls bend and a high wind.,0.5714285714285714,0.2857142857142857
+sim_pd09_habitual_nm_h14_6_ch1_70db,Bring your problems to the wise chief.,bring your problems to the Weiss chief.,0.2857142857142857,0.10526315789473684
+sim_pd15_habitual_nm_h15_5_ch1_70db,Those thistles bend in a high wind.,hostesses bend in a high wind.,0.2857142857142857,0.2
+sim_oc06_habitual_nm_h16_5_ch1_70db,The urge to write short stories is rare.,the urge to write short stories is rare.,0.125,0.025
+sim_pd04_habitual_nm_h15_6_ch1_70db,Pure bred poodles have curls.,purebred poodles have curls.,0.4,0.06896551724137931
+sim_oc04_habitual_nm_h15_5_ch1_70db,Those thistles bend in a high wind.,those officials banned in a high wind.,0.42857142857142855,0.3142857142857143
+sim_pd09_habitual_nm_h14_4_ch1_70db,Two plus seven is less than ten.,two plus seven is less than ten.,0.14285714285714285,0.03125
+sim_pd06_habitual_nm_h16_5_ch1_70db,The urge to write short stories is rare.,the urge to write short stories were.,0.375,0.15
+sim_pd14_habitual_nm_h18_4_ch1_70db,The sky that morning was clear and bright blue.,this guy that morning was clear and bright blue.,0.2222222222222222,0.10638297872340426
+sim_pd06_habitual_nm_h16_7_ch1_70db,The pirates seized the crew of the lost ship.,the pirates seized the crews lost ship.,0.4444444444444444,0.17777777777777778
+sim_oc05_habitual_nm_h2_8_ch1_70db,The soft cushion broke the man's fall.,they sh the soft cushion broke the man's fall.,0.42857142857142855,0.23684210526315788
+sim_pd04_habitual_nm_h15_2_ch1_70db,Guess the result from the first scores.,guess the results from the first scores.,0.2857142857142857,0.05128205128205128
+sim_oc11_habitual_nm_h15_6_ch1_70db,Pure bred poodles have curls.,you were bred poodles have curls.,0.4,0.1724137931034483
+sim_oc08_habitual_nm_h14_3_ch1_70db,Pluck the bright rose without leaves.,pluck the bright rose without leaves.,0.16666666666666666,0.02702702702702703
+sim_oc05_habitual_nm_h2_6_ch1_70db,A pot of tea helps to pass the evening.,a pot of tea helps to pass the evening.,0.1111111111111111,0.02564102564102564
+sim_oc17_habitual_nm_h12_1_ch1_70db,The bark of the pine tree was shiny and dark.,Barker the pine tree was shiny and dark.,0.3,0.17777777777777778
+sim_oc16_habitual_nm_h2_1_ch1_70db,The boy was there when the sun rose.,the boy was there when the sun rose.,0.125,0.027777777777777776
+sim_oc06_habitual_nm_h16_1_ch1_70db,The empty flask stood on the tin tray.,the empty flask stood on the ten tray.,0.25,0.05263157894736842
+sim_oc17_habitual_nm_h12_2_ch1_70db,Leaves turn brown and yellow in the fall.,please turn brown and yellow in the fall.,0.125,0.0975609756097561
+sim_pd14_habitual_nm_h18_10_ch1_70db,Add the store’s account to the last cent.,and the stores account to the last sent.,0.375,0.0975609756097561
+sim_pd16_habitual_nm_h2_2_ch1_70db,A rod is used to catch pink salmon.,a rod is used to catch pink salmon.,0.125,0.02857142857142857
+sim_oc17_habitual_nm_h12_4_ch1_70db,"Split the log with a quick, sharp blow.",split the log with a quick sure below.,0.5,0.15384615384615385
+sim_pd05_habitual_nm_h2_10_ch1_70db,The girl at the booth sold fifty bonds.,Ruth %HESITATION sold fifty bonds.,0.625,0.5128205128205128
+sim_oc07_habitual_nm_h12_1_ch1_70db,The bark of the pine tree was shiny and dark.,the bark of the pine tree who is shiny and dark.,0.3,0.1111111111111111
+sim_pd01_habitual_nm_h18_8_ch1_70db,The new girl was fired today at noon.,a new girl was fired today at noon.,0.125,0.08108108108108109
+sim_oc08_habitual_nm_h14_2_ch1_70db,He said the same phrase thirty times.,he said the same priest thirty times.,0.2857142857142857,0.13513513513513514
+sim_pd09_habitual_nm_h14_10_ch1_70db,Port is a strong wine with a smoky taste.,port is a strong wind was a smoky taste.,0.3333333333333333,0.12195121951219512
+sim_oc05_habitual_nm_h2_3_ch1_70db,The source of the huge river is the clear spring.,the source of the huge river is the clear spring.,0.1,0.02040816326530612
+sim_oc09_habitual_nm_h14_7_ch1_70db,Write a fond note to the friend you cherish.,right a Phan node to the friend you cherish.,0.3333333333333333,0.20454545454545456
+sim_pd16_habitual_nm_h2_7_ch1_70db,Smoky fires lack flame and heat.,smoky fires lack flame and heat.,0.16666666666666666,0.03125
+sim_pd06_habitual_nm_h16_3_ch1_70db,He broke a new shoelace that day.,he broke a new shoe lace for that day.,0.5714285714285714,0.18181818181818182
+sim_pd11_habitual_nm_h15_7_ch1_70db,The tree top waved in a graceful way.,the treetop wave in the grease away.,0.875,0.32432432432432434
+sim_oc06_habitual_nm_h16_9_ch1_70db,She sewed the torn coat quite neatly.,she sold the torn coat quite neatly.,0.2857142857142857,0.10810810810810811
+sim_pd06_habitual_nm_h16_8_ch1_70db,We tried to replace the coin but failed.,we tried to replace the coin but failed.,0.125,0.025
+sim_pd05_habitual_nm_h2_9_ch1_70db,The salt breeze came across from the sea.,so breeze came across the sea.,0.375,0.2926829268292683
+sim_oc02_habitual_nm_h17_2_ch1_70db,At that high level the air is pure.,at that high level the error is pure.,0.25,0.14285714285714285
+sim_pd12_habitual_nm_h10_6_ch1_70db,Bail the boat to stop it from sinking.,bill the po to stop it from sinking.,0.25,0.15789473684210525
+sim_pd12_habitual_nm_h10_2_ch1_70db,A wisp of cloud hung in the blue air.,a list of cloud hung in the blue here.,0.3333333333333333,0.16216216216216217
+sim_pd14_habitual_nm_h18_6_ch1_70db,Sunday is the best part of the week.,Sunday is the best part of the week.,0.0,0.0
+sim_oc09_habitual_nm_h14_4_ch1_70db,Two plus seven is less than ten.,two plus seven is less than ten.,0.14285714285714285,0.03125
+sim_pd05_habitual_nm_h2_4_ch1_70db,Kick the ball straight and follow through.,keep the ball straight and follow through.,0.14285714285714285,0.09523809523809523
+sim_pd14_habitual_nm_h18_8_ch1_70db,The new girl was fired today at noon.,the new girl was fired today at noon.,0.125,0.02702702702702703
+sim_pd04_habitual_nm_h15_4_ch1_70db,The just claim got the right verdict.,just claim got the right verdict.,0.14285714285714285,0.10810810810810811
+sim_pd08_habitual_nm_h14_7_ch1_70db,Write a fond note to the friend you cherish.,right a phone no to the friend you cherish.,0.3333333333333333,0.20454545454545456
+sim_oc04_habitual_nm_h15_2_ch1_70db,Guess the result from the first scores.,yes the result from the first scores.,0.14285714285714285,0.07692307692307693
+sim_oc11_habitual_nm_h15_7_ch1_70db,The tree top waved in a graceful way.,the treetop we've done a graceful way.,0.625,0.21621621621621623
+sim_pd15_habitual_nm_h15_8_ch1_70db,The spot on the blotter was made by green ink.,the spot on the blotter was made by green ink.,0.1,0.021739130434782608
+sim_pd01_habitual_nm_h18_4_ch1_70db,The sky that morning was clear and bright blue.,sky that morning was clear and bright blue.,0.1111111111111111,0.0851063829787234
+sim_pd11_habitual_nm_h15_6_ch1_70db,Pure bred poodles have curls.,Preferred poodles have curls.,0.4,0.13793103448275862
+sim_pd14_habitual_nm_h18_7_ch1_70db,The doctor cured him with these pills.,the doctor cure him with these pills.,0.2857142857142857,0.05263157894736842
+sim_pd16_habitual_nm_h2_5_ch1_70db,Help the woman get back to her feet.,help the women get back to her feet.,0.25,0.05555555555555555
+sim_pd16_habitual_nm_h2_3_ch1_70db,The source of the huge river is the clear spring.,the source of the huge river is a clear spring.,0.2,0.08163265306122448
+sim_oc05_habitual_nm_h2_9_ch1_70db,The salt breeze came across from the sea.,the sop breeze came from across the C..,0.625,0.36585365853658536
+sim_oc17_habitual_nm_h12_8_ch1_70db,Hemp is a weed found in parts of the tropics.,temp is we'd found in parts of the tropics.,0.3,0.08888888888888889
+sim_oc02_habitual_nm_h17_8_ch1_70db,He knew the skill of the great young actress.,the office paint was a doll said ten.,1.0,0.7555555555555555
+sim_pd15_habitual_nm_h15_4_ch1_70db,The just claim got the right verdict.,adjust claim got the right verdict.,0.2857142857142857,0.10810810810810811
+sim_oc02_habitual_nm_h17_1_ch1_70db,The jacket hung on the back of the wide chair.,the jacket hung on the back of the white Cher.,0.3,0.13043478260869565
+sim_oc11_habitual_nm_h15_9_ch1_70db,Mud was spattered on the front of his white shirt.,motor was battered on the front of his white shirt.,0.2,0.14
+sim_oc07_habitual_nm_h12_3_ch1_70db,The pennant waved when the wind blew.,the pendant waived when the wind blew.,0.42857142857142855,0.08108108108108109
+sim_pd01_habitual_nm_h18_10_r_ch1_70db,Add the store’s account to the last cent.,and the stores account O. S..,0.75,0.43902439024390244
+sim_pd15_habitual_nm_h15_3_ch1_70db,A salt pickle tastes fine with ham.,he sell pickle tastes fine with ham.,0.2857142857142857,0.11428571428571428
+sim_oc05_habitual_nm_h2_10_ch1_70db,The girl at the booth sold fifty bonds.,the girl at the booth sold fifty bonds.,0.125,0.02564102564102564
+sim_pd14_habitual_nm_h18_1_ch1_70db,Steam hissed from the broken valve.,steam Hess from the broken valve.,0.3333333333333333,0.14285714285714285
+sim_oc08_habitual_nm_h14_5_ch1_70db,The glow deepened in the eyes of the sweet girl.,the glow deep into the eyes of the sweet girl.,0.3,0.14583333333333334
+sim_oc05_habitual_nm_h2_5_ch1_70db,Help the woman get back to her feet.,help the women get back to her feet.,0.25,0.05555555555555555
+sim_oc06_habitual_nm_h16_6_ch1_70db,The pencils have all been used.,the pencils have all been used.,0.16666666666666666,0.03225806451612903
+sim_pd08_habitual_nm_h14_6_ch1_70db,Bring your problems to the wise chief.,bring your problems to the wise G..,0.2857142857142857,0.15789473684210525
+sim_pd09_habitual_nm_h14_8_ch1_70db,Clothes and lodging are free to new men.,close an lodging are free to the new nine.,0.5,0.3
+sim_pd14_habitual_nm_h18_2_ch1_70db,The child almost hurt the small dog.,the child almost hurt the small dog.,0.14285714285714285,0.027777777777777776
+sim_oc07_habitual_nm_h12_5_ch1_70db,Burn peat after the logs give out.,burn Pete after the logs give out.,0.2857142857142857,0.11764705882352941
+sim_pd01_habitual_nm_h18_3_ch1_70db,There was a sound of dry leaves outside.,it was the sound of dry leaves outside.,0.25,0.2
+sim_pd16_habitual_nm_h2_4_ch1_70db,Kick the ball straight and follow through.,kicked the ball straight and follow through.,0.14285714285714285,0.07142857142857142
+sim_oc07_habitual_nm_h12_8_ch1_70db,Hemp is a weed found in parts of the tropics.,hamp as a weed found in parts of the tropics.,0.2,0.06666666666666667
+sim_oc06_habitual_nm_h16_4_ch1_70db,The coffee stand is too high for the couch.,the coffee stand is too high for the couch.,0.1111111111111111,0.023255813953488372
+sim_oc08_habitual_nm_h14_6_ch1_70db,Bring your problems to the wise chief.,bring your problems to the Weiss chief.,0.2857142857142857,0.10526315789473684
+sim_oc16_habitual_nm_h2_8_ch1_70db,The soft cushion broke the man's fall.,the soft cushion broke the man's fall.,0.14285714285714285,0.02631578947368421
+sim_pd08_habitual_nm_h14_5_ch1_70db,The glow deepened in the eyes of the sweet girl.,the glow deep and in the eyes of the sweet girl.,0.3,0.08333333333333333
+sim_oc08_habitual_nm_h14_1_ch1_70db,A cramp is no small danger on a swim.,a cramp is no small danger on a swim.,0.1111111111111111,0.02702702702702703
+sim_pd09_habitual_nm_h14_7_ch1_70db,Write a fond note to the friend you cherish.,right a fine no to a friend you cherish.,0.4444444444444444,0.25
+sim_oc07_habitual_nm_h12_6_ch1_70db,He ordered peach pie with ice cream.,he ordered peach pie with ice cream.,0.14285714285714285,0.027777777777777776
+sim_pd11_habitual_nm_h15_2_ch1_70db,Guess the result from the first scores.,guess results from the first scores.,0.42857142857142855,0.15384615384615385
+sim_pd16_habitual_nm_h2_8_ch1_70db,The soft cushion broke the man's fall.,the soft cushion broke the man's fall.,0.14285714285714285,0.02631578947368421
+sim_oc06_habitual_nm_h16_10_ch1_70db,The sofa cushion is red and of light weight.,the sofa cushion is red N. of light weight.,0.2222222222222222,0.09090909090909091
+sim_oc09_habitual_nm_h14_9_ch1_70db,We frown when events take a bad turn.,we frown when events take a bad turn.,0.125,0.02702702702702703
+sim_pd14_habitual_nm_h18_5_ch1_70db,Torn scraps littered the stone floor.,torn scraps littered the stone floor.,0.16666666666666666,0.02702702702702703
+sim_oc02_habitual_nm_h17_10_ch1_70db,A shower of dirt fell from the hot pipes.,a red will soak up spilled water.,1.0,0.7560975609756098
+sim_pd11_habitual_nm_h15_5_ch1_70db,Those thistles bend in a high wind.,does this is bend in Ohio no high wind.,0.7142857142857143,0.4
+sim_pd12_habitual_nm_h10_5_ch1_70db,The play seems dull and quite stupid.,the place seems stolen quite stupid.,0.5714285714285714,0.24324324324324326
+sim_pd15_habitual_nm_h15_10_ch1_70db,The cigar burned a hole in the desk top.,zero Gard burn a hole in the desktop.,0.5555555555555556,0.25
+sim_pd05_habitual_nm_h2_8_ch1_70db,The soft cushion broke the man's fall.,so I've cushion broke the man's fall.,0.2857142857142857,0.18421052631578946
+sim_pd04_habitual_nm_h15_10_ch1_70db,The cigar burned a hole in the desk top.,cigar burned a hole in the desktop.,0.3333333333333333,0.125
+sim_oc09_habitual_nm_h14_8_ch1_70db,Clothes and lodging are free to new men.,closing lodging are free to new men.,0.25,0.175
+sim_pd06_habitual_nm_h16_9_ch1_70db,She sewed the torn coat quite neatly.,she sold the torn coat quite neatly.,0.2857142857142857,0.10810810810810811
+sim_pd11_habitual_nm_h15_1_ch1_70db,The young kid jumped the rusty gate.,the young kid jumped the rusty gate.,0.14285714285714285,0.027777777777777776
+sim_pd01_habitual_nm_h18_9_ch1_70db,They felt gay when the ship arrived in port.,he fell gateways ship arrived in port.,0.5555555555555556,0.2727272727272727
+sim_pd16_habitual_nm_h2_10_ch1_70db,The girl at the booth sold fifty bonds.,the girl at the booth sold fifty bonds.,0.125,0.02564102564102564
+sim_oc09_habitual_nm_h14_1_ch1_70db,A cramp is no small danger on a swim.,a cramp is no small danger on a swim.,0.1111111111111111,0.02702702702702703
+sim_oc04_habitual_nm_h15_7_ch1_70db,The tree top waved in a graceful way.,the treetop waved in a graceful way.,0.375,0.05405405405405406
+sim_oc16_habitual_nm_h2_2_ch1_70db,A rod is used to catch pink salmon.,%HESITATION rod is used to catch pink salmon.,0.125,0.2857142857142857
+sim_pd09_habitual_nm_h14_3_ch1_70db,Pluck the bright rose without leaves.,**** the bright rose without lease.,0.3333333333333333,0.1891891891891892
+sim_pd08_habitual_nm_h14_10_ch1_70db,Port is a strong wine with a smoky taste.,port is a strong wiring with the Smokey taste.,0.4444444444444444,0.21951219512195122
+sim_pd05_habitual_nm_h2_5_ch1_70db,Help the woman get back to her feet.,a woman get back to her feet.,0.25,0.2222222222222222
+sim_oc09_habitual_nm_h14_3_ch1_70db,Pluck the bright rose without leaves.,pluck the bright rose without leaves.,0.16666666666666666,0.02702702702702703
+sim_oc05_habitual_nm_h2_2_ch1_70db,A rod is used to catch pink salmon.,a rod is used to catch pink salmon.,0.125,0.02857142857142857
+sim_oc04_habitual_nm_h15_3_ch1_70db,A salt pickle tastes fine with ham.,he salt pickle tastes fine with ham.,0.14285714285714285,0.05714285714285714
+sim_oc17_habitual_nm_h12_5_ch1_70db,Burn peat after the logs give out.,burned Pete after the logs give out.,0.2857142857142857,0.17647058823529413
+sim_pd06_habitual_nm_h16_10_ch1_70db,The sofa cushion is red and of light weight.,the sofa cushion is red and of light weight.,0.1111111111111111,0.022727272727272728
+sim_pd01_habitual_nm_h18_5_ch1_70db,Torn scraps littered the stone floor.,torn scraps littered the stone floor.,0.16666666666666666,0.02702702702702703
+sim_oc07_habitual_nm_h12_2_ch1_70db,Leaves turn brown and yellow in the fall.,leaves turned brown and yellow in the fall.,0.25,0.07317073170731707
+sim_oc08_habitual_nm_h14_7_ch1_70db,Write a fond note to the friend you cherish.,right a fine note to the friend you cherish.,0.2222222222222222,0.13636363636363635
+sim_oc08_habitual_nm_h14_4_ch1_70db,Two plus seven is less than ten.,two plus seven is less than ten.,0.14285714285714285,0.03125
+sim_oc08_habitual_nm_h14_9_ch1_70db,We frown when events take a bad turn.,we frown when events take a bad turn.,0.125,0.02702702702702703

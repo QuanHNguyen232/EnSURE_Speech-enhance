@@ -1,0 +1,487 @@
+sim_NM_na_nn_pd16_h2_10.wav,the girl at the booth sold fifty bonds
+sim_NM_na_nn_pd05_h2_8.wav,the soft cushion broke the mans fall
+sim_NM_na_nn_pd15_h15_6.wav,pure bred poodles have curls
+sim_NM_na_nn_pd04_h15_8.wav,the spot on the blotter was made by green ink
+sim_NM_na_nn_pd16_h2_8.wav,the soft cushion broke the mans fall
+sim_NM_na_nn_pd15_h15_3.wav,a salt pickle tastes fine with ham
+sim_NM_na_nn_pd01_h18_9.wav,they felt gay when the ship arrived in port
+sim_NM_na_nn_pd14_h18_9.wav,they felt gay when the ship arrived in port
+sim_NM_na_nn_pd05_h2_4.wav,kick the ball straight and follow through
+sim_NM_na_nn_pd15_h15_10.wav,the cigar burned a hole in the desk top
+sim_NM_na_nn_pd08_h14_4.wav,two plus seven is less than ten
+sim_NM_na_nn_pd14_h18_5.wav,torn scraps littered the stone floor
+sim_NM_na_nn_pd08_h14_2.wav,he said the same phrase thirty times
+sim_NM_na_nn_pd16_h2_1.wav,the boy was there when the sun rose
+sim_NM_na_nn_pd15_h15_1.wav,the young kid jumped the rusty gate
+sim_NM_na_nn_pd04_h15_2.wav,guess the result from the first scores
+sim_NM_na_nn_pd01_h18_5.wav,torn scraps littered the stone floor
+sim_NM_na_nn_pd12_h10_9.wav,ten pins were set in order
+sim_NM_na_nn_pd16_h2_2.wav,a rod is used to catch pink salmon
+sim_NM_na_nn_pd11_h15_7.wav,the tree top waved in a graceful way
+sim_NM_na_nn_pd12_h10_10.wav,the bill was paid every third week
+sim_NM_na_nn_pd05_h2_3.wav,the source of the huge river is the clear spring
+sim_NM_na_nn_pd12_h10_5.wav,the play seems dull and quite stupid
+sim_NM_na_nn_pd12_h10_7.wav,the term ended in late june that year
+sim_NM_na_nn_pd04_h15_5.wav,those thistles bend in a high wind
+sim_NM_na_nn_pd11_h15_8.wav,the spot on the blotter was made by green ink
+sim_NM_na_nn_pd06_h16_4.wav,the coffee stand is too high for the couch
+sim_NM_na_nn_pd16_h2_6.wav,a pot of tea helps to pass the evening
+sim_NM_na_nn_pd01_h18_7.wav,the doctor cured him with these pills
+sim_NM_na_nn_pd16_h2_7.wav,smoky fires lack flame and heat
+sim_NM_na_nn_pd08_h14_9.wav,we frown when events take a bad turn
+sim_NM_na_nn_pd14_h18_7.wav,the doctor cured him with these pills
+sim_NM_na_nn_pd05_h2_6.wav,a pot of tea helps to pass the evening
+sim_NM_na_nn_pd05_h2_9.wav,the salt breeze came across from the sea
+sim_NM_na_nn_pd08_h14_7.wav,write a fond note to the friend you cherish
+sim_NM_na_nn_pd11_h15_6.wav,pure bred poodles have curls
+sim_NM_na_nn_pd01_h18_10_r.wav,add the store’s account to the last cent
+sim_NM_na_nn_pd15_h15_2.wav,guess the result from the first scores
+sim_NM_na_nn_pd09_h14_3.wav,pluck the bright rose without leaves
+sim_NM_na_nn_pd05_h2_1.wav,the boy was there when the sun rose
+sim_NM_na_nn_pd11_h15_3.wav,a salt pickle tastes fine with ham
+sim_NM_na_nn_pd11_h15_2.wav,guess the result from the first scores
+sim_NM_na_nn_pd11_h15_9.wav,mud was spattered on the front of his white shirt
+sim_NM_na_nn_pd09_h14_8.wav,clothes and lodging are free to new men
+sim_NM_na_nn_pd06_h16_10.wav,the sofa cushion is red and of light weight
+sim_NM_na_nn_pd09_h14_4.wav,two plus seven is less than ten
+sim_NM_na_nn_pd04_h15_3.wav,a salt pickle tastes fine with ham
+sim_NM_na_nn_pd05_h2_10.wav,the girl at the booth sold fifty bonds
+sim_NM_na_nn_pd11_h15_10.wav,the cigar burned a hole in the desk top
+sim_NM_na_nn_pd15_h15_7.wav,the tree top waved in a graceful way
+sim_NM_na_nn_pd06_h16_7.wav,the pirates seized the crew of the lost ship
+sim_NM_na_nn_pd04_h15_1.wav,the young kid jumped the rusty gate
+sim_NM_na_nn_pd06_h16_8.wav,we tried to replace the coin but failed
+sim_NM_na_nn_pd14_h18_2.wav,the child almost hurt the small dog
+sim_NM_na_nn_pd01_h18_4.wav,the sky that morning was clear and bright blue
+sim_NM_na_nn_pd14_h18_4.wav,the sky that morning was clear and bright blue
+sim_NM_na_nn_pd08_h14_5.wav,the glow deepened in the eyes of the sweet girl
+sim_NM_na_nn_pd06_h16_1.wav,the empty flask stood on the tin tray
+sim_NM_na_nn_pd08_h14_1.wav,a cramp is no small danger on a swim
+sim_NM_na_nn_pd11_h15_4.wav,the just claim got the right verdict
+sim_NM_na_nn_pd14_h18_10.wav,add the store’s account to the last cent
+sim_NM_na_nn_pd12_h10_6.wav,bail the boat to stop it from sinking
+sim_NM_na_nn_pd01_h18_2.wav,the child almost hurt the small dog
+sim_NM_na_nn_pd06_h16_5.wav,the urge to write short stories is rare
+sim_NM_na_nn_pd01_h18_8.wav,the new girl was fired today at noon
+sim_NM_na_nn_pd14_h18_1.wav,steam hissed from the broken valve
+sim_NM_na_nn_pd04_h15_9.wav,mud was spattered on the front of his white shirt
+sim_NM_na_nn_pd12_h10_8.wav,a tusk is used to make costly gifts
+sim_NM_na_nn_pd04_h15_6.wav,pure bred poodles have curls
+sim_NM_na_nn_pd14_h18_6.wav,sunday is the best part of the week
+sim_NM_na_nn_pd16_h2_4.wav,kick the ball straight and follow through
+sim_NM_na_nn_pd08_h14_10.wav,port is a strong wine with a smoky taste
+sim_NM_na_nn_pd06_h16_9.wav,she sewed the torn coat quite neatly
+sim_NM_na_nn_pd08_h14_6.wav,bring your problems to the wise chief
+sim_NM_na_nn_pd06_h16_2.wav,a speedy man can beat this track mark
+sim_NM_na_nn_pd09_h14_10.wav,port is a strong wine with a smoky taste
+sim_NM_na_nn_pd01_h18_1.wav,steam hissed from the broken valve
+sim_NM_na_nn_pd04_h15_4.wav,the just claim got the right verdict
+sim_NM_na_nn_pd06_h16_3.wav,he broke a new shoelace that day
+sim_NM_na_nn_pd04_h15_10.wav,the cigar burned a hole in the desk top
+sim_NM_na_nn_pd15_h15_4.wav,the just claim got the right verdict
+sim_NM_na_nn_pd14_h18_8.wav,the new girl was fired today at noon
+sim_NM_na_nn_pd12_h10_1.wav,the slush lay deep along the street
+sim_NM_na_nn_pd15_h15_5.wav,those thistles bend in a high wind
+sim_NM_na_nn_pd05_h2_5.wav,help the woman get back to her feet
+sim_NM_na_nn_pd08_h14_3.wav,pluck the bright rose without leaves
+sim_NM_na_nn_pd15_h15_8.wav,the spot on the blotter was made by green ink
+sim_NM_na_nn_pd12_h10_2.wav,a wisp of cloud hung in the blue air
+sim_NM_na_nn_pd04_h15_7.wav,the tree top waved in a graceful way
+sim_NM_na_nn_pd09_h14_9.wav,we frown when events take a bad turn
+sim_NM_na_nn_pd05_h2_2.wav,a rod is used to catch pink salmon
+sim_NM_na_nn_pd01_h18_3.wav,there was a sound of dry leaves outside
+sim_NM_na_nn_pd09_h14_2.wav,he said the same phrase thirty times
+sim_NM_na_nn_pd11_h15_5.wav,those thistles bend in a high wind
+sim_NM_na_nn_pd14_h18_3.wav,there was a sound of dry leaves outside
+sim_NM_na_nn_pd05_h2_7.wav,smoky fires lack flame and heat
+sim_NM_na_nn_pd09_h14_5.wav,the glow deepened in the eyes of the sweet girl
+sim_NM_na_nn_pd09_h14_6.wav,bring your problems to the wise chief
+sim_NM_na_nn_pd12_h10_3.wav,a pound of sugar costs more than eggs
+sim_NM_na_nn_pd01_h18_6.wav,sunday is the best part of the week
+sim_NM_na_nn_pd06_h16_6.wav,the pencils have all been used
+sim_NM_na_nn_pd06_h16_10_enhanced.wav,the sofa cushion is red and of light weight
+sim_NM_na_nn_pd09_h14_1.wav,a cramp is no small danger on a swim
+sim_NM_na_nn_pd16_h2_5.wav,help the woman get back to her feet
+sim_NM_na_nn_pd09_h14_7.wav,write a fond note to the friend you cherish
+sim_NM_na_nn_pd16_h2_3.wav,the source of the huge river is the clear spring
+sim_NM_na_nn_pd11_h15_1.wav,the young kid jumped the rusty gate
+PD50_sit8.wav,she doesnt like to have it hanging around
+PD10_sit9.wav,the first health revolution was the control of infection
+PD34_sit14.wav,the children were now daring each other to feats of wild speed and recklessness
+PD13_sit14.wav,were fortunate that there are still people like them around to do the job
+PD21_sit14.wav,were fortunate that there are still people like them around to do the job
+PD31_sit15.wav,trays of baby bottles were passed out to the older children to feed the infants
+PD39_sit15.wav,trays of baby bottles were passed out to the older children to feed the infants
+PD12_sit9.wav,i didnt even know how much fuel it had
+PD04_sit14.wav,i dropped my trays and grabbed her just as she was about to fall
+PD06_sit14.wav,i dropped my trays and grabbed her just as she was about to fall
+PD55_sit14.wav,i dropped my trays and grabbed her just as she was about to fall
+PD20_sit9.wav,the complaint came in at two in the afternoon
+PD13_sit13.wav,he couldnt go back to his trade and he had no other skills
+PD01_sit8.wav,this is a period of transition for me
+PD03_sit15.wav,nobody knows exactly why or when the tragedy will occur without knowing the full circumstances
+PD47_sit15.wav,nobody knows exactly why or when the tragedy will occur without knowing the full circumstances
+PD17_sit5.wav,my husband drives too fast
+PD32_sit5.wav,my husband drives too fast
+PD33_sit5.wav,my husband drives too fast
+PD54_sit5.wav,my husband drives too fast
+PD03_sit5.wav,she cooked carrots and onions
+PD47_sit5.wav,she cooked carrots and onions
+PD04_sit5.wav,it was a great meeting
+PD07_sit5.wav,it was a great meeting
+PD15_sit5.wav,it was a great meeting
+PD08_sit8.wav,we are the largest of the four states
+PD16_sit8.wav,we are the largest of the four states
+PD41_sit8.wav,we are the largest of the four states
+PD06_sit5.wav,theyll never fit me again
+PD41_sit5.wav,theyll never fit me again
+PD55_sit5.wav,theyll never fit me again
+PD20_sit13.wav,next evening we were back to take our places against the fallen tree
+PD34_sit13.wav,next evening we were back to take our places against the fallen tree
+PD31_sit12.wav,for years a friend of mine has been trying to quit smoking
+PD39_sit12.wav,for years a friend of mine has been trying to quit smoking
+PD37_sit15.wav,if you have a new television you wont feel sorry for yourself because youre alone
+PD29_sit9.wav,his chronic stage fright nearly lost him the part
+PD34_sit8.wav,there is no fee to visit the nursery
+PD49_sit8.wav,there is no fee to visit the nursery
+PD37_sit14.wav,unlike many of us he is not afraid to admit he is wrong
+PD50_sit15.wav,he told the crowd hed never seen anything like the celebration in his entire career
+PD07_sit7.wav,its not at all difficult to prepare
+PD09_sit7.wav,its not at all difficult to prepare
+PD29_sit7.wav,its not at all difficult to prepare
+PD03_sit12.wav,flowers in the shade demand less water than those in the sun
+PD10_sit12.wav,flowers in the shade demand less water than those in the sun
+PD47_sit12.wav,flowers in the shade demand less water than those in the sun
+PD27_sit8.wav,natural poisons have always existed in our foods
+PD23_sit8.wav,he never played a moment of organized football
+PD29_sit8.wav,he never played a moment of organized football
+PD28_sit6.wav,i tell you it was wonderful
+PD44_sit6.wav,i tell you it was wonderful
+PD51_sit6.wav,i tell you it was wonderful
+PD19_sit11.wav,youre allowed to take an extra day to return the trailer
+PD26_sit10.wav,so far only a handful of wells have been drilled
+PD37_sit10.wav,so far only a handful of wells have been drilled
+PD07_sit12.wav,if the dormant does nothing for you he doesnt deserve a tip
+PD46_sit7.wav,i saw him a few weeks later
+PD31_sit14.wav,i dont blow money on horses or buy my wife diamonds or fur coats
+PD54_sit15.wav,it is so different from the flowers that needs its own special terms
+PD23_sit15.wav,it is so different from the flowers that it needs its own special terms
+PD10_sit8.wav,there was only one decision to be made
+PD31_sit8.wav,there was only one decision to be made
+PD17_sit15.wav,too many people die of heart attacks because they do not get treatment in time
+PD36_sit15.wav,too many people die of heart attacks because they do not get treatment in time
+PD43_sit15.wav,too many people die of heart attacks because they do not get treatment in time
+PD32_sit12.wav,the best way to describe the work is to say its unpredictable
+PD13_sit6.wav,i was in love with it
+PD05_sit12.wav,although he loved the whole human race children were his special favorites
+PD03_sit6.wav,i have not addressed the issue
+PD25_sit6.wav,i have not addressed the issue
+PD47_sit6.wav,i have not addressed the issue
+PD10_sit11.wav,some of us give assurance while others do quite the contrary
+PD49_sit11.wav,some of us give assurance while others do quite the contrary
+PD17_sit7.wav,we had to get the managers permission
+PD31_sit10.wav,hundreds of tools and inventions are now on the market
+PD21_sit8.wav,he was a policeman in a local club
+PD32_sit15.wav,there are thousands of cookbooks but one general favorite book belongs on every book cooks shelf
+PD02_sit14.wav,he knows there is a pack of wolves in the timber across the valley
+PD30_sit14.wav,he knows there is a pack of wolves in the timber across the valley
+PD45_sit14.wav,he knows there is a pack of wolves in the timber across the valley
+PD06_sit9.wav,he said that he was too old to travel
+PD55_sit9.wav,he said that he was too old to travel
+PD32_sit6.wav,the pair of shoes was new
+PD39_sit6.wav,the pair of shoes was new
+PD51_sit5.wav,every newspaper reported the story
+PD52_sit9.wav,you will be looking much better in three days
+PD17_sit11.wav,we must act quickly to save what remains of this resource
+PD30_sit6.wav,how many hours have you worked
+PD45_sit6.wav,how many hours have you worked
+PD09_sit11.wav,people see him as a spoiled brat in a gentlemans sport
+PD46_sit11.wav,people see him as a spoiled brat in a gentlemans sport
+PD02_sit13.wav,no matter what profession you go into a strong general background is helpful
+PD06_sit13.wav,no matter what profession you go into a strong general background is helpful
+PD55_sit13.wav,no matter what profession you go into a strong general background is helpful
+PD02_sit11.wav,we will get to know these players as we go along
+PD28_sit15.wav,we are still surrounded by mysteries here on earth which at present cannot be explained
+PD44_sit15.wav,we are still surrounded by mysteries here on earth which at present cannot be explained
+PD28_sit12.wav,a cat raised by other cats will be forever fearful of people
+PD38_sit12.wav,a cat raised by other cats will be forever fearful of people
+PD44_sit12.wav,a cat raised by other cats will be forever fearful of people
+PD40_sit15.wav,certainly consumers have the right to complain and send things back when they arent right
+PD28_sit7.wav,he told the patient to be careful
+PD44_sit7.wav,he told the patient to be careful
+PD53_sit7.wav,i havent seen that friend for years
+PD42_sit14.wav,i had put on 30 pounds in six months and that didnt help matters
+PD28_sit10.wav,it was fun once we got up to the house
+PD44_sit10.wav,it was fun once we got up to the house
+PD27_sit6.wav,you will never know until you try
+PD56_sit6.wav,you will never know until you try
+PD02_sit12.wav,all thats required is hard work and the will to do it
+PD48_sit12.wav,all thats required is hard work and the will to do it
+PD49_sit10.wav,the patient managed to fall and break his ankle again
+PD46_sit15.wav,the meeting was not to put out our problems but more to encourage one another
+PD06_sit8.wav,the defendant is either guilty or not guilty
+PD40_sit8.wav,defendant is either guilty or not guilty
+PD18_sit15.wav,i was going to go there but everyone told me it rained all the time
+PD19_sit15.wav,i was going to go there but everyone told me it rained all the time
+PD56_sit15.wav,i was going to go there but everyone told me it rained all the time
+PD27_sit12.wav,in any case it is a little late to stop the revolution
+PD29_sit12.wav,in any case it is a little late to stop the revolution
+PD21_sit7.wav,the soil seemed to hold water well
+PD07_sit9.wav,ive been through too much to give in now
+PD37_sit13.wav,the basic requirement is an activity that draws them closer to each other
+PD09_sit5.wav,the workout lasted two hours
+PD12_sit8.wav,take some time out to enjoy the season
+PD36_sit8.wav,take some time out to enjoy the season
+PD54_sit10.wav,one of these days im going to take a vacation
+PD02_sit8.wav,enjoy the fair weather while in the tropics
+PD41_sit11.wav,whatever the reasons the day of the old car is here
+PD43_sit11.wav,whatever the reasons the day of the old car is here
+PD12_sit6.wav,they are very much in love
+PD54_sit6.wav,they are very much in love
+PD41_sit10.wav,this is a trend we simply cannot allow to continue
+PD01_sit5.wav,the job provides many benefits
+PD12_sit10.wav,he has already received many new requests for the list
+PD56_sit13.wav,it was our first sign of a grizzly in a week of searching
+PD13_sit15.wav,in the emergency room patients often wait for hours until a doctor can see them
+PD34_sit15.wav,in the emergency room patients often wait for hours until a doctor can see them
+PD21_sit6.wav,you want him to do well
+PD33_sit6.wav,you want him to do well
+PD10_sit5.wav,he feels the same way
+PD19_sit5.wav,he feels the same way
+PD38_sit5.wav,he feels the same way
+PD56_sit9.wav,he is accused of being too rigid and moral
+PD02_sit6.wav,each one volunteered to jump first
+PD46_sit14.wav,for once let us attack the causes of our problems and not the results
+PD07_sit8.wav,find out everything you might need to know
+PD16_sit12.wav,consider all that he must do to stay at the prescribed weight
+PD09_sit6.wav,the surgeon quickly stitched the wound
+PD48_sit13.wav,there were many signs that they had a high degree of achievement motivation
+PD18_sit5.wav,we both love to travel
+PD21_sit5.wav,we both love to travel
+PD49_sit5.wav,we both love to travel
+PD55_sit12.wav,he doesnt think the film will damage the image of the professional players
+PD06_sit12.wav,he doesnt think the film will damage the image of professional players
+PD16_sit13.wav,i dont want to miss anything because i dont have anyone with me
+PD06_sit6.wav,the fish swam across the pond
+PD55_sit6.wav,the fish swam across the pond
+PD08_sit5.wav,some hotels are available nearby
+PD37_sit5.wav,some hotels are available nearby
+PD56_sit14.wav,the idea of the magic wand may well have begun with the divining rod
+PD16_sit9.wav,we cannot and need not back either side totally
+PD36_sit9.wav,we cannot and need not back either side totally
+PD37_sit9.wav,we cannot and need not back either side totally
+PD43_sit12.wav,i ask people to be as careful as they are at home
+PD04_sit7.wav,she suggested we all have dinner together
+PD26_sit7.wav,she suggested we all have dinner together
+PD19_sit13.wav,somehow i doubt that he will win because golf is such a challenge
+PD35_sit10.wav,my sister has a unique way of getting things done
+PD28_sit8.wav,you would be better off taking a cold shower
+PD30_sit11.wav,it struck us that they were really being demeaning to them
+PD36_sit11.wav,it struck us that they were really being demeaning to them
+PD01_sit9.wav,try to avoid moving in midsummer or on weekends
+PD42_sit15.wav,at one point the mother disappeared over the crest and was gone for several minutes
+PD28_sit5.wav,many have adopted this attitude
+PD44_sit5.wav,many have adopted this attitude
+PD51_sit11.wav,by the end of the year the inflation rate had spiraled
+PD33_sit15.wav,if he and his wife are having difficulties he will talk them out with her
+PD52_sit15.wav,if he and his wife are having difficulties he will talk them out with her
+PD35_sit13.wav,members range from students and grandmothers to star athletes lawyers businessmen and mayors
+PD07_sit6.wav,i loved every minute of it
+PD48_sit6.wav,i loved every minute of it
+PD21_sit13.wav,we have to take part in what is good and do our best
+PD42_sit13.wav,you can choose almost any kind of route you want to get there
+PD10_sit14.wav,we only had half the number of performers that were supposed to be there
+PD56_sit7.wav,the pain passes but the beauty remains
+PD05_sit5.wav,the box contains three sweaters
+PD12_sit5.wav,the box contained three sweaters
+PD56_sit8.wav,the wait for work can be very long
+PD37_sit8.wav,night after night they received annoying phone calls
+PD04_sit10.wav,when business slows down considerably it can cause widespread unemployment
+PD33_sit10.wav,when business slows down considerably it can cause widespread unemployment
+PD12_sit14.wav,unless the young people really believe in our institutions the system will not work
+PD19_sit6.wav,she will spend the winter abroad
+PD35_sit5.wav,he wore a black vest
+PD48_sit5.wav,he wore a black vest
+PD56_sit5.wav,he wore a black vest
+PD31_sit9.wav,i worked at it regardless of what anyone thought
+PD53_sit9.wav,i worked at it regardless of what anyone thought
+PD30_sit7.wav,i think im full of this stuff
+PD45_sit7.wav,i think im full of this stuff
+PD54_sit7.wav,i think im full of this stuff
+PD24_sit14.wav,merely defining the risk is not enough for a jockey to keep his job
+PD43_sit14.wav,merely defining the risks is not enough for a jockey to keep his job
+PD02_sit10.wav,many parents said they stopped medication when the ear ache disappeared
+PD10_sit10.wav,many parents said they stopped medication when the ear ache disappeared
+PD01_sit7.wav,some people find them hard to identify
+PD41_sit7.wav,some people find them hard to identify
+PD04_sit6.wav,that way you wont be disappointed
+PD22_sit6.wav,that way you wont be disappointed
+PD31_sit6.wav,that way you wont be disappointed
+PD04_sit9.wav,it gave her an excuse not to leave us
+PD27_sit7.wav,big muscles are not necessarily strong ones
+PD01_sit10.wav,my thats a big word for such a little child
+PD07_sit10.wav,my thats a big word for such a little child
+PD33_sit9.wav,they become limber and they move with greater strength
+PD25_sit14.wav,most of the disabled who are eligible for aid are not receiving enough help
+PD39_sit14.wav,most of the disabled who are eligible for aid are not receiving enough help
+PD03_sit13.wav,why is that all the people in your portraits look so sad
+PD47_sit13.wav,why is that all the people in your portraits look so sad
+PD19_sit8.wav,the process works in other ways as well
+PD38_sit8.wav,the process works in other ways as well
+PD54_sit12.wav,i thought i was going to hit the side of our building
+PD26_sit5.wav,keep your house very clean
+PD13_sit5.wav,it was not a joke
+PD39_sit9.wav,in town one day an angry woman accosted him
+PD20_sit5.wav,i found two wooden boxes
+PD26_sit14.wav,returning later he found that the trap had been carefully dug up and sprung
+PD19_sit14.wav,it is their large appetite for lamb that constantly keeps him in hot water
+PD08_sit7.wav,being able to dance can help too
+PD49_sit6.wav,hundreds of fans surrounded the celebrity
+PD50_sit6.wav,the little girls cut lacey valentines
+PD03_sit8.wav,there are two methods for soaking dried beans
+PD20_sit8.wav,there are two methods for soaking dried beans
+PD25_sit8.wav,there are two methods for soaking dried beans
+PD43_sit8.wav,there are two methods for soaking dried beans
+PD47_sit8.wav,there are two methods for soaking dried beans
+PD33_sit11.wav,i miss having you with me when im clearing the table
+PD48_sit11.wav,i miss having you with me when im clearing the table
+PD30_sit5.wav,the books are very expensive
+PD45_sit5.wav,the books are very expensive
+PD16_sit5.wav,that plant needs more water
+PD17_sit9.wav,i can easily learn to write in correct english
+PD28_sit9.wav,every traveler has had experiences and adventures in taxi cabs
+PD44_sit9.wav,every traveler has had experiences and adventures in taxi cabs
+PD49_sit9.wav,every traveler has had experiences and adventures in taxi cabs
+PD30_sit9.wav,you have to feed yourself with information every day
+PD45_sit9.wav,you have to feed yourself with information every day
+PD50_sit11.wav,if you count the fun ive had im well ahead of my goals
+PD27_sit15.wav,sometimes in rehearsal everyone would talk a lot about making a change in the script
+PD29_sit15.wav,remove the pan from the stove and slowly fill it with cold water to cool off
+PD55_sit15.wav,remove the pan from the stove and slowly fill it with cold water to cool off
+PD10_sit15.wav,it was the exact same feeling you get when your knee gives out on you
+PD21_sit15.wav,until recently there has been little scientific effort to unearth the facts about their habits
+PD53_sit15.wav,until recently there had been little scientific effort to unearth the facts about their habits
+PD28_sit13.wav,in this school i still think it isnt even more difficult task
+PD44_sit13.wav,in this school i still think it isnt even more difficult task
+PD03_sit14.wav,our first practice is this week were not as good as they should have been
+PD27_sit14.wav,our first practice is this week were not as good as they should have been
+PD47_sit14.wav,our first practice is this week were not as good as they should have been
+PD02_sit15.wav,the material should just cover the tops of the seeds for the best growing pattern
+PD33_sit13.wav,we talked about whether he should accept the office if it were offered
+PD53_sit13.wav,we talked about whether he should accept the office if it were offered
+PD54_sit13.wav,we talked about whether he should accept the office if it were offered
+PD50_sit14.wav,we waited at silent leaning against the fallen tree about 50 feet from the deer
+PD48_sit14.wav,we waited at silent leading against the fallen tree about 50 feet from the deer
+PD36_sit13.wav,trucks haul supplies to the jungle and bring back logs and farm products
+PD30_sit15.wav,he said the investigators expressed their opinions in the report without regard to any recrimination
+PD45_sit15.wav,he said the investigators expressed their opinions in the report without regard to any recrimination
+PD05_sit13.wav,we can only guess why people endured such exhausting toil day after day
+PD10_sit13.wav,we can only guess why people endured such exhausting toil day after day
+PD26_sit13.wav,we can only guess why people endured such exhausting toil day after day
+PD14_sit15.wav,at this moment we have complete freedom to begin the store
+PD01_sit15.wav,at this moment we have complete freedom to begin industrial use of the high seas
+PD26_sit15.wav,at this moment we have complete freedom to begin industrial use of the high seas
+PD46_sit13.wav,after a long marriage the couple was on the verge of breaking up
+PD14_sit10.wav,you cant store sweep or catch up on it either
+PD43_sit10.wav,you cant store sleep or catch up on it either
+PD56_sit12.wav,a small map on the opposite page shows where the trees grow
+PD30_sit12.wav,i hadnt even thought of that matter until a few miles back
+PD45_sit12.wav,i hadnt even thought of that matter until a few miles back
+PD52_sit12.wav,i hadnt even thought of that matter until a few miles back
+PD35_sit12.wav,to the east and north you can look into three other countries
+PD42_sit12.wav,to the east and north you can look into three other countries
+PD33_sit12.wav,at the sight of her owner she bounds joyfully about her pen
+PD40_sit12.wav,at the sight of her owner she bounds joyfully about her pen
+PD32_sit11.wav,as the day flecked by he asked a thousand crucial questions
+PD35_sit11.wav,as the day flecked by he asked a thousand crucial questions
+PD53_sit11.wav,a railroad has to go somewhere in order to make money
+PD37_sit12.wav,these new nations varied in terms of size populations and resources
+PD11_sit13.wav,all the people decided to go on a diet at the same time
+PD17_sit13.wav,all the people decided to go on a diet at the same time
+PD25_sit11.wav,in that certainty lies a great piece and a great joy
+PD06_sit10.wav,most of their friends were gone so they moved out
+PD55_sit10.wav,most of their friends were gone so they moved out
+PD24_sit11.wav,they work together to help to provide for the disabled children
+PD07_sit11.wav,the facility is open to the public and you may visit
+PD21_sit11.wav,the facility is open to the public and you may visit
+PD23_sit11.wav,the facility is open to the public and you may visit
+PD28_sit11.wav,the facility is open to the public and you may visit
+PD44_sit11.wav,the facility is open to the public and you may visit
+PD46_sit12.wav,the strangest of all employees relationships is that with the manager
+PD05_sit10.wav,i began to grow among the clothes in our closet
+PD27_sit10.wav,i began to grow among the clothes in our closet
+PD20_sit10.wav,most overweight people need to learn to be more assertive
+PD21_sit10.wav,at certain times i like being strong for someone else
+PD56_sit10.wav,at certain times i like being strong for someone else
+PD23_sit10.wav,it is a safe and effective drug when properly used
+PD25_sit10.wav,it is a safe and effective drug when properly used
+PD03_sit10.wav,i typed the letter and put it on his desk
+PD47_sit10.wav,i typed the letter and put it on his desk
+PD03_sit9.wav,your host tells me very much about how you live
+PD47_sit9.wav,your host tells me very much about how you live
+PD52_sit10.wav,you simply present your case as clearly as you can
+PD25_sit9.wav,there are going to be new mothers and fathers
+PD06_sit11.wav,you are not supposed to look at it like that
+PD55_sit11.wav,you are not really supposed to look at it like that
+PD21_sit9.wav,traveling is so tiring that eliminating stress is important
+PD50_sit9.wav,traveling is so tiring that eliminating stress is important
+PD18_sit9.wav,you can rent a mower from many garden stores
+PD06_sit7.wav,i feel i can play this weekend
+PD25_sit7.wav,i feel i can play this weekend
+PD55_sit7.wav,i feel i can play this weekend
+PD55_sit8.wav,defendant is either guilty or not guilty
+PD06_sit15.wav,remove the pan from the stove and slowly fill it with cool water to cool off
+PD44_sit8.wav,you would be better off taking a cold shower
+PD42_sit8.wav,you would be better off taking a cool shower
+PD05_sit8.wav,we selected places where families will be welcomed
+PD52_sit8.wav,we selected places where families will be welcomed
+PD48_sit8.wav,the strike spread throughout much of the state
+PD35_sit14.wav,the rich who could support an uplifted dwindling market take their money elsewhere
+PD35_sit7.wav,i was wet from the neck down
+PD49_sit7.wav,it shows up in the unlikeliest places
+PD18_sit14.wav,in total silence it was passed back to him from one row to another
+PD10_sit7.wav,the plot is leased with mysterious incidents
+PD28_sit14.wav,i like my work and am earning twice what i made before the accident
+PD44_sit14.wav,i like my work and am earning twice what i made before the accident
+PD12_sit7.wav,all telephone booths are easy to find
+PD20_sit7.wav,all telephone booths are easy to find
+PD17_sit14.wav,the staff tries to visit each home gardener during the summer to offer advice
+PD30_sit13.wav,that person is more likely to think about job changes when he is unhappy
+PD45_sit13.wav,that person is more likely to think about job changes when he is unhappy
+PD22_sit7.wav,the marriage went well from the start
+PD31_sit7.wav,the marriage went well from the start
+PD38_sit7.wav,the marriage went well from the start
+PD16_sit7.wav,all the big baseball players get treated
+PD16_sit6.wav,she filled the bag with tomatoes
+PD24_sit12.wav,when drilled the well provide all the water in the sound could use
+PD12_sit11.wav,sure this transistor is cheaper but well do the job
+PD37_sit11.wav,sure this transistor is cheaper but well do the job
+PD13_sit12.wav,desperate i began to bang on the exit door with both fists
+PD21_sit12.wav,there was solid evidence that our quarry was right under our noses
+PD43_sit13.wav,without its mother a baby animal will soon grow thinner and waste away
+PD26_sit6.wav,worse luck was still to come
+PD01_sit6.wav,my sister made the flower curtains
+PD05_sit6.wav,my sister made the flower curtains
+PD56_sit11.wav,fortunately for the world the hand is healed in a few months
+PD23_sit5.wav,i could barely sit down
+PD49_sit13.wav,the middle class worries about buying for fear they will lose their savings
+PD17_sit12.wav,they walked alone behind the flower garden with their heads hanging contritely
+PD27_sit11.wav,they bring it on in freighters and airliners and in cars
+PD52_sit11.wav,they bring it on in freighters and airliners and in cars
+PD03_sit11.wav,that is the request to his wife was not simply a gesture
+PD47_sit11.wav,that is the request to his wife was not simply a gesture
+PD18_sit11.wav,every time we disagree i go into the kitchen and soak
+PD29_sit11.wav,following routine tests i was put peacefully to sleep for surgery
+PD14_sit11.wav,i have always wondered how much money was left on the table
+PD34_sit11.wav,i have always wondered how much money was left on the table
+PD02_sit5.wav,he noted the fact carefully
+PD16_sit10.wav,thats important especially with the reduced speeds and shorter trips
+PD32_sit10.wav,thats important especially with the reduced speeds and shorter trips
+PD30_sit10.wav,giving away tickets to women attracted them to the games
+PD45_sit10.wav,giving away tickets to women attracted them to the games
+PD50_sit5.wav,i won a teaching award
+PD53_sit5.wav,i won a teaching award
+PD29_sit10.wav,you simply present your cases clearly as you can
+PD17_sit8.wav,i can train any dog in five minutes
+PD22_sit5.wav,wages are a key issue
+PD31_sit5.wav,wages are a key issue

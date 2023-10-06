@@ -1,0 +1,69 @@
+ddp_rank: 0
+Current time: DATE 25/07/2023 - TIME: 15:37:20
+Config:
+	my_id = test
+	generator_type = resnet
+	dir = ./PD_enhance
+	pretrain_dir = None
+	use_context_embed = False
+	use_context_loss = True
+	use_audio_processor = True
+	hop_length_rate = 4
+	use_DDP = True
+	n_steps = 2500
+	batch_size = 32
+	lr = 0.0001
+	b1 = 0.5
+	b2 = 0.999
+	sample_interval = 100
+	verbose_interval = 100
+	num_residual_blocks = 8
+	n_conv_layers = 5
+	lambda_L1 = 5.0
+	lambda_ctx = 1.0
+	gamma = 0.1
+Find 3 gpus available
+./PD_enhance
+	./PD_enhance/cgan_resnet_test_samp
+	./PD_enhance/cgan_resnet_test_ckpt
+./PD_enhance/data/clean_trainset
+	./PD_enhance/data/clean_testset
+	./PD_enhance/data/clean_trainset
+	./PD_enhance/data/clean_testset
+./PD_enhance/data/clean_testset/PD23_sit11.wav
+	./PD_enhance/data/clean_testset/PD23_sit11.wav
+CREATED Dataset - DataLoader
+CREATED Losses
+CREATED ContextEncoder
+input num channels =  1
+CREATED ResnetGenerator
+CREATED NLayerDiscriminator
+INITIALIZED WEIGHT for G & D
+CREATED Optimizers
+CREATED Schedulers
+Model will be trained for: 2500 steps or 501 EPOCHS
+[Step 0/2500] [D loss: 0.000000] [G loss: 0.097117] [time: 25/07/2023-15:37:45]
+[Step 100/2500] [D loss: 0.000000] [G loss: 3.174008] [time: 25/07/2023-15:45:42]
+[Step 200/2500] [D loss: 0.000000] [G loss: 1.561711] [time: 25/07/2023-15:53:37]
+[Step 300/2500] [D loss: 0.000000] [G loss: 1.471280] [time: 25/07/2023-16:01:29]
+[Step 400/2500] [D loss: 0.000000] [G loss: 1.413342] [time: 25/07/2023-16:09:19]
+[Step 500/2500] [D loss: 0.000000] [G loss: 1.327800] [time: 25/07/2023-16:17:15]
+[Step 600/2500] [D loss: 0.000000] [G loss: 1.249367] [time: 25/07/2023-16:25:07]
+[Step 700/2500] [D loss: 0.000000] [G loss: 1.230086] [time: 25/07/2023-16:32:57]
+[Step 800/2500] [D loss: 0.000000] [G loss: 1.238321] [time: 25/07/2023-16:40:49]
+[Step 900/2500] [D loss: 0.000000] [G loss: 1.242478] [time: 25/07/2023-16:48:43]
+[Step 1000/2500] [D loss: 0.000000] [G loss: 1.186097] [time: 25/07/2023-16:56:34]
+[Step 1100/2500] [D loss: 0.000000] [G loss: 1.292645] [time: 25/07/2023-17:05:16]
+[Step 1200/2500] [D loss: 0.000000] [G loss: 1.386120] [time: 25/07/2023-17:13:16]
+[Step 1300/2500] [D loss: 0.000000] [G loss: 1.327886] [time: 25/07/2023-17:24:01]
+[Step 1400/2500] [D loss: 0.000000] [G loss: 1.305780] [time: 25/07/2023-17:37:18]
+[Step 1500/2500] [D loss: 0.000000] [G loss: 1.258720] [time: 25/07/2023-17:50:17]
+[Step 1600/2500] [D loss: 0.000000] [G loss: 1.182743] [time: 25/07/2023-18:03:11]
+[Step 1700/2500] [D loss: 0.000000] [G loss: 1.213117] [time: 25/07/2023-18:14:44]
+[Step 1800/2500] [D loss: 0.000000] [G loss: 1.227780] [time: 25/07/2023-18:28:27]
+[Step 1900/2500] [D loss: 0.000000] [G loss: 1.206549] [time: 25/07/2023-18:41:27]
+[Step 2000/2500] [D loss: 0.000000] [G loss: 1.210154] [time: 25/07/2023-18:54:54]
+[Step 2100/2500] [D loss: 0.000000] [G loss: 1.212088] [time: 25/07/2023-19:06:59]
+[Step 2200/2500] [D loss: 0.000000] [G loss: 1.182927] [time: 25/07/2023-19:20:37]
+[Step 2300/2500] [D loss: 0.000000] [G loss: 1.213265] [time: 25/07/2023-19:32:48]
+[Step 2400/2500] [D loss: 0.000000] [G loss: 1.165783] [time: 25/07/2023-19:45:53]
